@@ -1,0 +1,1011 @@
+id,stop_id,postcode,stop_name,stop_lat,stop_lon,mode,state_code
+1,Unknown,2336,Aberdeen Macqueen St Stairs,-32.16689969,150.8919751,train,NSW
+2,Unknown,2336,Aberdeen Macqueen St Ramp,-32.16688641,150.8919573,train,NSW
+3,Unknown,2289,Adamstown Park Ave Path,-32.9337056,151.7204518,train,NSW
+4,Unknown,2305,Adamstown St James Rd Stairs,-32.93341396,151.7203632,train,NSW
+5,Unknown,2305,Adamstown St James Rd Ramp,-32.93340162,151.7203474,train,NSW
+6,Unknown,2289,Adamstown Park Ave Path,-32.93382729,151.7202364,train,NSW
+7,Unknown,2527,Albion Park Burroo St Ramp,-34.56340933,150.79939,train,NSW
+8,Unknown,2527,Albion Park Princes Hwy Ramp,-34.56350712,150.79918930000002,train,NSW
+9,Unknown,2527,Albion Park Princes Hwy Stairs,-34.56293995,150.798574,train,NSW
+10,Unknown,2527,Albion Park Princes Hwy Ramp,-34.56278202,150.7984185,train,NSW
+11,Unknown,2220,Allawah Railway Pde Ramp,-33.96996874,151.11494480000002,train,NSW
+12,Unknown,2220,Allawah Roberts Lane Ramp,-33.96953727,151.1146945,train,NSW
+13,Unknown,2220,Allawah Roberts Lane Stairs,-33.96949011,151.11456669999998,train,NSW
+14,Unknown,2220,Allawah Railway Pde Lift,-33.96987782,151.1144352,train,NSW
+15,Unknown,2218,Allawah Railway Pde Ramp,-33.96988689,151.1142405,train,NSW
+16,Unknown,2203,Arlington LR Grove St Path,-33.9020453,151.1381593,train,NSW
+17,Unknown,2203,Arlington LR Constitution Rd Path,-33.902049700000006,151.13804340000002,train,NSW
+18,Unknown,2205,Arncliffe The Arcade  Stairs,-33.93692447,151.1474278,train,NSW
+19,Unknown,2205,Arncliffe The Arcade  Lift,-33.93696302,151.1474227,train,NSW
+20,Unknown,2205,Arncliffe Firth St Lift,-33.93677457,151.1468602,train,NSW
+21,Unknown,2205,Arncliffe Firth St Stairs,-33.93671781,151.1468509,train,NSW
+22,Unknown,2064,Artarmon Valetta Lane Ramp,-33.80823377,151.1847419,train,NSW
+23,Unknown,2064,Artarmon Hampden Rd Lift,-33.80875941,151.1847201,train,NSW
+24,Unknown,2064,Artarmon Hampden Rd Stairs,-33.80854065,151.1844285,train,NSW
+25,Unknown,2131,Ashfield Station St Lift,-33.88744211,151.1259581,train,NSW
+26,Unknown,2131,Ashfield Station St Stairs,-33.88739665,151.1258025,train,NSW
+27,Unknown,2131,Ashfield Brown St Lift,-33.88789161,151.1257974,train,NSW
+28,Unknown,2131,Ashfield Brown  St Stairs,-33.887775,151.1255397,train,NSW
+29,Unknown,2077,Asquith Haldane St Path,-33.68869132,151.1082656,train,NSW
+30,Unknown,2077,Asquith Pacific Hwy Ramp,-33.68848916,151.1079991,train,NSW
+31,Unknown,2144,Auburn Rawson St Ramp,-33.8492876,151.03329140000002,train,NSW
+32,Unknown,2144,Auburn South Pde Stairs,-33.849663,151.03291919999998,train,NSW
+33,Unknown,2144,Auburn South Pde Ramp,-33.84946375,151.03272090000002,train,NSW
+34,Unknown,2515,Austinmer Gilchrist St Path,-34.306520500000005,150.9293511,train,NSW
+35,Unknown,2515,Austinmer Railway Ave Path,-34.30650136,150.9289071,train,NSW
+36,Unknown,2283,Awaba Adelaide St Ramp,-33.0129167,151.5421589,train,NSW
+37,Unknown,2283,Awaba Adelaide St Path,-33.01291676,151.54213280000002,train,NSW
+38,Unknown,2283,Awaba Wilton Rd Ramp,-33.01310914,151.5420747,train,NSW
+39,Unknown,2216,Banksia Hattersley St Ramp,-33.94490035,151.140849,train,NSW
+40,Unknown,2216,Banksia Railway St Ramp,-33.94479129,151.1404987,train,NSW
+41,Unknown,2216,Banksia Railway St Stairs,-33.94488347,151.14044819999998,train,NSW
+42,Unknown,2200,Bankstown North Tce Ramp,-33.91768635,151.03426969999998,train,NSW
+43,Unknown,2200,Bankstown Bankstown City Plza Path,-33.91805216,151.03411,train,NSW
+44,Unknown,2200,Bankstown Bankstown City Plza Path,-33.91778824,151.0337625,train,NSW
+45,Unknown,2207,Bardwell Park Hartill Law Ave Stairs,-33.93137824,151.125379,train,NSW
+46,Unknown,2574,Bargo Great Southern Rd Path,-34.29097858,150.58017560000002,train,NSW
+47,Unknown,2574,Bargo Great Southern Rd Ramp,-34.29098411,150.5801501,train,NSW
+48,Unknown,2574,Bargo Railside Ave Ramp,-34.29100778,150.58002050000002,train,NSW
+49,Unknown,2574,Bargo Railside Ave Path,-34.29104476,150.58000769999998,train,NSW
+50,Unknown,2119,Beecroft Sutherland Rd Path,-33.74921627,151.0667339,train,NSW
+51,Unknown,2119,Beecroft Wongala Cres Path,-33.74904472,151.0663377,train,NSW
+52,Unknown,2119,Beecroft Wongala Cres Path,-33.74923381,151.0662247,train,NSW
+53,Unknown,2786,Bell Sandham  Rd Ramp,-33.5061656,150.27936119999998,train,NSW
+54,Unknown,2786,Bell Chiefley Rd Stairs,-33.50623435,150.2790794,train,NSW
+55,Unknown,2518,Bellambi Bellambi Lane Ramp,-34.36261281,150.9101311,train,NSW
+56,Unknown,2192,Belmore Burwood Rd Lift,-33.91724884,151.08833719999998,train,NSW
+57,Unknown,2192,Belmore Burwood Rd Stairs,-33.91722736,151.0883244,train,NSW
+58,Unknown,2141,Berala Campbell St Path,-33.8719773,151.0328288,train,NSW
+59,Unknown,2141,Berala Woodburn Rd Path,-33.87139384,151.0323272,train,NSW
+60,Unknown,2322,Beresfield Lawson Ave Stairs,-32.79940714,151.6585784,train,NSW
+61,Unknown,2322,Beresfield Addison St Stairs,-32.79958398,151.658334,train,NSW
+62,Unknown,2322,Beresfield Addison St Lift,-32.79947121,151.6581617,train,NSW
+63,Unknown,2081,Berowra Pacific Hwy Ramp,-33.62291449,151.1535638,train,NSW
+64,Unknown,2081,Berowra Pacific Hwy Ramp,-33.62300205,151.1531421,train,NSW
+65,Unknown,2535,Berry Station Rd Path,-34.78027342,150.69672350000002,train,NSW
+66,Unknown,2209,Beverly Hills King Georges Rd Stairs,-33.94914069,151.0808676,train,NSW
+67,Unknown,2209,Beverly Hills King Georges Rd Lift,-33.94913026,151.0808291,train,NSW
+68,Unknown,2209,Beverly Hills King Georges Rd Stairs,-33.94926254,151.0804784,train,NSW
+69,Unknown,2207,Bexley North Bexley Rd Stairs,-33.9374812,151.1139261,train,NSW
+70,Unknown,2143,Birrong Avalon St Stairs,-33.89253644,151.0243134,train,NSW
+71,Unknown,2785,Blackheath Great Western Hwy Stairs,-33.63397248,150.28459030000002,train,NSW
+72,Unknown,2785,Blackheath Station St Stairs,-33.63400546,150.2842535,train,NSW
+73,Unknown,2148,Blacktown First Ave Stairs,-33.76777702,150.9080196,train,NSW
+74,Unknown,2148,Blacktown First Ave Stairs,-33.7677336,150.90796890000001,train,NSW
+75,Unknown,2148,Blacktown First Ave Lift,-33.76775412,150.9079614,train,NSW
+76,Unknown,2148,Blacktown Jim Simpson Lane Stairs,-33.76894183,150.9073054,train,NSW
+77,Unknown,2148,Blacktown Jim Simpson Lane Escalators,-33.76896727,150.9072963,train,NSW
+78,Unknown,2148,Blacktown Old Richmond Rd Lift,-33.7678292,150.9071472,train,NSW
+79,Unknown,2148,Blacktown Patrick St Lift,-33.76889928,150.9070828,train,NSW
+80,Unknown,2148,Blacktown Patrick St Stairs,-33.76903303,150.90698989999999,train,NSW
+81,Unknown,2148,Blacktown Old Richmond Rd Stairs,-33.76779802,150.9069245,train,NSW
+82,Unknown,2774,Blaxland Wilson Way Lift,-33.74369934,150.60996269999998,train,NSW
+83,Unknown,2774,Blaxland Wilson Way Stairs,-33.74366205,150.60980580000003,train,NSW
+84,Unknown,2774,Blaxland Great Western Hwy Stairs,-33.7438036,150.6096862,train,NSW
+85,Unknown,2774,Blaxland Great Western Hwy Ramp,-33.74411767,150.60938869999998,train,NSW
+86,Unknown,2774,Blaxland Great Western Hwy Stairs,-33.74404944,150.6093287,train,NSW
+87,Unknown,2541,Bomaderry Meroo St Path,-34.85374494,150.60977019999999,train,NSW
+88,Unknown,2533,Bombo Princes Hwy Stairs,-34.65868669,150.8537686,train,NSW
+89,Unknown,2533,Bombo Princes Hwy Ramp,-34.65885576,150.8537564,train,NSW
+90,Unknown,2022,Bondi Junction Grafton St Stairs,-33.89103017,151.24859650000002,train,NSW
+91,Unknown,2022,Bondi Junction Rowe St Ramp,-33.89186986,151.24836630000001,train,NSW
+92,Unknown,2022,Bondi Junction Grafton St Stairs,-33.89099409,151.2482086,train,NSW
+93,Unknown,2284,Booragul Fourth St Ramp,-32.97169903,151.605168,train,NSW
+94,Unknown,2284,Booragul Station St Ramp,-32.97190014,151.60479080000002,train,NSW
+95,Unknown,2576,Bowral Station St Path,-34.47792483,150.4169743,train,NSW
+96,Unknown,2576,Bowral Kirkham  Rd Path,-34.47763745,150.4167974,train,NSW
+97,Unknown,2576,Bowral Wingercarribee St Stairs,-34.47841685,150.4165949,train,NSW
+98,Unknown,2576,Bowral Wingercarribee St Lift,-34.47837068,150.4165765,train,NSW
+99,Unknown,2576,Bowral Wingercarribee St Lift,-34.47827715,150.41639469999998,train,NSW
+100,Unknown,2576,Bowral Kirkham  Rd Stairs,-34.47822202,150.41637930000002,train,NSW
+101,Unknown,2335,Branxton Railway St Ramp,-32.66221027,151.3459324,train,NSW
+102,Unknown,2335,Branxton Railway St Ramp,-32.66209242,151.3455358,train,NSW
+103,Unknown,2292,Broadmeadow Graham Rd Stairs,-32.92269277,151.7354129,train,NSW
+104,Unknown,2292,Broadmeadow Brown Rd Ramp,-32.92216413,151.73522130000003,train,NSW
+105,Unknown,2292,Broadmeadow Graham Rd Ramp,-32.92289153,151.7350658,train,NSW
+106,Unknown,2292,Broadmeadow Brown Rd Stairs,-32.92236891,151.7349462,train,NSW
+107,Unknown,2784,Bullaburra Great Western Hwy Ramp,-33.72351988,150.4152013,train,NSW
+108,Unknown,2784,Bullaburra Railway Pde Stairs,-33.72316759,150.41498909999999,train,NSW
+109,Unknown,2516,Bulli Park Rd Lift,-34.33384472,150.9150696,train,NSW
+110,Unknown,2516,Bulli Park Rd Lift,-34.3338201,150.9149316,train,NSW
+111,Unknown,2516,Bulli Franklin Ave Path,-34.33428666,150.91491430000002,train,NSW
+112,Unknown,2516,Bulli Railway St Path,-34.33433961,150.9146887,train,NSW
+113,Unknown,2578,Bundanoon Erith St Ramp,-34.6557524,150.2997407,train,NSW
+114,Unknown,2578,Bundanoon Church St Path,-34.65604988,150.29957280000002,train,NSW
+115,Unknown,2576,Burradoo Burradoo Rd Path,-34.49418601,150.39812959999998,train,NSW
+116,Unknown,2576,Burradoo Burradoo Rd Ramp,-34.49418573,150.3978582,train,NSW
+117,Unknown,2134,Burwood Burwood Rd Stairs,-33.87704552,151.1038525,train,NSW
+118,Unknown,2134,Burwood Burwood Rd Path,-33.87718853,151.1038248,train,NSW
+119,Unknown,2166,Cabramatta Broomfield St Lift,-33.89464265,150.93910469999997,train,NSW
+120,Unknown,2166,Cabramatta Broomfield St Stairs,-33.89480632,150.93904809999998,train,NSW
+121,Unknown,2166,Cabramatta Railway Pde Lift,-33.89459892,150.93881340000002,train,NSW
+122,Unknown,2166,Cabramatta Railway Pde Ramp,-33.89494229,150.9387321,train,NSW
+123,Unknown,2166,Cabramatta Railway Pde Path,-33.89510227,150.9386596,train,NSW
+124,Unknown,2142,Camellia Grand Ave Ramp,-33.81918103,151.024141,train,NSW
+125,Unknown,2560,Campbelltown Railway St Ramp,-34.06418971,150.8148139,train,NSW
+126,Unknown,2560,Campbelltown Hurley St Lift,-34.06359144,150.8147393,train,NSW
+127,Unknown,2560,Campbelltown Hurley St Path,-34.06369952,150.81462280000002,train,NSW
+128,Unknown,2560,Campbelltown Hurley St Stairs,-34.06367954,150.81461409999997,train,NSW
+129,Unknown,2560,Campbelltown Farrow Rd Stairs,-34.06302424,150.81440969999997,train,NSW
+130,Unknown,2560,Campbelltown Hurley St Lift,-34.06320084,150.81430880000002,train,NSW
+131,Unknown,2560,Campbelltown Farrow Rd Stairs,-34.06332332,150.8140219,train,NSW
+132,Unknown,2194,Campsie Beamish St Ramp,-33.91049597,151.103574,train,NSW
+133,Unknown,2194,Campsie Beamish St Ramp,-33.91039285,151.10355769999998,train,NSW
+134,Unknown,2166,Canley Vale First Ave Stairs,-33.88744308,150.9436897,train,NSW
+135,Unknown,2166,Canley Vale First Ave Ramp,-33.88746282,150.94362969999997,train,NSW
+136,Unknown,2166,Canley Vale Railway Pde Stairs,-33.88723441,150.9434805,train,NSW
+137,Unknown,2166,Canley Vale Railway Pde Ramp,-33.88734662,150.94341980000002,train,NSW
+138,Unknown,2193,Canterbury Canterbury Rd Path,-33.912116299999994,151.11901369999998,train,NSW
+139,Unknown,2000,Capitol Square LR Hay St Path,-33.87970841,151.2055584,train,NSW
+140,Unknown,2000,Capitol Square LR Hay St Path,-33.87980415,151.205512,train,NSW
+141,Unknown,2285,Cardiff Main Rd Path,-32.9412794,151.66281980000002,train,NSW
+142,Unknown,2285,Cardiff Mary St Stairs,-32.94145731,151.6623011,train,NSW
+143,Unknown,2285,Cardiff Mary St Lift,-32.94140925,151.6622554,train,NSW
+144,Unknown,2229,Caringbah Kingsway  Lift,-34.04162513,151.1219142,train,NSW
+145,Unknown,2229,Caringbah Kingsway  Stairs,-34.04157881,151.121856,train,NSW
+146,Unknown,2118,Carlingford Lloyds Ave Path,-33.78217116,151.047273,train,NSW
+147,Unknown,2118,Carlingford James St Path,-33.7821273,151.04684419999998,train,NSW
+148,Unknown,2118,Carlingford Lloyds Ave Ramp,-33.78270924,151.046786,train,NSW
+149,Unknown,2118,Carlingford Lloyds Ave Path,-33.78287488,151.0466571,train,NSW
+150,Unknown,2118,Carlingford Pennant Hills Rd Path,-33.78304357,151.04635109999998,train,NSW
+151,Unknown,2218,Carlton Railway Pde Lift,-33.96842236,151.1245362,train,NSW
+152,Unknown,2218,Carlton Carlton Pde Lift,-33.96801021,151.1243905,train,NSW
+153,Unknown,2218,Carlton Railway Pde Stairs,-33.96846874,151.12434419999997,train,NSW
+154,Unknown,2218,Carlton Carlton Pde Stairs,-33.96809212,151.12423769999998,train,NSW
+155,Unknown,2218,Carlton Carlton Pde Ramp,-33.96798067,151.1241795,train,NSW
+156,Unknown,2163,Carramar Sandal Cres Path,-33.88476847,150.96072980000002,train,NSW
+157,Unknown,2163,Carramar Carramar Ave Path,-33.88431636,150.9605645,train,NSW
+158,Unknown,2170,Casula Casula Rd Stairs,-33.95004957,150.9121379,train,NSW
+159,Unknown,2170,Casula Casula Rd Lift,-33.95035283,150.91207980000001,train,NSW
+160,Unknown,2170,Casula Casula Rd Lift,-33.950187400000004,150.9117283,train,NSW
+161,Unknown,2170,Casula Casula Rd Path,-33.95036803,150.91170580000002,train,NSW
+162,Unknown,2170,Casula Casula Rd Stairs,-33.95032929999999,150.9116866,train,NSW
+163,Unknown,2000,Central Elizabeth St Ramp,-33.88352173,151.2079563,train,NSW
+164,Unknown,2000,Central Elizabeth St Lift,-33.88371032,151.20789950000002,train,NSW
+165,Unknown,2000,Central Elizabeth St Stairs,-33.88378577,151.207862,train,NSW
+166,Unknown,2000,Central Eddy Ave Stairs,-33.88302433,151.2070762,train,NSW
+167,Unknown,2000,Central Eddy Ave Escalators,-33.883208200000006,151.20701119999998,train,NSW
+168,Unknown,2000,Central Eddy Ave Lift,-33.88353624,151.20697109999998,train,NSW
+169,Unknown,2000,Central Eddy Ave Path,-33.88253976,151.2068849,train,NSW
+170,Unknown,2000,Central Chalmers St Lift,-33.88541283,151.2068475,train,NSW
+171,Unknown,2000,Central Chalmers St Escalators,-33.88544474,151.206822,train,NSW
+172,Unknown,2000,Central Chalmers St Stairs,-33.88547844,151.20679009999998,train,NSW
+173,Unknown,2000,Central Eddy Ave Path,-33.88233009,151.2065038,train,NSW
+174,Unknown,2000,Central Eddy Ave Stairs,-33.88210298,151.2061254,train,NSW
+175,Unknown,2000,Central Eddy Ave Escalators,-33.88213747,151.20609869999998,train,NSW
+176,Unknown,2000,Central Pitt St Path,-33.88236674,151.2058136,train,NSW
+177,Unknown,2000,Central Lee St Path,-33.88398512,151.20426630000003,train,NSW
+178,Unknown,2067,Chatswood Post Office Lane Stairs,-33.79722746,151.1814421,train,NSW
+179,Unknown,2067,Chatswood Post Office Lane Escalators,-33.79718558,151.18142869999997,train,NSW
+180,Unknown,2067,Chatswood Orchard Rd Stairs,-33.79677523,151.1813805,train,NSW
+181,Unknown,2067,Chatswood Orchard Rd Escalators,-33.79673649,151.1813641,train,NSW
+182,Unknown,2067,Chatswood Post Office Lane Lift,-33.79717607,151.1813031,train,NSW
+183,Unknown,2067,Chatswood Thomas St Lift,-33.79765173,151.1812637,train,NSW
+184,Unknown,2067,Chatswood Thomas St Stairs,-33.79766719,151.18118130000002,train,NSW
+185,Unknown,2067,Chatswood Orchard Rd Lift,-33.79673526,151.1811761,train,NSW
+186,Unknown,2067,Chatswood Railway St Lift,-33.79689881,151.1807121,train,NSW
+187,Unknown,2067,Chatswood Thomas Lane Lift,-33.7979301,151.18069330000003,train,NSW
+188,Unknown,2067,Chatswood Railway St Stairs,-33.79709534,151.18067380000002,train,NSW
+189,Unknown,2067,Chatswood Thomas St Stairs,-33.797903000000005,151.180647,train,NSW
+190,Unknown,2067,Chatswood Railway St Escalators,-33.79705047,151.1805363,train,NSW
+191,Unknown,2067,Chatswood Railway St Stairs,-33.79701563,151.1805215,train,NSW
+192,Unknown,2119,Cheltenham Cheltenham Rd Stairs,-33.75539745,151.0781497,train,NSW
+193,Unknown,2119,Cheltenham Cheltenham Rd Lift,-33.75543909,151.0781092,train,NSW
+194,Unknown,2162,Chester Hil Chester Hill Rd Path,-33.88368818,151.00046269999999,train,NSW
+195,Unknown,2000,Circular Quay Alfred St Stairs,-33.86146378,151.21079450000002,train,NSW
+196,Unknown,2000,Circular Quay Alfred St Escalators,-33.86127776,151.2107739,train,NSW
+197,Unknown,2000,Circular Quay Alfred St Escalators,-33.86143954,151.2107457,train,NSW
+198,Unknown,2000,Circular Quay Alfred St Lift,-33.86124347,151.2107343,train,NSW
+199,Unknown,2000,Circular Quay Alfred St Lift,-33.86146637,151.2107121,train,NSW
+200,Unknown,2000,Circular Quay Alfred St Stairs,-33.86131441,151.21065919999998,train,NSW
+201,Unknown,2000,Circular Quay Alfred St Stairs,-33.86131245,151.2106239,train,NSW
+202,Unknown,2000,Circular Quay Alfred St Stairs,-33.86138049,151.21061559999998,train,NSW
+203,Unknown,2000,Circular Quay Alfred St Escalators,-33.86125995,151.2105656,train,NSW
+204,Unknown,2000,Circular Quay Alfred St Escalators,-33.86139905,151.2103289,train,NSW
+205,Unknown,2756,Clarendon Racecource Rd Ramp,-33.60844245,150.7878928,train,NSW
+206,Unknown,2756,Clarendon Racecource Rd Path,-33.60848854,150.787844,train,NSW
+207,Unknown,2756,Clarendon Racecource Rd Ramp,-33.60859421,150.7877637,train,NSW
+208,Unknown,2142,Clyde Berry St Ramp,-33.83554673,151.0170387,train,NSW
+209,Unknown,2142,Clyde Factory St Ramp,-33.83606198,151.0165639,train,NSW
+210,Unknown,2508,Coalcliff Lawrence Hargrave  Dr Stairs,-34.24253571,150.97705200000001,train,NSW
+211,Unknown,2284,Cockle Creek Lake Rd Stairs,-32.94246711,151.62443059999998,train,NSW
+212,Unknown,2284,Cockle Creek Creek Reserve Rd Path,-32.94287548,151.62381259999998,train,NSW
+213,Unknown,2515,Coledale Cater St Stairs,-34.28989285,150.94303100000002,train,NSW
+214,Unknown,2226,Como Railway Rd Stairs,-34.00454075,151.0683305,train,NSW
+215,Unknown,2226,Como Railway Rd Stairs,-34.00437623,151.068248,train,NSW
+216,Unknown,2226,Como Como Pde Ramp,-34.00447157,151.0676891,train,NSW
+217,Unknown,2138,Concord West Queen St Stairs,-33.84809272,151.08595259999998,train,NSW
+218,Unknown,2138,Concord West Queen St Lift,-33.84803171,151.0859019,train,NSW
+219,Unknown,2138,Concord West King St Stairs,-33.84821375,151.0852126,train,NSW
+220,Unknown,2138,Concord West King St Lift,-33.84808986,151.08519950000002,train,NSW
+221,Unknown,2138,Concord West King St Stairs,-33.84795404,151.08519040000002,train,NSW
+222,Unknown,2500,Coniston Bridge St Stairs,-34.43823905,150.8851205,train,NSW
+223,Unknown,2500,Coniston Gladsone Ave Ramp,-34.43796566,150.88484499999998,train,NSW
+224,Unknown,2000,Convention Centre LR Darling Dr Ramp,-33.87286403,151.1981517,train,NSW
+225,Unknown,2518,Corrimal Duff Pde Path,-34.37549456,150.9051489,train,NSW
+226,Unknown,2518,Corrimal Railway St Path,-34.37567312,150.9048905,train,NSW
+227,Unknown,2159,Cowan Pacific Hwy Ramp,-33.59298034,151.171638,train,NSW
+228,Unknown,2159,Cowan Pacific Hwy Ramp,-33.5937893,151.17156509999998,train,NSW
+229,Unknown,2505,Cringila Central Rd Stairs,-34.46708061,150.8799583,train,NSW
+230,Unknown,2505,Cringila Five Island Rd Stairs,-34.46737362,150.87827230000002,train,NSW
+231,Unknown,2230,Cronulla Cronulla St Path,-34.05684046,151.1517217,train,NSW
+232,Unknown,2230,Cronulla Cronulla St Path,-34.05572731,151.1515991,train,NSW
+233,Unknown,2230,Cronulla Cronulla St Path,-34.05535773,151.15143480000003,train,NSW
+234,Unknown,2132,Croydon Hennessy St Ramp,-33.88283666,151.11551540000002,train,NSW
+235,Unknown,2132,Croydon Paisley Rd Stairs,-33.8831857,151.1150828,train,NSW
+236,Unknown,2530,Dapto Station St Path,-34.4923588,150.7922224,train,NSW
+237,Unknown,2530,Dapto Staiton St Path,-34.49307785,150.79183390000003,train,NSW
+238,Unknown,2530,Dapto Bong Bong Rd Path,-34.49348285,150.7914602,train,NSW
+239,Unknown,2530,Dapto Bong Bong Rd Path,-34.493435,150.7913065,train,NSW
+240,Unknown,2114,Denistone Gordon Cres Path,-33.79951928,151.08675390000002,train,NSW
+241,Unknown,2020,Domestic Keith Smith Ave Stairs,-33.93362671,151.1805736,train,NSW
+242,Unknown,2020,Domestic Keith Smith Ave Lift,-33.93356911,151.1805681,train,NSW
+243,Unknown,2020,Domestic Keith Smith Ave Stairs,-33.93400809,151.1801419,train,NSW
+244,Unknown,2020,Domestic Keith Smith Ave Escalators,-33.93400343,151.18011330000002,train,NSW
+245,Unknown,2020,Domestic Keith Smith Ave Lift,-33.93398698,151.18004960000002,train,NSW
+246,Unknown,2767,Doonside School Pde Ramp,-33.76401541,150.8692816,train,NSW
+247,Unknown,2767,Doonside Cross St Ramp,-33.76362795,150.8692347,train,NSW
+248,Unknown,2264,Dora Creek Main Rd Path,-33.083823100000004,151.5010419,train,NSW
+249,Unknown,2264,Dora Creek Newport Rd Stairs,-33.08411433,151.5008644,train,NSW
+250,Unknown,2264,Dora Creek Newport Rd Stairs,-33.08402158,151.500698,train,NSW
+251,Unknown,2569,Douglas Park Camden Rd Path,-34.18323382,150.71054660000001,train,NSW
+252,Unknown,2569,Douglas Park Camden Rd Path,-34.18330344,150.7105388,train,NSW
+253,Unknown,2203,Dulwich Grove LR New Canterbury Rd Stairs,-33.904761,151.1390021,train,NSW
+254,Unknown,2203,Dulwich Grove LR New Canterbury Rd Lift,-33.9047721,151.1389753,train,NSW
+255,Unknown,2203,Dulwich Hill LR Bedford Cres Stairs,-33.910671799999996,151.14058469999998,train,NSW
+256,Unknown,2203,Dulwich Hill LR Bedford Cres Lift,-33.9106266,151.14055580000002,train,NSW
+257,Unknown,2117,Dundas Station St Path,-33.80402698,151.0331103,train,NSW
+258,Unknown,2117,Dundas Kissing Point Rd Ramp,-33.80388354,151.0329178,train,NSW
+259,Unknown,2117,Dundas Kissing Point Rd Stairs,-33.80389499,151.0328954,train,NSW
+260,Unknown,2117,Dundas Kissing Point Rd Path,-33.80339752,151.032467,train,NSW
+261,Unknown,2420,Dungog Brown St Ramp,-32.40255754,151.759385,train,NSW
+262,Unknown,2420,Dungog Brown St Stairs,-32.40249309,151.759251,train,NSW
+263,Unknown,2213,East Hills Thompson Lane Path,-33.96201112,150.9847269,train,NSW
+264,Unknown,2213,East Hills Park Rd Ramp,-33.96157358,150.9844493,train,NSW
+265,Unknown,2213,East Hills Park Rd Stairs,-33.96164228,150.9843435,train,NSW
+266,Unknown,2213,East Hills Park Rd Ramp,-33.96173087,150.98425519999998,train,NSW
+267,Unknown,2323,East Maitland Melbourne St Stairs,-32.74457268,151.58747409999998,train,NSW
+268,Unknown,2753,East Richmond Bourke St Ramp,-33.60180319,150.7588294,train,NSW
+269,Unknown,2753,East Richmond Bourke St Stairs,-33.6017457,150.7587291,train,NSW
+270,Unknown,2122,Eastwood Railway Pde Ramp,-33.78992993,151.08266709999998,train,NSW
+271,Unknown,2122,Eastwood Railway Pde Ramp,-33.79041058,151.0826361,train,NSW
+272,Unknown,2122,Eastwood Railway Pde Lift,-33.79017064,151.0825639,train,NSW
+273,Unknown,2122,Eastwood West Pde Lift,-33.79014905,151.08200219999998,train,NSW
+274,Unknown,2122,Eastwood West Pde Path,-33.79014802,151.0819726,train,NSW
+275,Unknown,2027,Edgecliff New South Head Rd Path,-33.87893677,151.236154,train,NSW
+276,Unknown,2174,Edmondson Park Soliders Pde Lift,-33.96930476,150.8588642,train,NSW
+277,Unknown,2174,Edmondson Park Soliders Pde Stairs,-33.96936246,150.8588449,train,NSW
+278,Unknown,2750,Emu Plains Old Bathurst Rd Stairs,-33.74577768,150.6714125,train,NSW
+279,Unknown,2750,Emu Plains Mackellar St Stairs,-33.74552422,150.6713807,train,NSW
+280,Unknown,2750,Emu Plains Old Bathurst Rd Lift,-33.74582701,150.6713326,train,NSW
+281,Unknown,2750,Emu Plains Mackellar St Lift,-33.74565742,150.67128359999998,train,NSW
+282,Unknown,2233,Engadine Princes Hwy Ramp,-34.06753979,151.0148428,train,NSW
+283,Unknown,2233,Engadine Princes Hwy Ramp,-34.06719539,151.0147353,train,NSW
+284,Unknown,2233,Engadine Princes Hwy Lift,-34.06776904,151.0146815,train,NSW
+285,Unknown,2233,Engadine Princes Hwy Lift,-34.06738183,151.01455159999998,train,NSW
+286,Unknown,2121,Epping Langston Pl Path,-33.77254801,151.0822785,train,NSW
+287,Unknown,2121,Epping Beecroft Rd Stairs,-33.77284112,151.0818724,train,NSW
+288,Unknown,2121,Epping Beecroft Rd Lift,-33.77265225,151.0818045,train,NSW
+289,Unknown,2121,Epping Beecroft Rd Stairs,-33.77291584,151.0816408,train,NSW
+290,Unknown,2121,Epping Beecroft Rd Lift,-33.77272037,151.0815679,train,NSW
+291,Unknown,2043,Ersineville Erskineville Rd Path,-33.90005302,151.1855565,train,NSW
+292,Unknown,2579,Exeter Ringwood Rd Path,-34.61346677,150.31779980000002,train,NSW
+293,Unknown,2579,Exeter Bundanoon Rd Path,-34.61337723,150.3173592,train,NSW
+294,Unknown,2000,Exhibition Centre LR Darling Dr Ramp,-33.87677819,151.1994751,train,NSW
+295,Unknown,2000,Exhibition Centre LR Pyrmont St Stairs,-33.87678771,151.19925039999998,train,NSW
+296,Unknown,2165,Fairfield Dale St Path,-33.87255271,150.957049,train,NSW
+297,Unknown,2165,Fairfield Dale St Stairs,-33.87250991,150.95700680000002,train,NSW
+298,Unknown,2165,Fairfield The Crescent  Path,-33.87228222,150.9568998,train,NSW
+299,Unknown,2165,Fairfield The Crescent  Stairs,-33.87238918,150.9568642,train,NSW
+300,Unknown,2165,Fairfield Dale St Lift,-33.87264464,150.9568189,train,NSW
+301,Unknown,2165,Fairfield The Crescent  Lift,-33.87249718,150.956712,train,NSW
+302,Unknown,2519,Fairy Meadow Elliotts Rd Stairs,-34.39509691,150.8965771,train,NSW
+303,Unknown,2519,Fairy Meadow Elliotts Rd Stairs,-34.39505996,150.8964522,train,NSW
+304,Unknown,2283,Fassifern Tucker Cl Ramp,-32.98567466,151.5812081,train,NSW
+305,Unknown,2283,Fassifern Tucker Cl Stairs,-32.98568106,151.5811753,train,NSW
+306,Unknown,2283,Fassifern Tucker Cl Ramp,-32.98557663,151.58084169999998,train,NSW
+307,Unknown,2776,Faulconbridge Great Western Hwy Ramp,-33.69681647,150.5349352,train,NSW
+308,Unknown,2776,Faulconbridge Great Western Hwy Stairs,-33.69678014,150.5349261,train,NSW
+309,Unknown,2776,Faulconbridge Great Western Hwy Stairs,-33.69654047,150.534819,train,NSW
+310,Unknown,2776,Faulconbridge Great Western Hwy Stairs,-33.69633199,150.53456699999998,train,NSW
+311,Unknown,2776,Faulconbridge Great Western Hwy Ramp,-33.69636984,150.53443090000002,train,NSW
+312,Unknown,2009,Fish Market LR Miller St Path,-33.87046367,151.1921783,train,NSW
+313,Unknown,2009,Fish Market LR Miller St Path,-33.87076898,151.1916529,train,NSW
+314,Unknown,2140,Flemington The Crescent  Stairs,-33.86515478,151.0706765,train,NSW
+315,Unknown,2140,Flemington The Crescent  Stairs,-33.86389281,151.07023909999998,train,NSW
+316,Unknown,2534,Gerringong Belinda St Ramp,-34.74477882,150.8176504,train,NSW
+317,Unknown,2037,Glebe LR Burton St Stairs,-33.87707686,151.1875647,train,NSW
+318,Unknown,2037,Glebe LR Bayview St Ramp,-33.87729496,151.187253,train,NSW
+319,Unknown,2773,Glenbrook Burfitt Pde Ramp,-33.76902646,150.6212638,train,NSW
+320,Unknown,2167,Glenfield Railway Pde Stairs,-33.97207776,150.8935775,train,NSW
+321,Unknown,2167,Glenfield service road  Stairs,-33.97173912,150.893269,train,NSW
+322,Unknown,2167,Glenfield Railway Pde Lift,-33.97228674,150.89325569999997,train,NSW
+323,Unknown,2167,Glenfield service road  Lift,-33.97183034,150.8931736,train,NSW
+324,Unknown,2167,Glenfield Railway Pde Stairs,-33.972475700000004,150.8931251,train,NSW
+325,Unknown,2072,Gordon Werona Ave Ramp,-33.75598413,151.15486409999997,train,NSW
+326,Unknown,2072,Gordon Werona Ave Ramp,-33.75535054,151.154396,train,NSW
+327,Unknown,2072,Gordon St Johns Ave Stairs,-33.75612016,151.15417580000002,train,NSW
+328,Unknown,2072,Gordon St Johns Ave Ramp,-33.75596499,151.1540965,train,NSW
+329,Unknown,2072,Gordon Wade Lane Ramp,-33.75568255,151.1539778,train,NSW
+330,Unknown,2250,Gosford Burns Cres Lift,-33.42348002,151.34194430000002,train,NSW
+331,Unknown,2250,Gosford Burns Cres Stairs,-33.42348165,151.341911,train,NSW
+332,Unknown,2250,Gosford Showground Rd Stairs,-33.423330199999995,151.3414142,train,NSW
+333,Unknown,2250,Gosford Showground Rd Path,-33.42338314,151.3414013,train,NSW
+334,Unknown,2580,Goulburn Sloane St Path,-34.75901982,149.7205882,train,NSW
+335,Unknown,2580,Goulburn Park Rd Path,-34.75812698,149.7192494,train,NSW
+336,Unknown,2142,Granville Memorial Dr Ramp,-33.832776700000004,151.0114916,train,NSW
+337,Unknown,2142,Granville Memorial Dr Ramp,-33.83290042,151.0114055,train,NSW
+338,Unknown,2017,Green Square Botany Rd Stairs,-33.90596608,151.2030771,train,NSW
+339,Unknown,2017,Green Square Botany Rd Stairs,-33.90581837,151.20303140000001,train,NSW
+340,Unknown,2015,Green Square O'Riordan St Escalators,-33.90627864,151.20269340000002,train,NSW
+341,Unknown,2015,Green Square O'Riordan St Lift,-33.90621492,151.2025402,train,NSW
+342,Unknown,2334,Greta Nelson St Ramp,-32.68678796,151.384282,train,NSW
+343,Unknown,2334,Greta Mansfield St Ramp,-32.68667582,151.3840538,train,NSW
+344,Unknown,2161,Guildford Railway Tce Ramp,-33.854233,150.9846821,train,NSW
+345,Unknown,2161,Guildford Military Rd Ramp,-33.8538226,150.984647,train,NSW
+346,Unknown,2161,Guildford Railway Tce Stairs,-33.85444912,150.9845955,train,NSW
+347,Unknown,2161,Guildford Railway Tce Lift,-33.85456824,150.9844866,train,NSW
+348,Unknown,2161,Guildford Military Rd Ramp,-33.85416769,150.98440369999997,train,NSW
+349,Unknown,2161,Guildford Military Rd Stairs,-33.85425733,150.9843285,train,NSW
+350,Unknown,2161,Guildford Military Rd Stairs,-33.85433088,150.98427769999998,train,NSW
+351,Unknown,2161,Guildford Military Rd Lift,-33.85449232,150.984227,train,NSW
+352,Unknown,2227,Gymea Gymea Bay Rd Lift,-34.03490791,151.08520819999998,train,NSW
+353,Unknown,2227,Gymea Gymea Bay Rd Stairs,-34.03487034,151.0851825,train,NSW
+354,Unknown,2303,Hamilton Beaumont  St Stairs,-32.91802537,151.74851130000002,train,NSW
+355,Unknown,2303,Hamilton Beaumont  St Ramp,-32.9185304,151.7483975,train,NSW
+356,Unknown,2303,Hamilton Beaumont  St Stairs,-32.91838537,151.7482699,train,NSW
+357,Unknown,2303,Hamilton Beaumont  St Ramp,-32.91841859,151.7482552,train,NSW
+358,Unknown,2150,Harris Park Marion St Ramp,-33.82335758,151.00793259999998,train,NSW
+359,Unknown,2150,Harris Park Station W St Stairs,-33.82326239,151.0074636,train,NSW
+360,Unknown,2083,Hawkesbury River Danger Rd Stairs,-33.54700863,151.22671509999998,train,NSW
+361,Unknown,2083,Hawkesbury River Danger Rd Stairs,-33.54710145,151.2265988,train,NSW
+362,Unknown,2040,Hawthorne LR Darley Rd Path,-33.87958216,151.14755019999998,train,NSW
+363,Unknown,2040,Hawthorne LR Darley Rd Path,-33.8795003,151.1471067,train,NSW
+364,Unknown,2779,Hazelbrook Great Western Hwy Stairs,-33.72353033,150.454573,train,NSW
+365,Unknown,2779,Hazelbrook Great Western Hwy Ramp,-33.72308654,150.454017,train,NSW
+366,Unknown,2779,Hazelbrook Railway Pde Path,-33.72367342,150.45396730000002,train,NSW
+367,Unknown,2233,Heathcote Wilson Pde Path,-34.08792484,151.0084291,train,NSW
+368,Unknown,2233,Heathcote Wilson Pde Ramp,-34.08793975,151.00841440000002,train,NSW
+369,Unknown,2233,Heathcote Princes Hwy Ramp,-34.087785600000004,151.008298,train,NSW
+370,Unknown,2233,Heathcote Princes Hwy Path,-34.08780235,151.0082859,train,NSW
+371,Unknown,2508,Helensburgh Tunnel Rd Lift,-34.17718912,150.9942468,train,NSW
+372,Unknown,2508,Helensburgh Tunnel Rd Stairs,-34.17714736,150.99408590000002,train,NSW
+373,Unknown,2322,Hexham Maitland  Rd Stairs,-32.8287522,151.68431999999999,train,NSW
+374,Unknown,2320,High Street High St Stairs,-32.7413273,151.5644242,train,NSW
+375,Unknown,2320,High Street Le Darcy Dr Ramp,-32.74197207,151.5641955,train,NSW
+376,Unknown,2420,Hilldale Hilldale Rd Ramp,-32.50448435,151.64980500000001,train,NSW
+377,Unknown,2173,Holsworthy The Boulevarde  Stairs,-33.96292706,150.9565045,train,NSW
+378,Unknown,2173,Holsworthy The Boulevarde  Ramp,-33.96297936,150.9564564,train,NSW
+379,Unknown,2173,Holsworthy The Boulevarde  Lift,-33.96282915,150.95635190000002,train,NSW
+380,Unknown,2140,Homebush Loftus Cres Stairs,-33.86641951,151.0864214,train,NSW
+381,Unknown,2140,Homebush The Crescent  Ramp,-33.866968,151.0861075,train,NSW
+382,Unknown,2140,Homebush The Crescent  Stairs,-33.866926899999996,151.0860951,train,NSW
+383,Unknown,2077,Hornsby Hunter Lane Ramp,-33.703839,151.099774,train,NSW
+384,Unknown,2077,Hornsby George St Ramp,-33.70355385,151.09884269999998,train,NSW
+385,Unknown,2077,Hornsby George St Stairs,-33.70356981,151.09883119999998,train,NSW
+386,Unknown,2077,Hornsby George St Ramp,-33.70373548,151.0987466,train,NSW
+387,Unknown,2077,Hornsby Station St Path,-33.70347962,151.0980916,train,NSW
+388,Unknown,2203,Dulwich Hill Wardell Rd Stairs,-33.91105837,151.14114630000003,train,NSW
+389,Unknown,2193,Hurlstone Park Duntroon St Path,-33.91018981,151.1325419,train,NSW
+390,Unknown,2220,Hurstville Forest Rd Stairs,-33.96703441,151.10284769999998,train,NSW
+391,Unknown,2220,Hurstville Ormonde Pde Stairs,-33.96768463,151.102359,train,NSW
+392,Unknown,2220,Hurstville Ormonde Pde Lift,-33.96763205,151.10228850000001,train,NSW
+393,Unknown,2220,Hurstville Forest Rd Ramp,-33.96651714,151.1019021,train,NSW
+394,Unknown,2220,Hurstville Forest Rd Escalators,-33.96651714,151.1019021,train,NSW
+395,Unknown,2565,Ingleburn Ingleburn Rd Stairs,-33.99743831,150.86487580000002,train,NSW
+396,Unknown,2565,Ingleburn Ingleburn Rd Ramp,-33.99760206,150.8646186,train,NSW
+397,Unknown,2565,Ingleburn Ingleburn Rd Stairs,-33.9978895,150.86437780000003,train,NSW
+398,Unknown,2565,Ingleburn Stanley Rd Ramp,-33.99742169,150.86431330000002,train,NSW
+399,Unknown,2565,Ingleburn Stanley Rd Stairs,-33.99757653,150.8640104,train,NSW
+400,Unknown,2020,International Departure Plza Escalators,-33.93518102,151.166541,train,NSW
+401,Unknown,2020,International Departure Plza Lift,-33.93520792,151.1664707,train,NSW
+402,Unknown,2020,International Departure Plza Lift,-33.93519882,151.1664469,train,NSW
+403,Unknown,2226,Jannali Railway Cres Ramp,-34.01609101,151.0648408,train,NSW
+404,Unknown,2226,Jannali Railway Cres Path,-34.0158836,151.06475659999998,train,NSW
+405,Unknown,2226,Jannali Mitchell Ave Ramp,-34.01599453,151.0643704,train,NSW
+406,Unknown,2009,John Street Square LR Harris St Ramp,-33.86726224,151.1924304,train,NSW
+407,Unknown,2009,John Street Square LR Harvey St Stairs,-33.86716237,151.192075,train,NSW
+408,Unknown,2037,Jubilee Park LR Chapman Rd Stairs,-33.87532035,151.17861489999999,train,NSW
+409,Unknown,2037,Jubilee Park LR Chapman Rd Ramp,-33.87533885,151.17859769999998,train,NSW
+410,Unknown,2037,Jubilee Park LR Chapman Rd Ramp,-33.87556013,151.17836830000002,train,NSW
+411,Unknown,2780,Katoomba Goldsmith Pl Ramp,-33.71194806,150.3121686,train,NSW
+412,Unknown,2780,Katoomba Bathurst Rd Ramp,-33.71227605,150.3121389,train,NSW
+413,Unknown,2780,Katoomba Bathurst Rd Lift,-33.712282200000004,150.3119825,train,NSW
+414,Unknown,2780,Katoomba Bathurst Rd Stairs,-33.71225211,150.3117845,train,NSW
+415,Unknown,2526,Kembla Grange West Dapto  Ramp,-34.47012644,150.81779609999998,train,NSW
+416,Unknown,2533,Kiama Railway Pde Path,-34.67259919,150.8543663,train,NSW
+417,Unknown,2071,Killara Werona Ave Stairs,-33.76569485,151.16209990000002,train,NSW
+418,Unknown,2071,Killara Culworth Ave Stairs,-33.76585281,151.16179730000002,train,NSW
+419,Unknown,2011,Kings Cross Victoria St Stairs,-33.87403189,151.22250369999998,train,NSW
+420,Unknown,2011,Kings Cross Victoria St Lift,-33.87426901,151.2222047,train,NSW
+421,Unknown,2011,Kings Cross Victoria St Stairs,-33.87423751,151.2221958,train,NSW
+422,Unknown,2208,Kingsgrove Kingsgrove Rd Stairs,-33.94037591,151.10108459999998,train,NSW
+423,Unknown,2208,Kingsgrove Kingsgrove Rd Lift,-33.94048039,151.100874,train,NSW
+424,Unknown,2208,Kingsgrove Kingsgrove Rd Stairs,-33.94045759,151.10085690000003,train,NSW
+425,Unknown,2747,Kingswood Richmond Rd Ramp,-33.75823391,150.7202398,train,NSW
+426,Unknown,2747,Kingswood Great Western  Hwy Lift,-33.75842616,150.720233,train,NSW
+427,Unknown,2747,Kingswood Richmond Rd Stairs,-33.75823344,150.72011659999998,train,NSW
+428,Unknown,2747,Kingswood Great Western  Hwy Stairs,-33.75836745,150.720071,train,NSW
+429,Unknown,2232,Kirrawee Oak Rd Path,-34.03491126,151.07102030000001,train,NSW
+430,Unknown,2217,Kogarah Regent St Stairs,-33.96279661,151.1326915,train,NSW
+431,Unknown,2217,Kogarah Regent St Lift,-33.962746700000004,151.1326877,train,NSW
+432,Unknown,2217,Kogarah Station St Stairs,-33.96260526,151.13220139999999,train,NSW
+433,Unknown,2217,Kogarah Station St Lift,-33.96264352,151.1321917,train,NSW
+434,Unknown,2217,Kogarah Station St Stairs,-33.96268807,151.1321451,train,NSW
+435,Unknown,2217,Kogarah Station St Ramp,-33.96279569,151.1321022,train,NSW
+436,Unknown,2256,Koolewong Glenrock Pde Stairs,-33.46613312,151.31847630000001,train,NSW
+437,Unknown,2256,Koolewong Glenrock Pde Stairs,-33.46614412,151.3183699,train,NSW
+438,Unknown,2289,Kotara Park Ave Stairs,-32.94176982,151.6980592,train,NSW
+439,Unknown,2289,Kotara Kotara Pl Ramp,-32.94136917,151.6974634,train,NSW
+440,Unknown,2195,Lakemba The Boulevarde  Lift,-33.92010158,151.0763703,train,NSW
+441,Unknown,2195,Lakemba Railway Pde Lift,-33.91988075,151.0762517,train,NSW
+442,Unknown,2195,Lakemba Railway Pde Stairs,-33.919759,151.0761338,train,NSW
+443,Unknown,2773,Lapstone Explorers Rd Ramp,-33.77327862,150.6426352,train,NSW
+444,Unknown,2773,Lapstone Explorers Rd Stairs,-33.77355931,150.6426108,train,NSW
+445,Unknown,2783,Lawson Honour Ave Ramp,-33.71950783,150.43041719999997,train,NSW
+446,Unknown,2783,Lawson Great Western Hwy Ramp,-33.71914265,150.43006090000003,train,NSW
+447,Unknown,2783,Lawson Lotus St Ramp,-33.7189722,150.4296065,train,NSW
+448,Unknown,2783,Lawson Great Western Hwy Ramp,-33.71943599,150.42949919999998,train,NSW
+449,Unknown,2040,Leichhardt North LR James St Lift,-33.87498002,151.1550356,train,NSW
+450,Unknown,2040,Leichhardt North LR James St Stairs,-33.87499429,151.1550175,train,NSW
+451,Unknown,2040,Leichhardt North LR City West Link Rd Path,-33.874998,151.1535804,train,NSW
+452,Unknown,2163,Leightonfield Monier Sq Ramp,-33.88189412,150.98510280000002,train,NSW
+453,Unknown,2163,Leightonfield Christina Rd Ramp,-33.88126383,150.98496200000002,train,NSW
+454,Unknown,2179,Leppingon Rickard Rd Stairs,-33.95443956,150.8082668,train,NSW
+455,Unknown,2179,Leppingon Rickard Rd Lift,-33.95451545,150.80824630000004,train,NSW
+456,Unknown,2560,Leumeah O'Sullivan Rd Lift,-34.05067487,150.8308056,train,NSW
+457,Unknown,2560,Leumeah Plough Inn Rd Path,-34.05031272,150.8307679,train,NSW
+458,Unknown,2560,Leumeah Old Leumeah Rd Ramp,-34.05080184,150.8307251,train,NSW
+459,Unknown,2560,Leumeah Old Leumeah Rd Stairs,-34.05081332,150.8307025,train,NSW
+460,Unknown,2560,Leumeah O'Sullivan Rd Stairs,-34.05089506,150.830574,train,NSW
+461,Unknown,2560,Leumeah Plough Inn Rd Lift,-34.050482200000005,150.83056090000002,train,NSW
+462,Unknown,2560,Leumeah O'Sullivan Rd Ramp,-34.05102916,150.8304338,train,NSW
+463,Unknown,2780,Leura Railway Pde Stairs,-33.71212061,150.3311289,train,NSW
+464,Unknown,2049,Lewisham Thomas  St Stairs,-33.893109499999994,151.1475983,train,NSW
+465,Unknown,2049,Lewisham Railway Tce Stairs,-33.8936359,151.14754409999998,train,NSW
+466,Unknown,2049,Lewisham West LR Hudson St Path,-33.89385044,151.1434623,train,NSW
+467,Unknown,2049,Lewisham West LR Smith St Path,-33.8937862,151.1433429,train,NSW
+468,Unknown,2141,Lidcombe Church St Path,-33.86353155,151.0450641,train,NSW
+469,Unknown,2141,Lidcombe Church St Lift,-33.86346008,151.0447924,train,NSW
+470,Unknown,2141,Lidcombe Railway St Stairs,-33.86386973,151.0446447,train,NSW
+471,Unknown,2141,Lidcombe Railway St Lift,-33.86386787,151.04460690000002,train,NSW
+472,Unknown,2141,Lidcombe Church St Stairs,-33.86338085,151.0445549,train,NSW
+473,Unknown,2141,Lidcombe Railway St Stairs,-33.863756,151.04427900000002,train,NSW
+474,Unknown,2040,Lilyfield LR Catherine  St Ramp,-33.87419537,151.16482380000002,train,NSW
+475,Unknown,2040,Lilyfield LR Catherine  St Stairs,-33.87411594,151.16476809999997,train,NSW
+476,Unknown,2778,Linden Great Western Hwy Path,-33.71533075,150.50532180000002,train,NSW
+477,Unknown,2778,Linden Burke Rd Stairs,-33.71474436,150.50436630000002,train,NSW
+478,Unknown,2070,Lindfield Lindfield Ave Stairs,-33.77565442,151.1695097,train,NSW
+479,Unknown,2070,Lindfield Lindfield Ave Stairs,-33.77528844,151.1693856,train,NSW
+480,Unknown,2070,Lindfield Lindfield Ave Ramp,-33.77526721,151.1693706,train,NSW
+481,Unknown,2070,Lindfield Pacific Hwy Stairs,-33.77595464,151.1693,train,NSW
+482,Unknown,2070,Lindfield Lindfield Ave Stairs,-33.77508734,151.1692302,train,NSW
+483,Unknown,2070,Lindfield Pacific Hwy Ramp,-33.77573861,151.1691075,train,NSW
+484,Unknown,2070,Lindfield Pacific Hwy Stairs,-33.77570298,151.16907609999998,train,NSW
+485,Unknown,2250,Lisarow Pacific Hwy Stairs,-33.38218451,151.37017930000002,train,NSW
+486,Unknown,2250,Lisarow Pacific Hwy Path,-33.38219289,151.37016519999997,train,NSW
+487,Unknown,2250,Lisarow Railway Cres Stairs,-33.38207165,151.37008480000003,train,NSW
+488,Unknown,2250,Lisarow Railway Cres Path,-33.38205966,151.37007169999998,train,NSW
+489,Unknown,2790,Lithgow Main St Path,-33.48092585,150.156929,train,NSW
+490,Unknown,2790,Lithgow Railway Pde Path,-33.48051667,150.15670659999998,train,NSW
+491,Unknown,2170,Liverpool Moore St Path,-33.92314617,150.927698,train,NSW
+492,Unknown,2170,Liverpool Biggs St Lift,-33.92438493,150.9269976,train,NSW
+493,Unknown,2170,Liverpool Biggs St Stairs,-33.92430468,150.9269377,train,NSW
+494,Unknown,2321,Lochinvar Station Lane Ramp,-32.72048397,151.450531,train,NSW
+495,Unknown,2321,Lochinvar Station Lane Ramp,-32.72039462,151.4504811,train,NSW
+496,Unknown,2232,Loftus Pitt St Ramp,-34.04499976,151.0513888,train,NSW
+497,Unknown,2232,Loftus Loftus Ave Ramp,-34.04545425,151.0512098,train,NSW
+498,Unknown,2500,Lysaghts Recycling Rd Stairs,-34.454811799999995,150.8752141,train,NSW
+499,Unknown,2560,Macarthur Menangle  Rd Lift,-34.07249292,150.7974781,train,NSW
+500,Unknown,2560,Macarthur Menangle  Rd Lift,-34.07221782,150.79738840000002,train,NSW
+501,Unknown,2560,Macarthur Menangle  Rd Stairs,-34.07255383,150.79715980000003,train,NSW
+502,Unknown,2560,Macarthur Menangle  Rd Stairs,-34.0722662,150.7970753,train,NSW
+503,Unknown,2015,Macdonaldtown Burren St Stairs,-33.89679186,151.1853862,train,NSW
+504,Unknown,2564,Macquarie Fields Railway Pde Stairs,-33.98484292,150.8790781,train,NSW
+505,Unknown,2564,Macquarie Fields Railway Pde Ramp,-33.98496652,150.8789376,train,NSW
+506,Unknown,2113,Macquarie Park Lane Cove Rd Lift,-33.78544457,151.128497,train,NSW
+507,Unknown,2113,Macquarie Park Lane Cove Rd Escalators,-33.78536823,151.1284456,train,NSW
+508,Unknown,2113,Macquarie Park Lane Cove Rd Escalators,-33.78507899,151.1280042,train,NSW
+509,Unknown,2113,Macquarie Park Lane Cove Rd Lift,-33.78506256,151.1279791,train,NSW
+510,Unknown,2113,Macquarie University Herring Rd Lift,-33.77743582,151.1184713,train,NSW
+511,Unknown,2113,Macquarie University Herring Rd Escalators,-33.7774169,151.1184131,train,NSW
+512,Unknown,2113,Macquarie University Herring Rd Escalators,-33.77721132,151.1181043,train,NSW
+513,Unknown,2113,Macquarie University Herring Rd Lift,-33.77716806,151.11809330000003,train,NSW
+514,Unknown,2320,Maitland Station St Path,-32.73774765,151.55223600000002,train,NSW
+515,Unknown,2148,Marayong Harvey Rd Stairs,-33.74622068,150.90031169999997,train,NSW
+516,Unknown,2148,Marayong Harvey Rd Lift,-33.74601717,150.90030980000003,train,NSW
+517,Unknown,2148,Marayong Railway Pde Stairs,-33.746230600000004,150.9000471,train,NSW
+518,Unknown,2148,Marayong Railway Pde Lift,-33.74602227,150.90004230000002,train,NSW
+519,Unknown,2040,Marion LR Marion St Path,-33.8839155,151.14499630000003,train,NSW
+520,Unknown,2204,Marrickville Station St Path,-33.9139756,151.153316,train,NSW
+521,Unknown,2204,Marrickville Illawarra Rd Stairs,-33.91375714,151.1532248,train,NSW
+522,Unknown,2204,Marrickville Illawarra Rd Lift,-33.91378174,151.15318190000002,train,NSW
+523,Unknown,2204,Marrickville Illawarra Rd Lift,-33.91383568,151.15315180000002,train,NSW
+524,Unknown,2204,Marrickville Illawarra Rd Stairs,-33.91386322,151.1531385,train,NSW
+525,Unknown,2000,Martin Place Macquarie St Stairs,-33.86796254,151.2116241,train,NSW
+526,Unknown,2000,Martin Place Phillip St Lift,-33.867725799999995,151.211419,train,NSW
+527,Unknown,2000,Martin Place Phillip St Stairs,-33.867961,151.2113556,train,NSW
+528,Unknown,2000,Martin Place Elizabeth St Stairs,-33.86770938,151.2108281,train,NSW
+529,Unknown,2000,Martin Place Elizabeth St Stairs,-33.86794917,151.2105119,train,NSW
+530,Unknown,2000,Martin Place Elizabeth St Stairs,-33.86773095,151.2102046,train,NSW
+531,Unknown,2420,Martins Creek Grace Ave Ramp,-32.55848164,151.618412,train,NSW
+532,Unknown,2579,Marulan Wollondilly St Path,-34.709501200000005,150.00567780000003,train,NSW
+533,Unknown,2579,Marulan Railway Pde Path,-34.70959939,150.00566909999998,train,NSW
+534,Unknown,2020,Mascot Bourke St Stairs,-33.92315955,151.18739240000002,train,NSW
+535,Unknown,2020,Mascot Bourke St Escalators,-33.92315812,151.18736280000002,train,NSW
+536,Unknown,2020,Mascot Bourke St Lift,-33.92336325,151.1873396,train,NSW
+537,Unknown,2114,Meadowbank Constitution Rd Lift,-33.81566979,151.0902245,train,NSW
+538,Unknown,2114,Meadowbank Constitution Rd Stairs,-33.81579505,151.09020880000003,train,NSW
+539,Unknown,2114,Meadowbank Bank St Lift,-33.81562759,151.0899398,train,NSW
+540,Unknown,2114,Meadowbank Bank St Ramp,-33.81555584,151.089916,train,NSW
+541,Unknown,2780,Medlow Bath Great Western Hwy Ramp,-33.67465401,150.28114119999998,train,NSW
+542,Unknown,2780,Medlow Bath Great Western Hwy Stairs,-33.67295305,150.2803919,train,NSW
+543,Unknown,2568,Menangle Stevens Rd Ramp,-34.12539404,150.7441804,train,NSW
+544,Unknown,2568,Menangle Stevens Rd Path,-34.12585573,150.7440669,train,NSW
+545,Unknown,2563,Menangle Park Racecourse Ave Ramp,-34.10338167,150.7450798,train,NSW
+546,Unknown,2563,Menangle Park Racecourse Rd Ramp,-34.10338507,150.74495090000002,train,NSW
+547,Unknown,2160,Merrylands Railway Tce Ramp,-33.83669532,150.99266980000002,train,NSW
+548,Unknown,2160,Merrylands Terminal Pl Ramp,-33.83631419,150.99266619999997,train,NSW
+549,Unknown,2160,Merrylands Railway Tce Stairs,-33.83680598,150.9925619,train,NSW
+550,Unknown,2160,Merrylands Railway Tce Lift,-33.83690608,150.9923757,train,NSW
+551,Unknown,2160,Merrylands Railway Tce Ramp,-33.83694829,150.992327,train,NSW
+552,Unknown,2160,Merrylands Terminal Pl Stairs,-33.83658243,150.9922814,train,NSW
+553,Unknown,2160,Merrylands Terminal Pl Lift,-33.83679089,150.992228,train,NSW
+554,Unknown,2160,Merrylands Terminal Pl Stairs,-33.83671583,150.9921634,train,NSW
+555,Unknown,2160,Merrylands Railway Tce Stairs,-33.83715442,150.992075,train,NSW
+556,Unknown,2160,Merrylands Terminal Pl Ramp,-33.83685144,150.99201519999997,train,NSW
+557,Unknown,2160,Merrylands Terminal Pl Stairs,-33.83705075,150.9918377,train,NSW
+558,Unknown,2322,Metford McCubbin  Cl Stairs,-32.76547854,151.6182929,train,NSW
+559,Unknown,2323,Metford McCubbin  Cl Lift,-32.76536099,151.6181329,train,NSW
+560,Unknown,2061,Milsons Point Ennis Rd Ramp,-33.84579562,151.212403,train,NSW
+561,Unknown,2061,Milsons Point Alfred St Path,-33.84594618,151.21171950000002,train,NSW
+562,Unknown,2320,Mindaribba Tocal Rd Ramp,-32.66835055,151.5845537,train,NSW
+563,Unknown,2533,Minnamurra North St Ramp,-34.62633044,150.85300980000002,train,NSW
+564,Unknown,2566,Minto Minto Rd Stairs,-34.02750455,150.8426006,train,NSW
+565,Unknown,2566,Minto Minto Rd Lift,-34.02764472,150.8425642,train,NSW
+566,Unknown,2566,Minto Minto Rd Ramp,-34.02776996,150.8425506,train,NSW
+567,Unknown,2566,Minto Somerset St Stairs,-34.02722065,150.8423272,train,NSW
+568,Unknown,2566,Minto Somerset St Lift,-34.0274664,150.842237,train,NSW
+569,Unknown,2566,Minto Somerset St Ramp,-34.02769333,150.8422318,train,NSW
+570,Unknown,2228,Miranda Kiora Rd Stairs,-34.036075,151.1019708,train,NSW
+571,Unknown,2228,Miranda Kiora Rd Ramp,-34.036075,151.1019708,train,NSW
+572,Unknown,2575,Mittagong Railway Pde Stairs,-34.4526389,150.4483852,train,NSW
+573,Unknown,2575,Mittagong Regent St Stairs,-34.45240354,150.4483624,train,NSW
+574,Unknown,2264,Morisset Macquarie St Lift,-33.10903664,151.4882907,train,NSW
+575,Unknown,2264,Morisset Macquarie St Ramp,-33.1090292,151.4882497,train,NSW
+576,Unknown,2264,Morisset Dora St Lift,-33.10883807,151.4881562,train,NSW
+577,Unknown,2264,Morisset Macquarie St Stairs,-33.10907961,151.48815390000001,train,NSW
+578,Unknown,2264,Morisset Dora St Stairs,-33.10893132,151.48806000000002,train,NSW
+579,Unknown,2264,Morisset Dora St Ramp,-33.10895092,151.4878847,train,NSW
+580,Unknown,2223,Mortdale Coleborne Ave Lift,-33.97112283,151.0810841,train,NSW
+581,Unknown,2223,Mortdale Coleborne Ave Stairs,-33.97123984,151.081009,train,NSW
+582,Unknown,2223,Mortdale Cook Lane Lift,-33.97104094,151.08087980000002,train,NSW
+583,Unknown,2223,Mortdale Cook Lane Stairs,-33.97116587,151.0808093,train,NSW
+584,Unknown,2577,Moss Vale Argyle St Path,-34.54838916,150.372103,train,NSW
+585,Unknown,2577,Moss Vale Lackey Rd Path,-34.54759291,150.3718707,train,NSW
+586,Unknown,2079,Mount Colah Pacific Hwy Stairs,-33.67129214,151.11509819999998,train,NSW
+587,Unknown,2770,Mount Druitt North Pde Ramp,-33.76905662,150.82032180000002,train,NSW
+588,Unknown,2770,Mount Druitt North Pde Stairs,-33.76888448,150.8203141,train,NSW
+589,Unknown,2770,Mount Druitt North Pde Lift,-33.76903287,150.8201866,train,NSW
+590,Unknown,2770,Mount Druitt North Pde Stairs,-33.76940294,150.820177,train,NSW
+591,Unknown,2770,Mount Druitt Beames Ave Lift,-33.76977783,150.82016930000003,train,NSW
+592,Unknown,2770,Mount Druitt North Pde Lift,-33.76941054,150.8201425,train,NSW
+593,Unknown,2770,Mount Druitt Beames Ave Ramp,-33.769957500000004,150.8201085,train,NSW
+594,Unknown,2770,Mount Druitt Beames Ave Stairs,-33.76975925,150.819919,train,NSW
+595,Unknown,2770,Mount Druitt North Pde Lift,-33.76885586,150.81985749999998,train,NSW
+596,Unknown,2770,Mount Druitt North Pde Stairs,-33.76903298,150.8197793,train,NSW
+597,Unknown,2770,Mount Druitt North Pde Stairs,-33.76883389,150.8195934,train,NSW
+598,Unknown,2080,Mount Kurring-gai Harwood Ave Stairs,-33.65382765,151.1370126,train,NSW
+599,Unknown,2080,Mount Kurring-gai Harwood Ave Ramp,-33.65382377,151.1369886,train,NSW
+600,Unknown,2080,Mount Kurring-gai Pacific Hwy Ramp,-33.65376948,151.13656830000002,train,NSW
+601,Unknown,2786,Mount Victoria Patrick St Stairs,-33.5882678,150.257054,train,NSW
+602,Unknown,2786,Mount Victoria Station St Stairs,-33.58817529,150.256825,train,NSW
+603,Unknown,2756,Mulgrave Mulgrave Rd Ramp,-33.62649899,150.8298983,train,NSW
+604,Unknown,2000,Museum Elizabeth St Stairs,-33.87493423,151.2098618,train,NSW
+605,Unknown,2000,Museum Elizabeth St Escalators,-33.87691361,151.209825,train,NSW
+606,Unknown,2000,Museum Elizabeth St Stairs,-33.87652945,151.2098063,train,NSW
+607,Unknown,2000,Museum Elizabeth St Lift,-33.87659188,151.2097343,train,NSW
+608,Unknown,2000,Museum Elizabeth St Escalators,-33.87482734,151.209529,train,NSW
+609,Unknown,2000,Museum Liverpool St Escalators,-33.87671276,151.2092181,train,NSW
+610,Unknown,2000,Museum Liverpool St Stairs,-33.87669845,151.2091949,train,NSW
+611,Unknown,2333,Muswellbrook Market St Ramp,-32.26744191,150.890863,train,NSW
+612,Unknown,2333,Muswellbrook Market St Stairs,-32.26758584,150.89080380000001,train,NSW
+613,Unknown,2333,Muswellbrook Market St Stairs,-32.26742612,150.8904619,train,NSW
+614,Unknown,2250,Narara Goonak Pde Path,-33.39478142,151.34455359999998,train,NSW
+615,Unknown,2250,Narara Narara Valley Dr Stairs,-33.39459444,151.3444334,train,NSW
+616,Unknown,2250,Narara Narara Valley Dr Path,-33.39460601,151.3444151,train,NSW
+617,Unknown,2209,Narwee Hannans Rd Path,-33.947500700000006,151.0707991,train,NSW
+618,Unknown,2209,Narwee Hurst Pl Path,-33.94783139,151.07064419999998,train,NSW
+619,Unknown,2293,Newcastle Interchange Hannell St Path,-32.92412867,151.75986719999997,train,NSW
+620,Unknown,2293,Newcastle Interchange Hannell St Path,-32.92443205,151.7596352,train,NSW
+621,Unknown,2293,Newcastle Interchange Charles St Path,-32.923917100000004,151.7593884,train,NSW
+622,Unknown,2302,Newcastle Interchange Cooper St Path,-32.92445674,151.7589509,train,NSW
+623,Unknown,2042,Newtown King St Lift,-33.89794821,151.1788919,train,NSW
+624,Unknown,2042,Newtown King St Ramp,-33.89787696,151.1788814,train,NSW
+625,Unknown,2250,Niagara Park Kathleen Morreau Rd Stairs,-33.38322824,151.3545729,train,NSW
+626,Unknown,2250,Niagara Park Washington Ave Stairs,-33.3830702,151.3544041,train,NSW
+627,Unknown,2076,Normanhurst Denman Pde Path,-33.72090894,151.0971516,train,NSW
+628,Unknown,2076,Normanhurst Malsbury Rd Path,-33.72064788,151.0969021,train,NSW
+629,Unknown,2113,North Ryde Delhi Rd Lift,-33.79455215,151.13792560000002,train,NSW
+630,Unknown,2113,North Ryde Delhi Rd Escalators,-33.79451462,151.1379238,train,NSW
+631,Unknown,2137,North Strathfield Queen St Stairs,-33.85916251,151.0885013,train,NSW
+632,Unknown,2137,North Strathfield Hamilton St Ramp,-33.8597069,151.08820749999998,train,NSW
+633,Unknown,2060,North Sydney Blue St Path,-33.84102219,151.20749840000002,train,NSW
+634,Unknown,2060,North Sydney Blue St Path,-33.84100344,151.2073747,train,NSW
+635,Unknown,2500,North Wollongong Station St Stairs,-34.41235075,150.89156200000002,train,NSW
+636,Unknown,2500,North Wollongong Station St Path,-34.41211824,150.8915599,train,NSW
+637,Unknown,2500,North Wollongong Station St Lift,-34.41211138,150.8915284,train,NSW
+638,Unknown,2500,North Wollongong Porter St Lift,-34.41208516,150.8913613,train,NSW
+639,Unknown,2500,North Wollongong Porter St Path,-34.41208744,150.8913264,train,NSW
+640,Unknown,2500,North Wollongong Porter St Stairs,-34.41230685,150.89124819999998,train,NSW
+641,Unknown,2137,Noth Strathfield Pomeroy St Ramp,-33.85755734,151.0873986,train,NSW
+642,Unknown,2527,Oak Flats Stanford Dr Ramp,-34.57198187,150.82061169999997,train,NSW
+643,Unknown,2527,Oak Flats Stanford Dr Stairs,-34.57188882,150.82045359999998,train,NSW
+644,Unknown,2527,Oak Flats Stanford Dr Ramp,-34.57173048,150.8202085,train,NSW
+645,Unknown,2223,Oatley Oatley Pde Lift,-33.98022837,151.0792926,train,NSW
+646,Unknown,2223,Oatley River Rd Stairs,-33.98000494,151.0789686,train,NSW
+647,Unknown,2223,Oatley Mulga Rd Lift,-33.980259000000004,151.0787615,train,NSW
+648,Unknown,2127,Olympic Park Park St Path,-33.8461115,151.070683,train,NSW
+649,Unknown,2127,Olympic Park Dawn Fraser Ave Path,-33.84647873,151.0702876,train,NSW
+650,Unknown,2127,Olympic Park Murray Rose Ave Path,-33.84608649,151.0700814,train,NSW
+651,Unknown,2127,Olympic Park Dawn Fraser Ave Path,-33.84656636,151.07004609999998,train,NSW
+652,Unknown,2127,Olympic Park Murray Rose Ave Stairs,-33.84617394,151.0698287,train,NSW
+653,Unknown,2127,Olympic Park Dawn Fraser Ave Stairs,-33.84670627,151.0695564,train,NSW
+654,Unknown,2127,Olympic Park Murray Rose Ave Ramp,-33.84634363,151.0694956,train,NSW
+655,Unknown,2127,Olympic Park Dawn Fraser Ave Path,-33.84678557,151.0694563,train,NSW
+656,Unknown,2127,Olympic Park Murray Rose Ave Stairs,-33.84639347,151.0693911,train,NSW
+657,Unknown,2127,Olympic Park Murray Rose Ave Lift,-33.84639439,151.06924890000002,train,NSW
+658,Unknown,2127,Olympic Park Dawn Fraser Ave Path,-33.84686907,151.0692157,train,NSW
+659,Unknown,2127,Olympic Park Murray Rose Ave Stairs,-33.84647994,151.0690066,train,NSW
+660,Unknown,2127,Olympic Park Showground Rd Path,-33.84698401,151.0682717,train,NSW
+661,Unknown,2508,Otford Lady Carrington  Rd Stairs,-34.21052602,151.00590830000002,train,NSW
+662,Unknown,2508,Otford Lady Carrington  Rd Ramp,-34.21072283,151.00552130000003,train,NSW
+663,Unknown,2508,Otford Station Rd Stairs,-34.21109272,151.0055047,train,NSW
+664,Unknown,2258,Ourimbah Mill St Stairs,-33.35965695,151.37027680000003,train,NSW
+665,Unknown,2258,Ourimbah Mill St Ramp,-33.35955493,151.37010890000002,train,NSW
+666,Unknown,2258,Ourimbah Station St Path,-33.35969505,151.36975080000002,train,NSW
+667,Unknown,2258,Ourimbah Station St Path,-33.35937321,151.3697352,train,NSW
+668,Unknown,2000,Paddy's Markets Hay St Path,-33.87925467,151.2027407,train,NSW
+669,Unknown,2000,Paddy's Markets Hay St Path,-33.87933704,151.2026206,train,NSW
+670,Unknown,2211,Padstow Banks St Path,-33.95168459,151.03234469999998,train,NSW
+671,Unknown,2211,Padstow Howard Rd Ramp,-33.9520945,151.0320242,train,NSW
+672,Unknown,2211,Padstow Memorial Dr Ramp,-33.95176466,151.0319792,train,NSW
+673,Unknown,2211,Padstow Memorial Dr Path,-33.95200543,151.03196609999998,train,NSW
+674,Unknown,2211,Padstow Memorial Dr Stairs,-33.95170664,151.0319304,train,NSW
+675,Unknown,2213,Panania Anderson Ave Ramp,-33.95413352,150.9982975,train,NSW
+676,Unknown,2213,Panania Weston St Ramp,-33.95440402,150.998267,train,NSW
+677,Unknown,2150,Parramatta Station St Stairs,-33.8178785,151.0063215,train,NSW
+678,Unknown,2150,Parramatta Liverpool-Parramatta T-way Lift,-33.81823772,151.00592930000002,train,NSW
+679,Unknown,2150,Parramatta Liverpool-Parramatta T-way Stairs,-33.81819896,151.0058847,train,NSW
+680,Unknown,2150,Parramatta Liverpool-Parramatta T-way Stairs,-33.81753109,151.00500300000002,train,NSW
+681,Unknown,2150,Parramatta Darcy St Lift,-33.81707893,151.00491680000002,train,NSW
+682,Unknown,2150,Parramatta Liverpool-Parramatta T-way Lift,-33.81737628,151.0046956,train,NSW
+683,Unknown,2150,Parramatta Darcy St Stairs,-33.81698089,151.0046804,train,NSW
+684,Unknown,2150,Parramatta Liverpool-Parramatta T-way Escalators,-33.81757268,151.00450959999998,train,NSW
+685,Unknown,2150,Parramatta Liverpool-Parramatta T-way Stairs,-33.817204600000004,151.00444330000002,train,NSW
+686,Unknown,2421,Paterson Main St Stairs,-32.60237058,151.6147645,train,NSW
+687,Unknown,2145,Pendle Hill Wentworth Ave Ramp,-33.80167682,150.95700349999998,train,NSW
+688,Unknown,2145,Pendle Hill Wentworth Ave Stairs,-33.80127175,150.956549,train,NSW
+689,Unknown,2145,Pendle Hill Joyce St Ramp,-33.80135205,150.9559293,train,NSW
+690,Unknown,2145,Pendle Hill Joyce St Path,-33.80130891,150.95585060000002,train,NSW
+691,Unknown,2120,Pennant Hills Railway St Stairs,-33.73793010000001,151.0727775,train,NSW
+692,Unknown,2120,Pennant Hills Railway St Lift,-33.73795586,151.07262649999998,train,NSW
+693,Unknown,2120,Pennant Hills Yarrara Rd Path,-33.73771583,151.07260630000002,train,NSW
+694,Unknown,2120,Pennant Hills Yarrara Rd Stairs,-33.73772306,151.0725732,train,NSW
+695,Unknown,2120,Pennant Hills Railway St Ramp,-33.73816108,151.0725647,train,NSW
+696,Unknown,2120,Pennant Hills Yarrara Rd Lift,-33.73786579,151.07249869999998,train,NSW
+697,Unknown,2750,Penrith Combewood Ave Stairs,-33.74985862,150.6965761,train,NSW
+698,Unknown,2750,Penrith Combewood Ave Lift,-33.74985115,150.6965045,train,NSW
+699,Unknown,2750,Penrith Jane St Stairs,-33.75029054,150.6964713,train,NSW
+700,Unknown,2750,Penrith Jane St Lift,-33.75028162,150.69643330000002,train,NSW
+701,Unknown,2750,Penrith Jane St Stairs,-33.75018886,150.6961967,train,NSW
+702,Unknown,2579,Penrose Penrose Rd Path,-34.67230549,150.21227439999998,train,NSW
+703,Unknown,2579,Penrose Kareela Rd Path,-34.6721605,150.212086,train,NSW
+704,Unknown,2222,Penshurst Bridge Rd Stairs,-33.96608121,151.08883740000002,train,NSW
+705,Unknown,2222,Penshurst Laycock Rd Ramp,-33.96633248,151.088801,train,NSW
+706,Unknown,2222,Penshurst Laycock Rd Stairs,-33.96631991,151.0887138,train,NSW
+707,Unknown,2222,Penshurst Bridge Rd Lift,-33.96609707,151.08866819999997,train,NSW
+708,Unknown,2049,Petersham Trafalgar St Stairs,-33.89402275,151.1557675,train,NSW
+709,Unknown,2049,Petersham Terminus St Stairs,-33.8936064,151.1555418,train,NSW
+710,Unknown,2571,Picton Prince St Stairs,-34.17964863,150.61288100000002,train,NSW
+711,Unknown,2571,Picton Station St Stairs,-34.17927875,150.6127309,train,NSW
+712,Unknown,2571,Picton Prince St Stairs,-34.17968277,150.6127042,train,NSW
+713,Unknown,2571,Picton Station St Lift,-34.17921166,150.61266469999998,train,NSW
+714,Unknown,2250,Point Clare Kurrawa Ave Stairs,-33.44630072,151.3285267,train,NSW
+715,Unknown,2250,Point Clare Brisbane Water Dr Stairs,-33.44618258,151.32826409999998,train,NSW
+716,Unknown,2250,Point Clare Brisbane Water Dr Ramp,-33.44621399,151.3282199,train,NSW
+717,Unknown,2505,Port Kembla Old Port Rd Ramp,-34.47718852,150.90285669999997,train,NSW
+718,Unknown,2505,Port Kembla North Flinders St Stairs,-34.47297995,150.8873269,train,NSW
+719,Unknown,2505,Port Kembla North Flinders St Stairs,-34.47312925,150.8870415,train,NSW
+720,Unknown,2196,Punchbowl Punchbowl Rd Stairs,-33.92525226,151.05557980000003,train,NSW
+721,Unknown,2196,Punchbowl The Boulevarde  Stairs,-33.92556758,151.0555716,train,NSW
+722,Unknown,2073,Pymble Grandview St Stairs,-33.74463831,151.14227319999998,train,NSW
+723,Unknown,2073,Pymble Pacific Hwy Stairs,-33.74498339,151.1421989,train,NSW
+724,Unknown,2009,Pyrmont Bay LR Murray St Path,-33.869535,151.197707,train,NSW
+725,Unknown,2763,Quakers Hill Pearce Rd Lift,-33.72731055,150.886272,train,NSW
+726,Unknown,2763,Quakers Hill Pearce Rd Stairs,-33.72721559,150.88621740000002,train,NSW
+727,Unknown,2763,Quakers Hill Railway Pde Lift,-33.72743142,150.8860389,train,NSW
+728,Unknown,2763,Quakers Hill Railway Pde Stairs,-33.72721417,150.88588719999998,train,NSW
+729,Unknown,2015,Redfern Gibbons St Path,-33.892029799999996,151.1995113,train,NSW
+730,Unknown,2016,Redfern Lawson St Path,-33.891563,151.198824,train,NSW
+731,Unknown,2015,Redfern Marian St Stairs,-33.89270463,151.1981812,train,NSW
+732,Unknown,2143,Regents Park Amy St Path,-33.8833513,151.0241784,train,NSW
+733,Unknown,2143,Regents Park Park Rd Stairs,-33.88311577,151.02379319999997,train,NSW
+734,Unknown,2143,Regents Park Park Rd Ramp,-33.88324672,151.02370080000003,train,NSW
+735,Unknown,2212,Revesby Blamey St Stairs,-33.95270727,151.0154862,train,NSW
+736,Unknown,2212,Revesby Marco Ave Lift,-33.95235886,151.01531980000001,train,NSW
+737,Unknown,2212,Revesby Marco Ave Stairs,-33.95231174,151.0152774,train,NSW
+738,Unknown,2212,Revesby Blamey St Lift,-33.95273626,151.01523269999998,train,NSW
+739,Unknown,2138,Rhodes Blaxland Rd Stairs,-33.83067679,151.08723669999998,train,NSW
+740,Unknown,2138,Rhodes Blaxland Rd Lift,-33.83064963,151.08722340000003,train,NSW
+741,Unknown,2138,Rhodes Walker St Lift,-33.83045691,151.08687680000003,train,NSW
+742,Unknown,2138,Rhodes Walker St Stairs,-33.83064015,151.0868216,train,NSW
+743,Unknown,2753,Richmond E Market St Stairs,-33.59877109,150.75230980000003,train,NSW
+744,Unknown,2753,Richmond E Market St Ramp,-33.5988545,150.7522539,train,NSW
+745,Unknown,2765,Riverstone Garfield Rd W Path,-33.67976814,150.860729,train,NSW
+746,Unknown,2765,Riverstone Garfield Rd W Path,-33.67985685,150.86052080000002,train,NSW
+747,Unknown,2765,Riverstone Riverstone Pde Path,-33.67905167,150.86044009999998,train,NSW
+748,Unknown,2210,Riverwood Belmore Rd Path,-33.951470799999996,151.0525622,train,NSW
+749,Unknown,2210,Riverwood Belmore Rd Stairs,-33.95160087,151.0525497,train,NSW
+750,Unknown,2216,Rockdale Geeves Lane Stairs,-33.9523035,151.1369871,train,NSW
+751,Unknown,2216,Rockdale Geeves Lane Lift,-33.95248742,151.13686140000002,train,NSW
+752,Unknown,2216,Rockdale Geeves Lane Stairs,-33.95258099,151.1368441,train,NSW
+753,Unknown,2216,Rockdale Railway St Ramp,-33.95191037,151.13644130000003,train,NSW
+754,Unknown,2216,Rockdale Railway St Stairs,-33.95221004,151.1362805,train,NSW
+755,Unknown,2766,Rooty Hill Beames Ave Stairs,-33.77188219,150.8444618,train,NSW
+756,Unknown,2766,Rooty Hill North  Pde Stairs,-33.7714864,150.84428459999998,train,NSW
+757,Unknown,2766,Rooty Hill Beames Ave Ramp,-33.77201339,150.844247,train,NSW
+758,Unknown,2766,Rooty Hill Rooty Hill North Rd Ramp,-33.77124814,150.8438721,train,NSW
+759,Unknown,2142,Rosehill James Ruse Dr Stairs,-33.82303843,151.0222311,train,NSW
+760,Unknown,2142,Rosehill James Ruse Dr Stairs,-33.82322002,151.0222102,train,NSW
+761,Unknown,2142,Rosehill James Ruse Dr Ramp,-33.82308432,151.02181519999996,train,NSW
+762,Unknown,2069,Roseville Hill St Ramp,-33.78434859,151.1778664,train,NSW
+763,Unknown,2069,Roseville Pacific Hwy Ramp,-33.78467979999999,151.177749,train,NSW
+764,Unknown,2038,Rozelle Bay LR Bayview Cres Ramp,-33.87185725,151.1729488,train,NSW
+765,Unknown,2038,Rozelle Bay LR Bayview Cres Ramp,-33.8719533,151.1729143,train,NSW
+766,Unknown,2038,Rozelle Bay LR The Crescent  Stairs,-33.8717488,151.1728699,train,NSW
+767,Unknown,2116,Rydalmere Brodie St Path,-33.81015641,151.02947969999997,train,NSW
+768,Unknown,2307,Sandgate Astra St Stairs,-32.87279417,151.7028016,train,NSW
+769,Unknown,2515,Scarborough Railway Ave Stairs,-34.2656783,150.9654965,train,NSW
+770,Unknown,2515,Scarborough Railway Ave Stairs,-34.26551615,150.9651941,train,NSW
+771,Unknown,2762,Schofields Railway Tce Path,-33.70483553,150.8742383,train,NSW
+772,Unknown,2762,Schofields Railway Tce Lift,-33.7044383,150.8740174,train,NSW
+773,Unknown,2762,Schofields Railway Tce Stairs,-33.70418713,150.87393280000003,train,NSW
+774,Unknown,2762,Schofields Bridge St Lift,-33.70454498,150.8736108,train,NSW
+775,Unknown,2762,Schofields Bridge St Stairs,-33.7043178,150.8735269,train,NSW
+776,Unknown,2337,Scone Susan St Path,-32.04670656,150.86707280000002,train,NSW
+777,Unknown,2162,Sefton Helen St Lift,-33.88516272,151.0118417,train,NSW
+778,Unknown,2162,Sefton Wellington Rd Lift,-33.88549648,151.0117978,train,NSW
+779,Unknown,2162,Sefton Helen St Stairs,-33.88516069,151.0116714,train,NSW
+780,Unknown,2162,Sefton Wellington Rd Stairs,-33.88543207,151.01162209999998,train,NSW
+781,Unknown,2147,Seven Hills Prospect Hwy Stairs,-33.77410577,150.93619109999997,train,NSW
+782,Unknown,2147,Seven Hills The Hills Cres Lift,-33.77455756,150.9361722,train,NSW
+783,Unknown,2147,Seven Hills Prospect Hwy Lift,-33.77407161,150.93608930000002,train,NSW
+784,Unknown,2147,Seven Hills Prospect Hwy Ramp,-33.77410285,150.9359253,train,NSW
+785,Unknown,2147,Seven Hills The Hills Cres Ramp,-33.77452,150.93543200000002,train,NSW
+786,Unknown,2529,Shellharbour Piper Dr Lift,-34.59125149,150.8448185,train,NSW
+787,Unknown,2529,Shellharbour Piper Dr Stairs,-34.5913074,150.84480180000003,train,NSW
+788,Unknown,2529,Shellharbour Piper Dr Lift,-34.59122591,150.8446697,train,NSW
+789,Unknown,2529,Shellharbour Piper Dr Stairs,-34.59128718,150.8446519,train,NSW
+790,Unknown,2330,Singleton Munro St Ramp,-32.57196082,151.1656827,train,NSW
+791,Unknown,2330,Singleton Munro St Ramp,-32.5718537,151.1655409,train,NSW
+792,Unknown,2330,Singleton Munro St Path,-32.57183342,151.1654861,train,NSW
+793,Unknown,2777,Springwood Macquarie  Rd Stairs,-33.69918984,150.56369730000003,train,NSW
+794,Unknown,2777,Springwood Macquarie  Rd Ramp,-33.69936145,150.5635226,train,NSW
+795,Unknown,2777,Springwood Station St Ramp,-33.69896475,150.5633045,train,NSW
+796,Unknown,2000,St James James Rd Stairs,-33.86992775,151.2114985,train,NSW
+797,Unknown,2000,St James James Rd Ramp,-33.87003326,151.2112893,train,NSW
+798,Unknown,2000,St James Elizabeth St Lift,-33.870678000000005,151.2104842,train,NSW
+799,Unknown,2000,St James Elizabeth St Stairs,-33.87074951,151.2104486,train,NSW
+800,Unknown,2065,St Leonards Sergeants Lane Stairs,-33.82224634,151.1947629,train,NSW
+801,Unknown,2065,St Leonards Sergeants Lane Lift,-33.82222391,151.1947607,train,NSW
+802,Unknown,2065,St Leonards Herbert St Lift,-33.82232319,151.1936479,train,NSW
+803,Unknown,2065,St Leonards Herbert St Stairs,-33.82231649,151.19360880000002,train,NSW
+804,Unknown,2065,St Leonards Herbert St Stairs,-33.82246257,151.1934322,train,NSW
+805,Unknown,2065,St Leonards Herbert St Lift,-33.82243079,151.1933676,train,NSW
+806,Unknown,2760,St Marys Forrester Rd Lift,-33.76189765,150.7751589,train,NSW
+807,Unknown,2760,St Marys Station St Lift,-33.76235089,150.7750575,train,NSW
+808,Unknown,2760,St Marys Forrester Rd Stairs,-33.76188001,150.7749259,train,NSW
+809,Unknown,2760,St Marys Station St Stairs,-33.76231824,150.774872,train,NSW
+810,Unknown,2044,St Peters May Lane Path,-33.90745391,151.1808612,train,NSW
+811,Unknown,2044,St Peters Lord St Path,-33.90694267,151.18064950000002,train,NSW
+812,Unknown,2048,Stanmore Douglas St Ramp,-33.89416485,151.16420469999997,train,NSW
+813,Unknown,2048,Stanmore Trafalgar St Ramp,-33.89467603,151.1641571,train,NSW
+814,Unknown,2508,Stanwell Park Railway Cres Stairs,-34.22618328,150.9812344,train,NSW
+815,Unknown,2508,Stanwell Park Railway Cres Stairs,-34.22614425,150.98100459999998,train,NSW
+816,Unknown,2135,Strathfield Everton Rd Lift,-33.87146835,151.09460369999996,train,NSW
+817,Unknown,2135,Strathfield Everton Rd Stairs,-33.87134403,151.0944811,train,NSW
+818,Unknown,2135,Strathfield Strathfield Sq Ramp,-33.87220808,151.09428380000003,train,NSW
+819,Unknown,2135,Strathfield Albert Rd Ramp,-33.87185964,151.0938299,train,NSW
+820,Unknown,2130,Summer Hill Grosvenor  Cres Stairs,-33.8901592,151.1389449,train,NSW
+821,Unknown,2130,Summer Hill Carlton Cres Lift,-33.89053286,151.1389072,train,NSW
+822,Unknown,2130,Summer Hill Grosvenor  Cres Lift,-33.89010644,151.13875280000002,train,NSW
+823,Unknown,2130,Summer Hill Carlton Cres Stairs,-33.89044157,151.13864130000002,train,NSW
+824,Unknown,2130,Summer Hill Carlton Cres Ramp,-33.89043171,151.13861550000001,train,NSW
+825,Unknown,2232,Sutherland East Pde Lift,-34.031570200000004,151.05743230000002,train,NSW
+826,Unknown,2232,Sutherland East Pde Path,-34.0315567,151.0573425,train,NSW
+827,Unknown,2232,Sutherland East Pde Stairs,-34.03183438,151.05690980000003,train,NSW
+828,Unknown,2232,Sutherland East Pde Ramp,-34.03183438,151.05690980000003,train,NSW
+829,Unknown,2044,Sydenham Gleeson Ave Lift,-33.91491191,151.1661011,train,NSW
+830,Unknown,2044,Sydenham Gleeson Ave Path,-33.914863399999994,151.16604719999998,train,NSW
+831,Unknown,2573,Tahmoor George  St Path,-34.22358755,150.59024119999998,train,NSW
+832,Unknown,2573,Tahmoor Pitt St Path,-34.22346581,150.58983080000002,train,NSW
+833,Unknown,2579,Tallong Railway Pde Path,-34.71837568,150.08609280000002,train,NSW
+834,Unknown,2322,Tarro Woodberry  Rd Stairs,-32.80882092,151.6694636,train,NSW
+835,Unknown,2322,Tarro Woodberry  Rd Stairs,-32.80889516,151.66937280000002,train,NSW
+836,Unknown,2250,Tascott Brisbane Water Dr Ramp,-33.45083997,151.3188156,train,NSW
+837,Unknown,2250,Tascott Brisbane Water Dr Stairs,-33.45088295,151.31878700000001,train,NSW
+838,Unknown,2250,Tascott Glenrock Pde Ramp,-33.45077303,151.31874030000003,train,NSW
+839,Unknown,2250,Tascott Glenrock Pde Stairs,-33.45094989,151.3183448,train,NSW
+840,Unknown,2040,Taverners Hill LR Parramatta  Rd Lift,-33.8895669,151.145176,train,NSW
+841,Unknown,2049,Taverners Hill LR Parramatta  Rd Lift,-33.88990657,151.1451041,train,NSW
+842,Unknown,2040,Taverners Hill LR Parramatta  Rd Stairs,-33.88963067,151.1450837,train,NSW
+843,Unknown,2049,Taverners Hill LR Parramatta  Rd Stairs,-33.8898685,151.1450731,train,NSW
+844,Unknown,2320,Telarah Johnson St Ramp,-32.72323179,151.5398951,train,NSW
+845,Unknown,2320,Telarah Johnson St Stairs,-32.72337822,151.53988590000003,train,NSW
+846,Unknown,2117,Telopea Sturt St Path,-33.79400629,151.04178100000001,train,NSW
+847,Unknown,2117,Telopea Sturt St Ramp,-33.79424948,151.0415241,train,NSW
+848,Unknown,2117,Telopea Sturt St Path,-33.7945703,151.04138390000003,train,NSW
+849,Unknown,2117,Telopea Adderton Rd Ramp,-33.79402152,151.04126369999997,train,NSW
+850,Unknown,2117,Telopea Adderton Rd Stairs,-33.79411509,151.04119540000002,train,NSW
+851,Unknown,2044,Tempe Griffith St Stairs,-33.92369195,151.1567982,train,NSW
+852,Unknown,2044,Tempe Griffith St Stairs,-33.92394727,151.15675,train,NSW
+853,Unknown,2044,Tempe Richardson Cres Stairs,-33.92358032,151.15647130000002,train,NSW
+854,Unknown,2044,Tempe Richardson Cres Stairs,-33.92389629,151.1563979,train,NSW
+855,Unknown,2284,Teralba William St Ramp,-32.96276877,151.60415,train,NSW
+856,Unknown,2284,Teralba William St Path,-32.962727,151.6039263,train,NSW
+857,Unknown,2284,Teralba Railway St Stairs,-32.96216248,151.60364189999999,train,NSW
+858,Unknown,2009,The Star LR Pirrama Rd Path,-33.867270899999994,151.1957096,train,NSW
+859,Unknown,2515,Thirroul Station St Stairs,-34.31786015,150.9193757,train,NSW
+860,Unknown,2515,Thirroul Station St Lift,-34.31799787,150.9192528,train,NSW
+861,Unknown,2515,Thirroul Railway Pde Path,-34.31788392,150.91886499999998,train,NSW
+862,Unknown,2515,Thirroul Railway Pde Stairs,-34.31795869,150.9188517,train,NSW
+863,Unknown,2120,Thornleigh Railway Pde Path,-33.73207901,151.0783738,train,NSW
+864,Unknown,2120,Thornleigh Railway Pde Stairs,-33.73211866,151.07833269999998,train,NSW
+865,Unknown,2120,Thornleigh The Esplanade  Stairs,-33.73180916,151.07811830000003,train,NSW
+866,Unknown,2322,Thornton Karuah  St Stairs,-32.78357334,151.6399935,train,NSW
+867,Unknown,2322,Thornton Karuah  St Lift,-32.78356119,151.6399551,train,NSW
+868,Unknown,2146,Toongabbie Wentworth Ave Ramp,-33.78699939,150.9516071,train,NSW
+869,Unknown,2146,Toongabbie Portice Pde Ramp,-33.78714281,150.9511669,train,NSW
+870,Unknown,2000,Town Hall George St Stairs,-33.87317129,151.20712519999998,train,NSW
+871,Unknown,2000,Town Hall George St Stairs,-33.87357692,151.2070647,train,NSW
+872,Unknown,2000,Town Hall George St Lift,-33.87389408,151.2070208,train,NSW
+873,Unknown,2000,Town Hall George St Stairs,-33.87394872,151.2070088,train,NSW
+874,Unknown,2000,Town Hall George St Stairs,-33.87324335,151.20671819999998,train,NSW
+875,Unknown,2000,Town Hall George St Stairs,-33.87300204,151.2066961,train,NSW
+876,Unknown,2000,Town Hall George St Stairs,-33.87416617,151.20666780000002,train,NSW
+877,Unknown,2000,Town Hall George St Stairs,-33.87370422,151.206619,train,NSW
+878,Unknown,2000,Town Hall Kent St Path,-33.87346213,151.20567590000002,train,NSW
+879,Unknown,2518,Towradgi Towradgi Rd Ramp,-34.38408404,150.9016675,train,NSW
+880,Unknown,2518,Towradgi Towradgi Rd Ramp,-34.38412652,150.90135859999998,train,NSW
+881,Unknown,2259,Tuggerah Bryant Dr Ramp,-33.307745600000004,151.4204201,train,NSW
+882,Unknown,2259,Tuggerah Bryant Dr Stairs,-33.307745600000004,151.4204201,train,NSW
+883,Unknown,2259,Tuggerah Pacific Hwy Ramp,-33.30747496,151.4200755,train,NSW
+884,Unknown,2259,Tuggerah Pacific Hwy Stairs,-33.30767799,151.4200382,train,NSW
+885,Unknown,2074,Turramurra Rohini St Path,-33.73258953,151.1290978,train,NSW
+886,Unknown,2074,Turramurra William St Path,-33.73287787,151.128659,train,NSW
+887,Unknown,2205,Turrella Reede St Stairs,-33.92977422,151.1404283,train,NSW
+888,Unknown,2526,Unanderra Berkeley Rd Stairs,-34.45512841,150.8460834,train,NSW
+889,Unknown,2526,Unanderra Berkeley Rd Stairs,-34.45480327,150.8454954,train,NSW
+890,Unknown,2777,Valley Heights Great Western Hwy Stairs,-33.70388256,150.5840807,train,NSW
+891,Unknown,2777,Valley Heights Great Western Hwy Ramp,-33.70385585,150.58401940000002,train,NSW
+892,Unknown,2777,Valley Heights Great Western Hwy Stairs,-33.70414867,150.5836892,train,NSW
+893,Unknown,2323,Victoria Street Waller St Stairs,-32.75096544,151.5941378,train,NSW
+894,Unknown,2323,Victoria Street Victoria St Stairs,-32.7511242,151.59379619999999,train,NSW
+895,Unknown,2163,Villawood Villawood St Stairs,-33.88092102,150.9773626,train,NSW
+896,Unknown,2163,Villawood River Ave Stairs,-33.88074082,150.9773471,train,NSW
+897,Unknown,2765,Vineyard Bandon Rd Ramp,-33.65018802,150.85106299999998,train,NSW
+898,Unknown,2076,Wahroonga Redleaf Ave Stairs,-33.71800187,151.11751850000002,train,NSW
+899,Unknown,2077,Waitara Alexandria Pde Path,-33.71028639,151.105246,train,NSW
+900,Unknown,2077,Waitara Waitara Ave Stairs,-33.71065655,151.10491530000002,train,NSW
+901,Unknown,2420,Wallarobba Wallarobba Brookfield Rd Ramp,-32.49615032,151.69569209999997,train,NSW
+902,Unknown,2304,Warabrook Eucalyptus  Cres Ramp,-32.88698384,151.71118719999998,train,NSW
+903,Unknown,2308,Warabrook Ring Rd Ramp,-32.88848678,151.709521,train,NSW
+904,Unknown,2304,Waratah Platt St Stairs,-32.90210317,151.731215,train,NSW
+905,Unknown,2298,Waratah Platt St Stairs,-32.902353999999995,151.7310238,train,NSW
+906,Unknown,2203,Waratah Mills LR Davis St Path,-33.8989622,151.140003,train,NSW
+907,Unknown,2203,Waratah Mills LR Weston St Path,-33.8988126,151.13986469999998,train,NSW
+908,Unknown,2259,Warnervale Warnervale Rd Path,-33.2473843,151.4491366,train,NSW
+909,Unknown,2259,Warnervale Warnervale Rd Path,-33.24713278,151.4488456,train,NSW
+910,Unknown,2074,Warrawee Warrawee Ave Path,-33.72439373,151.1220398,train,NSW
+911,Unknown,2074,Warrawee Heydon Ave Path,-33.72454128,151.1217229,train,NSW
+912,Unknown,2774,Warrimoo Railway Pde Stairs,-33.72132609,150.60295109999998,train,NSW
+913,Unknown,2774,Warrimoo Great Western Hwy Stairs,-33.721589,150.60278190000002,train,NSW
+914,Unknown,2774,Warrimoo Great Western Hwy Ramp,-33.7215927,150.6027681,train,NSW
+915,Unknown,2774,Warrimoo Great Western Hwy Ramp,-33.72206858,150.602657,train,NSW
+916,Unknown,2774,Warrimoo Great Western Hwy Stairs,-33.72204408,150.6025654,train,NSW
+917,Unknown,2170,Warwick Farm Warwick St Stairs,-33.91318088,150.9353246,train,NSW
+918,Unknown,2170,Warwick Farm Warwick St Lift,-33.91340518,150.9352764,train,NSW
+919,Unknown,2170,Warwick Farm Remembrance Ave Lift,-33.91324659,150.9349959,train,NSW
+920,Unknown,2170,Warwick Farm Remembrance Ave Stairs,-33.91347354,150.9349611,train,NSW
+921,Unknown,2233,Waterfall Kooraban St Ramp,-34.13517267,150.994605,train,NSW
+922,Unknown,2060,Waverton Bay Rd Path,-33.83756728,151.19746830000003,train,NSW
+923,Unknown,2060,Waverton Bay Rd Path,-33.83761043,151.1973366,train,NSW
+924,Unknown,2782,Wentworth Falls Railway Pde Stairs,-33.70932977,150.3764898,train,NSW
+925,Unknown,2782,Wentworth Falls Station St Stairs,-33.70952535,150.3761198,train,NSW
+926,Unknown,2009,Wentworth Park LR Pyrmont Bridge Rd Path,-33.8742417,151.1940945,train,NSW
+927,Unknown,2009,Wentworth Park LR Wattle St Ramp,-33.87506758,151.1935385,train,NSW
+928,Unknown,2145,Wentworthville Wentworth Ave Stairs,-33.80686889,150.97252419999998,train,NSW
+929,Unknown,2145,Wentworthville The Kingsway  Stairs,-33.80725292,150.972304,train,NSW
+930,Unknown,2145,Wentworthville Wentworth Ave Ramp,-33.80667668,150.971932,train,NSW
+931,Unknown,2145,Wentworthville The Kingsway  Ramp,-33.80706875,150.9718275,train,NSW
+932,Unknown,2747,Werrington Victoria Lane Stairs,-33.759049600000004,150.7575668,train,NSW
+933,Unknown,2747,Werrington Railway St Stairs,-33.75924963,150.7575314,train,NSW
+934,Unknown,2747,Werrington Victoria Lane Lift,-33.75903757,150.75744540000002,train,NSW
+935,Unknown,2747,Werrington Railway St Lift,-33.75920751,150.7574014,train,NSW
+936,Unknown,2114,West Ryde Railway Pde Stairs,-33.80746637,151.0905793,train,NSW
+937,Unknown,2114,West Ryde Railway Pde Lift,-33.80747159,151.09040359999997,train,NSW
+938,Unknown,2114,West Ryde West Pde Ramp,-33.80687546,151.0901576,train,NSW
+939,Unknown,2114,West Ryde West Pde Ramp,-33.80704425,151.0900831,train,NSW
+940,Unknown,2114,West Ryde West Pde Stairs,-33.807467700000004,151.0899608,train,NSW
+941,Unknown,2145,Westmead Railway Pde Stairs,-33.80836116,150.98818730000002,train,NSW
+942,Unknown,2145,Westmead Alexandria Ave Stairs,-33.80870858,150.9878707,train,NSW
+943,Unknown,2145,Westmead Railway Pde Ramp,-33.80819002,150.98771580000002,train,NSW
+944,Unknown,2145,Westmead Alexandria Ave Ramp,-33.80864182,150.98765769999997,train,NSW
+945,Unknown,2195,Wiley Park King Georges  Rd Ramp,-33.92278182,151.0680626,train,NSW
+946,Unknown,2195,Wiley Park King Georges  Rd Ramp,-33.92270486,151.0680185,train,NSW
+947,Unknown,2756,Windsor George St Path,-33.61362381,150.8111058,train,NSW
+948,Unknown,2756,Windsor Cox St Path,-33.61292723,150.80902959999997,train,NSW
+949,Unknown,2579,Wingello Railway Pde Path,-34.69233579,150.15838180000003,train,NSW
+950,Unknown,2579,Wingello Sydney St Path,-34.69201661,150.15820580000002,train,NSW
+951,Unknown,2420,Wirragula Dungog Rd Ramp,-32.46292679,151.7424687,train,NSW
+952,Unknown,2205,Wolli Brodie Spark Dr Stairs,-33.92867126,151.15444319999997,train,NSW
+953,Unknown,2205,Wolli Brodie Spark Dr Lift,-33.92868435,151.1543587,train,NSW
+954,Unknown,2205,Wolli Discovery Point Pl Lift,-33.92884985,151.1538917,train,NSW
+955,Unknown,2205,Wolli Discovery Point Pl Stairs,-33.92882963,151.153842,train,NSW
+956,Unknown,2500,Wollongong Crown St Path,-34.42582725,150.8886385,train,NSW
+957,Unknown,2500,Wollongong Station St Stairs,-34.42673344,150.88855959999998,train,NSW
+958,Unknown,2500,Wollongong Station St Path,-34.42698795,150.88843630000002,train,NSW
+959,Unknown,2500,Wollongong Crown St Lift,-34.42645671,150.8884344,train,NSW
+960,Unknown,2500,Wollongong Crown St Lift,-34.42642506,150.88822009999998,train,NSW
+961,Unknown,2500,Wollongong Crown St Path,-34.42587253,150.88821230000002,train,NSW
+962,Unknown,2500,Wollongong Railway Staiton Sq Path,-34.42720865,150.8879475,train,NSW
+963,Unknown,2500,Wollongong Railway Staiton Sq Ramp,-34.42679193,150.8878175,train,NSW
+964,Unknown,2065,Wollstonecraft Milner Cres Path,-33.8315907,151.19259530000002,train,NSW
+965,Unknown,2065,Wollstonecraft Shirley Rd Ramp,-33.83245952,151.1921823,train,NSW
+966,Unknown,2065,Wollstonecraft Shirley Rd Path,-33.832674499999996,151.19179259999999,train,NSW
+967,Unknown,2065,Wollstonecraft Milray Ave Path,-33.83146743,151.1915732,train,NSW
+968,Unknown,2515,Wombarra Morrison Ave Stairs,-34.27545316,150.95367530000001,train,NSW
+969,Unknown,2515,Wombarra Morrison Ave Stairs,-34.27530416,150.9535083,train,NSW
+970,Unknown,2256,Wondabyne Wondabyne Wharf  Ramp,-33.49202131,151.2571482,train,NSW
+971,Unknown,2778,Woodford Railway Pde Stairs,-33.7357511,150.48219630000003,train,NSW
+972,Unknown,2778,Woodford Great Western Hwy Ramp,-33.73546893,150.4818417,train,NSW
+973,Unknown,2778,Woodford Great Western Hwy Ramp,-33.73526715,150.4808855,train,NSW
+974,Unknown,2230,Woolooware Swan St N Stairs,-34.04741225,151.1437622,train,NSW
+975,Unknown,2230,Woolooware Swan St N Lift,-34.04744884,151.1437013,train,NSW
+976,Unknown,2230,Woolooware Swan St Stairs,-34.04769831,151.1436487,train,NSW
+977,Unknown,2230,Woolooware Swan St Lift,-34.04765603,151.1435849,train,NSW
+978,Unknown,2517,Woonona Park Rd Ramp,-34.34939351,150.9153897,train,NSW
+979,Unknown,2517,Woonona Railway Pde Stairs,-34.34956158,150.91536000000002,train,NSW
+980,Unknown,2517,Woonona Park Rd Ramp,-34.34932926,150.9151104,train,NSW
+981,Unknown,2256,Woy Woy Blackwall Rd Path,-33.48597397,151.324352,train,NSW
+982,Unknown,2256,Woy Woy Railway St Ramp,-33.48527377,151.3237255,train,NSW
+983,Unknown,2256,Woy Woy Railway St Lift,-33.48585711,151.3233847,train,NSW
+984,Unknown,2256,Woy Woy Railway St Stairs,-33.48597825,151.3232156,train,NSW
+985,Unknown,2259,Wyee Wyee Rd Ramp,-33.17984054,151.48723999999999,train,NSW
+986,Unknown,2259,Wyee Gorokan Rd Stairs,-33.180164000000005,151.48685659999998,train,NSW
+987,Unknown,2000,Wynyard Carrington St Stairs,-33.86553906,151.2063145,train,NSW
+988,Unknown,2000,Wynyard Carrington St Stairs,-33.86583394,151.2062822,train,NSW
+989,Unknown,2000,Wynyard Carrington St Path,-33.86572268,151.206269,train,NSW
+990,Unknown,2000,Wynyard Carrington St Lift,-33.86570502,151.20610269999997,train,NSW
+991,Unknown,2000,Wynyard York St Stairs,-33.86566282,151.2059726,train,NSW
+992,Unknown,2000,Wynyard York St Stairs,-33.86575654,151.2059633,train,NSW
+993,Unknown,2000,Wynyard York St Path,-33.86560119,151.2055201,train,NSW
+994,Unknown,2000,Wynyard Jamison St Path,-33.86445369,151.20531609999998,train,NSW
+995,Unknown,2000,Wynyard Clarence St Lift,-33.86572968,151.20507990000002,train,NSW
+996,Unknown,2000,Wynyard Clarence St Path,-33.86564376,151.2050042,train,NSW
+997,Unknown,2000,Wynyard Clarence St Stairs,-33.86562889,151.2048,train,NSW
+998,Unknown,2000,Wynyard Napoleon St Path,-33.86524696,151.20397,train,NSW
+999,Unknown,2000,Wynyard Napoleon St Lift,-33.86534132,151.203967,train,NSW
+1000,Unknown,2259,Wyong Howarth St Stairs,-33.28508373,151.4255992,train,NSW
+1001,Unknown,2259,Wyong Howarth St Lift,-33.2853325,151.4255494,train,NSW
+1002,Unknown,2259,Wyong Pacific Hwy Lift,-33.28524935,151.4252208,train,NSW
+1003,Unknown,2259,Wyong Pacific Hwy Stairs,-33.2853225,151.42515869999997,train,NSW
+1004,Unknown,2199,Yagoona Hume Hwy Path,-33.90733106,151.0246767,train,NSW
+1005,Unknown,2161,Yennora Railway St Stairs,-33.86488282,150.97104,train,NSW
+1006,Unknown,2161,Yennora Nelson Rd Stairs,-33.86462082,150.9709456,train,NSW
+1007,Unknown,2161,Yennora Railway St Stairs,-33.86498836,150.9708084,train,NSW
+1008,Unknown,2161,Yennora Railway St Ramp,-33.86502912,150.97071619999997,train,NSW
+1009,Unknown,2575,Yerrinbool Old Hume Hwy Path,-34.37159251,150.54344809999998,train,NSW
+1010,Unknown,NSW,Zig Zag Bells Rd Stairs,-33.47184198,150.20211940000002,train,NSW

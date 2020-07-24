@@ -1,0 +1,1035 @@
+id,school_name,school_address,suburb,postcode,sector,school_type,school_lat,school_lon,state_code
+1,Abbotsleigh,1666 Pacific Highway,Wahroonga,2076,Independent,Combined,-33.719891,151.111345,NSW
+2,All Hallows School,Bayly Street,Gulgong,2852,Catholic,Primary,-32.36134,149.530965,NSW
+3,All Hallows Catholic Primary School,1 Halley St,Five Dock,2046,Catholic,Primary,-33.860897,151.133872,NSW
+4,All Saints College,Ophir Road,Bathurst,2795,Independent,Combined,-33.399074,149.564889,NSW
+5,All Saints Primary School,Murray Street,Tumbarumba,2653,Catholic,Primary,-35.775637,148.012444,NSW
+6,Arden Anglican School,39-43 Wongala Crescent,Beecroft,2119,Independent,Combined,-33.746393,151.065133,NSW
+7,Ascham School Ltd,188 New South Head Rd,Edgecliff,2027,Independent,Combined,-33.877077,151.236237,NSW
+8,The Assumption School,192 Mitre Street,Bathurst West,2795,Catholic,Primary,-33.411773,149.566954,NSW
+9,Bethlehem College,18 Bland Street,Ashfield,2131,Catholic,Secondary,-33.885622,151.124963,NSW
+10,Henschke Primary School,105 Fernleigh Road,Wagga Wagga,2650,Catholic,Primary,-35.131374,147.352069,NSW
+11,St Oliver's Primary School,33 Wigram Street,Harris Park,2150,Catholic,Primary,-33.824516,151.008984,NSW
+12,Blessed Sacrament Catholic Primary School,2 Queen Street,Clifton Gardens,2088,Catholic,Primary,-33.835101,151.244538,NSW
+13,Blue Mountains Grammar School,Matcham Avenue,Wentworth Falls,2782,Independent,Combined,-33.708454,150.370541,NSW
+14,Brigidine College  St Ives,325 Mona Vale Road,St Ives,2075,Independent,Secondary,-33.721615,151.17269,NSW
+15,Brigidine College Randwick,6 Aeolia Street,Randwick,2031,Catholic,Secondary,-33.919181,151.243928,NSW
+16,St Patrick's Parish School,Vale & Murray Streets,Cooma,2630,Catholic,Combined,-36.238066,149.126353,NSW
+17,Catherine McAuley Westmead,Darcy Road,Westmead,2145,Catholic,Secondary,-33.804721,150.984486,NSW
+18,Mercy Catholic College,101 Archer St,Chatswood,2067,Catholic,Secondary,-33.792968,151.184587,NSW
+19,Sacred Heart School,Morris Street,Cootamundra,2590,Catholic,Combined,-34.634589,148.030567,NSW
+20,Marian Catholic College,185 Wakaden Street,Griffith,2680,Catholic,Secondary,-34.286779,146.058283,NSW
+21,Central Coast Adventist School,Penrose Crescent,Erina,2250,Independent,Combined,-33.43634,151.38973,NSW
+22,Cerdon College,Sherwood Road,Merrylands,2160,Catholic,Secondary,-33.837664,150.968322,NSW
+23,Chevalier College,11 Charlotte Street,Burradoo,2576,Independent,Secondary,-34.506824,150.405476,NSW
+24,Southern Cross Catholic Vocational College,17 Comer Street,Burwood,2134,Catholic,Secondary,-33.871725,151.103225,NSW
+25,Christian Brothers High School,68 The Boulevarde,Lewisham,2049,Independent,Combined,-33.897142,151.145781,NSW
+26,St Mary's Cathedral College,St Mary'S Road,Sydney,2000,Catholic,Combined,-33.871288,151.213998,NSW
+27,St Paul's Catholic College,Darley Road,Manly,2095,Catholic,Secondary,-33.805199,151.291633,NSW
+28,Christ The King Catholic School Bass Hill,2 Cantrell Street,Yagoona,2199,Catholic,Primary,-33.906086,151.012986,NSW
+29,Newcastle Grammar School,60 Newcomen St,Newcastle,2300,Independent,Combined,-32.929914,151.780162,NSW
+30,Claremont College,30-32 Coogee Bay Road,Randwick,2031,Independent,Primary,-33.918233,151.244594,NSW
+31,Kincoppal-Rose Bay School of the Sacred Heart,New South Head Road,Rose Bay,2029,Independent,Combined,-33.864133,151.271996,NSW
+32,Coogee Boys' Preparatory School,Cnr Cook and Alison Road,Randwick,2031,Independent,Primary,-33.912015,151.238686,NSW
+33,Corpus Christi Catholic Primary School,17 Link Road,St Ives,2075,Catholic,Primary,-33.728293,151.16603,NSW
+34,Corpus Christi Primary School,Platt Street,Waratah,2298,Catholic,Primary,-32.900845,151.723195,NSW
+35,Cranbrook School,5 Victoria Road,Bellevue Hill,2023,Independent,Combined,-33.871698,151.251993,NSW
+36,Currambena School,205 Longueville Road,Lane Cove,2066,Independent,Primary,-33.820807,151.170301,NSW
+37,Danebank School,84-98 Park Rd & 75 Queens Rd,Hurstville,2220,Independent,Combined,-33.962508,151.102756,NSW
+38,De La Salle College,24 Bland St,Ashfield,2131,Catholic,Secondary,-33.885212,151.125366,NSW
+39,La Salle Catholic College,544 Chapel Rd,Bankstown,2200,Catholic,Secondary,-33.90808,151.034897,NSW
+40,"De La Salle Catholic College, Caringbah",389 Port Hacking Road,Caringbah,2229,Catholic,Secondary,-34.045089,151.122439,NSW
+41,De La Salle College,9 Ferndale Road,Revesby Heights,2212,Catholic,Secondary,-33.963329,151.015616,NSW
+42,Mackillop College,Gorman'S Hill Road,Bathurst,2795,Catholic,Secondary,-33.432524,149.588284,NSW
+43,Domremy Catholic College,121 First Avenue,Five Dock,2046,Catholic,Secondary,-33.869709,151.132909,NSW
+44,Edmund Rice College,112 Mount Keira Road,Wollongong West,2500,Independent,Secondary,-34.419125,150.863596,NSW
+45,Elonera Montessori School,21 Mount Ousley Road,Mount Ousley,2519,Independent,Combined,-34.407737,150.887415,NSW
+46,Frensham School,Range Road,Mittagong,2575,Independent,Secondary,-34.452408,150.452321,NSW
+47,Gib Gate School,Old Bowral Rd,Mittagong,2575,Independent,Primary,-34.454371,150.429814,NSW
+48,Glenaeon Rudolf Steiner School,5A Glenroy Avenue,Middle Cove,2068,Independent,Combined,-33.791479,151.208694,NSW
+49,St Augustine's Parish Primary School,10 Dandaloo St,Narromine,2821,Catholic,Primary,-32.227799,148.239866,NSW
+50,Holy Cross College,517 Victoria Road,Ryde,2112,Catholic,Secondary,-33.819607,151.117446,NSW
+51,Holy Cross Catholic Primary School,81 Edgecliff Road,Woollahra,2022,Catholic,Primary,-33.889857,151.251985,NSW
+52,Holy Cross Primary School,326 Lake Rd,Glendale,2285,Catholic,Primary,-32.925591,151.644715,NSW
+53,Holy Cross Catholic Primary School,1 Mcmillan Street,Helensburgh,2508,Catholic,Primary,-34.186511,150.986895,NSW
+54,Holy Family Primary School,199 The Trongate,Granville East,2142,Catholic,Primary,-33.847668,151.011135,NSW
+55,Holy Family Catholic Primary School,2-4 Highfield Road,Lindfield,2070,Catholic,Primary,-33.773994,151.165844,NSW
+56,Holy Family Primary School,19 Janet Street,Merewether Beach,2291,Catholic,Primary,-32.948936,151.753398,NSW
+57,Holy Innocents' Catholic Primary School,86-98 Queen Street,Croydon,2132,Catholic,Primary,-33.876215,151.113518,NSW
+58,Holy Name Primary School,41 Lake Street,Forster,2428,Catholic,Primary,-32.182848,152.517788,NSW
+59,Holy Spirit Primary School,Mutsch Street,Lavington,2641,Catholic,Primary,-36.037908,146.934837,NSW
+60,Holy Trinity School,Moore Street,Inverell,2360,Catholic,Combined,-29.779152,151.130976,NSW
+61,Holy Trinity West Wagga,13 Bardia Street,Ashmont,2650,Catholic,Primary,-35.125111,147.334402,NSW
+62,Holy Trinity Primary School,Grimwood Street,Granville,2142,Catholic,Primary,-33.835022,151.001612,NSW
+63,The Illawarra Grammar School,10-12 Western Ave,West Wollongong,2500,Independent,Combined,-34.428141,150.870765,NSW
+64,Immaculate Heart of Mary Catholic Primary School,10 Kerrinea Road,Sefton,2162,Catholic,Primary,-33.887156,151.008747,NSW
+65,Kambala,794 New South Head Road,Rose Bay,2029,Independent,Combined,-33.865613,151.272108,NSW
+66,Kinma School,127 Coolowie Road,Terrey Hills,2084,Independent,Primary,-33.686607,151.216969,NSW
+67,Kinross Wolaroi School,59-67 Bathurst Road,Orange,2800,Independent,Combined,-33.290963,149.11314,NSW
+68,Knox Grammar School,Pacific Highway,Wahroonga,2076,Independent,Combined,-33.72254,151.118596,NSW
+69,La Salle Academy,Rabaul St,Lithgow,2790,Catholic,Secondary,-33.495532,150.133152,NSW
+70,Loreto Kirribilli,85 Carabella St,Kirribilli,2061,Independent,Combined,-33.847115,151.215953,NSW
+71,Loreto Normanhurst,91-93 Pennant Hills Road,Normanhurst,2076,Independent,Combined,-33.721001,151.101132,NSW
+72,Lorien Novalis School for Rudolf Steiner Education,456 Old Northern Road,GLENHAVEN,2156,Independent,Combined,-33.702607,151.014572,NSW
+73,McAuley Catholic Primary School,8 Carlisle St,Rose Bay,2029,Catholic,Primary,-33.870578,151.272035,NSW
+74,Macksville Adventist School,Dudley Street,Macksville,2447,Independent,Primary,-30.709738,152.927269,NSW
+75,Macarthur Adventist College,12 Victoria Road,Macquarie Fields,2564,Independent,Combined,-33.98353,150.885188,NSW
+76,Marcellin College,195 Alison Road,Randwick,2031,Catholic,Secondary,-33.913571,151.240721,NSW
+77,Maria Regina Catholic Primary School,42 Central Road,Avalon Beach,2107,Catholic,Primary,-33.633492,151.33054,NSW
+78,Marist College Kogarah,52 Wolseley St,Bexley,2207,Catholic,Secondary,-33.958304,151.130397,NSW
+79,Marist College,44 Hillview Road,Eastwood,2122,Catholic,Secondary,-33.789442,151.0772,NSW
+80,Marist Catholic College Penshurst,65 Victoria Avenue,Mortdale,2223,Catholic,Secondary,-33.967666,151.083278,NSW
+81,Champagnat Catholic College,35 Donovan Avenue,Maroubra,2035,Catholic,Secondary,-33.946605,151.229064,NSW
+82,Marist College North Shore,270 Miller Street,North Sydney,2060,Catholic,Secondary,-33.831804,151.208105,NSW
+83,Sacred Heart Catholic Primary School,8 Cardinal St,Mosman,2088,Catholic,Primary,-33.824564,151.236298,NSW
+84,St Joseph's College,Mark Street,Hunters Hill,2110,Independent,Secondary,-33.830728,151.138935,NSW
+85,Marist Sisters' College Woolwich,66A Woolwich Road,Woolwich,2110,Catholic,Secondary,-33.839249,151.167506,NSW
+86,Mater Dei Catholic Primary School,29 Heath Road,Blakehurst,2221,Catholic,Primary,-33.98596,151.111709,NSW
+87,Mater Maria Catholic College,Forest Road,Warriewood,2102,Catholic,Secondary,-33.683473,151.286945,NSW
+88,Meriden School,12 Redmyre Road,Strathfield,2135,Independent,Combined,-33.873995,151.092041,NSW
+89,MLC School,Rowley Street,Burwood,2134,Independent,Combined,-33.871647,151.100967,NSW
+90,Monte Sant' Angelo Mercy College,128 Miller Street,North Sydney,2060,Independent,Secondary,-33.836476,151.207088,NSW
+91,Moriah College,Queens Park Road,Bondi Junction,2022,Independent,Combined,-33.899355,151.244827,NSW
+92,Our Lady of Mount Carmel Catholic Primary,4 Kellick Street,Waterloo,2017,Catholic,Primary,-33.899515,151.205678,NSW
+93,Mount St Benedict College,447A Pennant Hills Road,Pennant Hills,2120,Independent,Secondary,-33.741555,151.059254,NSW
+94,Sacred Heart Catholic School,4 Richard Porter Way,Pymble,2073,Catholic,Primary,-33.739331,151.137104,NSW
+95,Mount St John Primary School,Karabin Street,Dorrigo,2453,Catholic,Primary,-30.347208,152.714704,NSW
+96,Mount St Joseph Milperra,273 Horsley Road,Milperra,2214,Catholic,Secondary,-33.942553,150.993292,NSW
+97,Mount St Patrick Primary School,30 Mooball Street,Murwillumbah,2484,Catholic,Primary,-28.326148,153.394837,NSW
+98,Mount St Patrick College,Main Street,Murwillumbah,2484,Catholic,Secondary,-28.325477,153.394073,NSW
+99,Nagle College,58A Orwell Street,Blacktown South,2148,Catholic,Secondary,-33.790142,150.901741,NSW
+100,Macquarie College,182-222 Lake Road,Wallsend,2287,Independent,Combined,-32.922273,151.652731,NSW
+101,New England Girls School,Uralla Road,Armidale,2350,Independent,Combined,-30.519325,151.639774,NSW
+102,Newington College,200 Stanmore Road,Stanmore,2048,Independent,Combined,-33.897706,151.162913,NSW
+103,Oakhill College Castle Hill,423-513 Old Northern Road,Castle Hill,2154,Independent,Secondary,-33.72331,151.019677,NSW
+104,Our Lady Help of Christians Catholic Primary School,8-14 Cambridge Street,Epping,2121,Catholic,Primary,-33.770685,151.082975,NSW
+105,Our Lady Help of Christians Primary School,24 Rhodes Street,Lismore South,2480,Catholic,Primary,-28.815294,153.263706,NSW
+106,Our Lady of Dolours Catholic Primary School,94A Archer Street,Chatswood,2067,Catholic,Primary,-33.794612,151.184258,NSW
+107,Our Lady of Fatima Catholic Primary School,389 Port Hacking Road,Caringbah,2229,Catholic,Primary,-34.04568,151.121517,NSW
+108,Our Lady of Fatima Catholic Primary School,51 Caroline Street,Kingsgrove,2208,Catholic,Primary,-33.940713,151.102911,NSW
+109,Our Lady of Good Counsel Catholic Primary School,11 Currie Road,Forestville,2087,Catholic,Primary,-33.760229,151.220556,NSW
+110,Maronite College of the Holy Family - Parramatta,23-25 Alice Street,Harris Park,2150,Independent,Combined,-33.821552,151.014574,NSW
+111,Our Lady of Lourdes Primary School,5 Canyon Road,Baulkham Hills South,2153,Catholic,Primary,-33.766925,150.998102,NSW
+112,Our Lady of Lourdes Catholic Primary School,St James Avenue,Earlwood,2206,Catholic,Primary,-33.926987,151.126725,NSW
+113,Our Lady of Lourdes Primary School,7 Grantham Road,Seven Hills,2147,Catholic,Primary,-33.778664,150.932254,NSW
+114,Our Lady of Lourdes Primary School,Anderson Drive,Tarro,2322,Catholic,Primary,-32.809188,151.661803,NSW
+115,Our Lady of Mercy Catholic College Burraneer,62-66 Dominic Street,Cronulla,2230,Catholic,Secondary,-34.05434,151.135366,NSW
+116,Our Lady of Mercy College Parramatta,Victoria Road,Parramatta,2150,Independent,Secondary,-33.808348,151.003558,NSW
+117,Saints Peter and Paul Primary School,10 Knox Street,Goulburn,2580,Catholic,Primary,-34.759304,149.701827,NSW
+118,Our Lady of Mt Carmel Catholic Primary School Mount Pritchard,230 Humphries Rd,Bonnyrigg,2177,Catholic,Primary,-33.893599,150.898581,NSW
+119,Our Lady of Mount Carmel Primary School,Bennett Street,Wentworthville,2145,Catholic,Primary,-33.812221,150.969591,NSW
+120,Our Lady of Perpetual Succour Catholic Primary School,64 Kendall Street,West Pymble,2073,Catholic,Primary,-33.761008,151.130312,NSW
+121,Our Lady of The Annunciation Catholic Primary School,31 Donovan Avenue,Maroubra,2035,Catholic,Primary,-33.946787,151.229893,NSW
+122,Our Lady of the Nativity Primary School,7 Somers Street,Lawson,2783,Catholic,Primary,-33.719732,150.440038,NSW
+123,Mary MacKillop Catholic College,5 Carnarvon Street,Wakeley,2176,Catholic,Secondary,-33.866026,150.910826,NSW
+124,Our Lady of the Rosary Catholic Primary School,20 Vine Street,Fairfield,2165,Catholic,Primary,-33.872794,150.959367,NSW
+125,Our Lady of The Rosary Catholic Primary School,Kensington Road,Kensington,2033,Catholic,Primary,-33.912153,151.221109,NSW
+126,Our Lady of the Rosary Primary School,32b Saddington Street,St Marys,2760,Catholic,Primary,-33.772735,150.774748,NSW
+127,Our Lady Of The Rosary Catholic Primary School,Shelly Beach Road,Shelly Beach,2261,Catholic,Primary,-33.345211,151.49494,NSW
+128,Our Lady of the Rosary Catholic Primary School,23 Yardley Avenue,Waitara,2077,Catholic,Primary,-33.713747,151.104473,NSW
+129,Our Lady of the Sacred Heart College,36 Addison Street,Kensington,2033,Catholic,Secondary,-33.912662,151.219769,NSW
+130,Our Lady of the Sacred Heart Catholic Primary School,193 Avoca Street,Randwick,2031,Catholic,Primary,-33.915717,151.241606,NSW
+131,Our Lady of Victories Primary School,15 Lovell Parade,Shortland,2307,Catholic,Primary,-32.888519,151.694497,NSW
+132,Parramatta Marist High School,2 Darcy Road,Westmead,2145,Catholic,Secondary,-33.805128,150.984213,NSW
+133,Patrician Brothers' College,100 Flushcombe Rd,Blacktown,2148,Catholic,Secondary,-33.775358,150.909543,NSW
+134,Patrician Brothers' College Fairfield,268 The Horsley Drive,Fairfield,2165,Catholic,Secondary,-33.872141,150.963528,NSW
+135,Delany College,Grimwood Street,Granville,2142,Catholic,Secondary,-33.834406,151.001174,NSW
+136,Port Macquarie Adventist School,500 Ocean Drive,Port Macquarie,2444,Independent,Primary,-31.467565,152.899899,NSW
+137,PLC Armidale,15-57 Crest Road,Armidale,2350,Independent,Combined,-30.503633,151.66291,NSW
+138,Presbyterian Ladies College,Boundary Street,Croydon,2132,Independent,Combined,-33.881336,151.115655,NSW
+139,Pymble Ladies' College,Avon Road,Pymble,2073,Independent,Combined,-33.747306,151.134137,NSW
+140,Prouille Catholic Primary School,5 Water Street,Wahroonga,2076,Catholic,Primary,-33.715801,151.121588,NSW
+141,Queenwood School for Girls Ltd,47 Mandolong Rd,Mosman,2088,Independent,Combined,-33.834453,151.243303,NSW
+142,Ravenswood School for Girls,Henry Street,Gordon,2072,Independent,Combined,-33.759249,151.155054,NSW
+143,Regina Coeli Catholic Primary School,2 Tarrilli Street,Beverly Hills,2209,Catholic,Primary,-33.946885,151.08,NSW
+144,Roseville College,27-29 Bancroft Avenue,Roseville,2069,Independent,Combined,-33.78517,151.179521,NSW
+145,Sacred Heart School,57 Laidlaw Street,Boggabri,2382,Catholic,Primary,-30.706671,150.045822,NSW
+146,Sacred Heart Catholic School,Gilmore Street,Cabramatta,2166,Catholic,Primary,-33.890482,150.93653,NSW
+147,Sacred Heart Primary School,Church St,Coolah,2843,Catholic,Primary,-31.825643,149.710819,NSW
+148,Sacred Heart Catholic Primary School,Waratah St,Mona Vale,2103,Catholic,Primary,-33.675596,151.30026,NSW
+149,Sacred Heart Primary School,37-45 Charlotte Street,Tocumwal,2714,Catholic,Primary,-35.814863,145.575806,NSW
+150,Sacred Heart Catholic Primary School,122 Carawatha Street,Villawood,2163,Catholic,Primary,-33.889059,150.975512,NSW
+151,Sacred Heart Primary School,12 Ralph Street,Westmead,2145,Catholic,Primary,-33.813595,150.986749,NSW
+152,St Agatha's Catholic Primary School,7 Trebor Road,Pennant Hills,2120,Catholic,Primary,-33.739302,151.066878,NSW
+153,St Agnes' Catholic Primary School,511 Bunnerong Road,Matraville,2036,Catholic,Primary,-33.958865,151.231575,NSW
+154,St Aidan's Catholic Primary School,214 Maroubra Road,Maroubra,2035,Catholic,Primary,-33.941868,151.241796,NSW
+155,St Aidan's Primary School,1-5 Adelaide Street,Rooty Hill,2766,Catholic,Primary,-33.765133,150.83744,NSW
+156,St Aloysius' College,47 Upper Pitt Street,Milsons Point,2061,Independent,Combined,-33.848502,151.214259,NSW
+157,St Aloysius Catholic Primary School,Giddings Avenue,Cronulla,2230,Catholic,Primary,-34.057601,151.153079,NSW
+158,St Ambrose Catholic Primary School,Stuart Street,Concord West,2138,Catholic,Primary,-33.849833,151.086876,NSW
+159,St Andrew's Catholic Primary School,18 Prince Edward Street,Malabar,2036,Catholic,Primary,-33.964057,151.247554,NSW
+160,St Andrew's Primary School,36 Breakfast Road,Marayong,2148,Catholic,Primary,-33.749153,150.888961,NSW
+161,Galilee Catholic Primary School,60B Blair Street,Bondi Beach,2026,Catholic,Primary,-33.885435,151.276527,NSW
+162,St Anne's Primary School,Curlew Crescent,Albury North,2640,Catholic,Primary,-36.060324,146.936111,NSW
+163,St Anne's Catholic Primary School,St Anne'S Square,Strathfield South,2136,Catholic,Primary,-33.892383,151.077934,NSW
+164,St Anne's Central School,De Boos St,Temora,2666,Catholic,Combined,-34.445517,147.535171,NSW
+165,St Anthony's Catholic Primary School,58 Arden Street,Clovelly,2031,Catholic,Primary,-33.910531,151.258766,NSW
+166,St Anthony's Primary School,216 Targo Rd,Girraween,2145,Catholic,Primary,-33.792236,150.950479,NSW
+167,St Anthony's Primary School,23 Boomerang Street,Kingscliff,2487,Catholic,Primary,-28.257509,153.576094,NSW
+168,St Augustine's College,Alfred Road,Brookvale,2100,Independent,Combined,-33.760141,151.271862,NSW
+169,St Augustine's Primary School,Gordon Street,Coffs Harbour,2450,Catholic,Primary,-30.300858,153.113055,NSW
+170,St Bede's Primary School,Park Lane,Braidwood,2622,Catholic,Primary,-35.44175,149.799421,NSW
+171,St Benedict's Primary School,839 Main Road,Edgeworth,2285,Catholic,Primary,-32.923248,151.611986,NSW
+172,St Bernadette's Primary School,357 Old Northern Road,Castle Hill,2154,Catholic,Primary,-33.731875,151.011759,NSW
+173,St Bernadette's Primary School,Cox Crescent,Dundas Valley,2117,Catholic,Primary,-33.790923,151.05055,NSW
+174,St Bernadette's Primary School,18 Wheeler Street,Lalor Park,2147,Catholic,Primary,-33.761315,150.92628,NSW
+175,St Bernard's Catholic Primary School,Warrina St,Berowra Heights,2082,Catholic,Primary,-33.614196,151.144474,NSW
+176,St Bernard's Catholic Primary School,Ramsgate Street,Botany,2019,Catholic,Primary,-33.945453,151.200034,NSW
+177,St Brigid's Primary School,8 Tooloon Street,Coonamble,2829,Catholic,Primary,-30.952783,148.387128,NSW
+178,St Brendan's Catholic Primary School,30 Collins St,Annandale,2038,Catholic,Primary,-33.884204,151.170909,NSW
+179,St Brendan's Catholic Primary School,18 Cambridge Avenue,Bankstown,2200,Catholic,Primary,-33.921723,151.029046,NSW
+180,St Brendan's Primary School,46 Langham St,Ganmain,2702,Catholic,Primary,-34.796397,147.042871,NSW
+181,St Brigid's Catholic Primary School,2 Vickery Street,Gwynneville,2500,Catholic,Primary,-34.416383,150.882332,NSW
+182,St Brigid's Catholic Primary School,392A Marrickville Road,Marrickville,2204,Catholic,Primary,-33.909693,151.152463,NSW
+183,St Brigid's Primary School,Groom Street,Kyogle,2474,Catholic,Primary,-28.626191,153.004565,NSW
+184,St Brigid's Primary School,52 Irrawang Street,Raymond Terrace,2324,Catholic,Primary,-32.76456,151.746583,NSW
+185,St Canice's Primary School,158 Katoomba Street,Katoomba,2780,Catholic,Primary,-33.716088,150.311092,NSW
+186,St Catherine Labour?Catholic Primary School,123 Gymea Bay Road,Gymea,2227,Catholic,Primary,-34.037134,151.083979,NSW
+187,St Catherine's School,26 Albion Street,Waverley,2024,Independent,Combined,-33.903752,151.255351,NSW
+188,St Cecilia's Catholic Primary School,59 Seaview Street,Balgowlah,2093,Catholic,Primary,-33.79624,151.25797,NSW
+189,St Cecilia's Catholic Primary School,Panonia Road,Wyong,2259,Catholic,Primary,-33.291361,151.428293,NSW
+190,St Charles Catholic Primary School,582 Victoria Road,Ryde,2112,Catholic,Primary,-33.818342,151.114403,NSW
+191,St Charles' Primary School,53-63 Carrington Road,Waverley,2024,Catholic,Primary,-33.89926,151.253604,NSW
+192,St Christopher's Catholic Primary School,237 Tower Street,Panania,2213,Catholic,Primary,-33.957452,150.996616,NSW
+193,St Philip Neri Catholic Primary School,67 Baringa Road,Northbridge,2063,Catholic,Primary,-33.812124,151.214678,NSW
+194,St Clare's College,41-51 Carrington Road,Waverley,2024,Catholic,Secondary,-33.898575,151.253428,NSW
+195,St Columban's Primary School,39 Church St,Mayfield,2304,Catholic,Primary,-32.896763,151.74189,NSW
+196,St Columba's School,Forbes Street,Yeoval,2868,Catholic,Primary,-32.754016,148.649583,NSW
+197,St Columba's Primary School,Lockyer St,Adamstown,2289,Catholic,Primary,-32.937186,151.725652,NSW
+198,St Columba's Primary School,6-14 Corcoran St,Berrigan,2712,Catholic,Primary,-35.655676,145.80874,NSW
+199,St Columba's Catholic Primary School,215 Elswick St,Leichhardt North,2040,Catholic,Primary,-33.879698,151.152206,NSW
+200,St Columbkille's Catholic Primary School,119 Princes Highway,Corrimal,2518,Catholic,Primary,-34.367869,150.897683,NSW
+201,St Declan's Catholic Primary School,94 Penshurst St,Penshurst,2222,Catholic,Primary,-33.963247,151.086994,NSW
+202,St Dominic's College,54-74 Gascoigne Street,Kingswood,2747,Independent,Combined,-33.753735,150.713765,NSW
+203,St Edward's College,13 Frederick Street,East Gosford,2250,Independent,Secondary,-33.438548,151.346057,NSW
+204,St Edward's School,Tilga Street,Canowindra,2804,Catholic,Primary,-33.565652,148.664657,NSW
+205,St Felix's Catholic Primary School,552 Chapel Road,Bankstown,2200,Catholic,Primary,-33.907133,151.035432,NSW
+206,St Fiacre's Catholic Primary School,98 Catherine Street,Leichhardt,2040,Catholic,Primary,-33.884798,151.162197,NSW
+207,St Finbarr's Primary School,1 Arakwal Court,Byron Bay,2481,Catholic,Primary,-28.6656,153.6158,NSW
+208,St Finbar's Primary School,Broughton St,Sans Souci,2219,Catholic,Primary,-33.992474,151.129188,NSW
+209,St Finbar's Primary School,Levy Street,Glenbrook,2773,Catholic,Primary,-33.761142,150.61756,NSW
+210,St Francis de Sales Regional College,Yanco Avenue,Leeton,2705,Catholic,Secondary,-34.567877,146.41053,NSW
+211,St Francis De Sales' Catholic Primary School,14 Hill Street,Woolooware,2230,Catholic,Primary,-34.052366,151.142136,NSW
+212,St Francis of Assisi Catholic Primary School,95 Flagstaff Road,Warrawong,2502,Catholic,Primary,-34.479703,150.879865,NSW
+213,St Francis of Assisi Regional Catholic Primary School,64 Gordon St,Paddington,2021,Catholic,Primary,-33.888487,151.231352,NSW
+214,St Francis Xavier's College,286 Parkway Avenue,Hamilton,2303,Catholic,Secondary,-32.927166,151.753714,NSW
+215,St Francis Xavier Catholic School Ashbury,40-44 Forbes St,Croydon Park,2133,Catholic,Primary,-33.896955,151.114352,NSW
+216,St Francis Xavier's Catholic Primary School,Forest Road,Arncliffe,2205,Catholic,Primary,-33.939599,151.147263,NSW
+217,St Francis Xavier's Primary School,38-50 Swift Street,Ballina,2478,Catholic,Primary,-28.868353,153.564096,NSW
+218,St Francis Xavier Primary School,Conapaira Street,Lake Cargelligo,2672,Catholic,Primary,-33.29647,146.3688,NSW
+219,St Francis Xavier Primary School,End Street,Urana,2645,Catholic,Primary,-35.334685,146.26408,NSW
+220,St Gabriel's Catholic School,50-52 Abercorn Street,Bexley,2207,Catholic,Primary,-33.947877,151.12174,NSW
+221,St Gerard's Catholic Primary School,543 North Rocks Rd,Carlingford,2118,Catholic,Primary,-33.765875,151.050937,NSW
+222,St Gertrude's Catholic Primary School,1-11 Justin Street,Smithfield,2164,Catholic,Primary,-33.854662,150.93817,NSW
+223,St Gregory's College Campbelltown,100 Badgally Road,Gregory Hills,2557,Independent,Secondary,-34.04102,150.788495,NSW
+224,St Ignatius' College,Tambourine Bay Road,Lane Cove,2066,Independent,Combined,-33.819533,151.165517,NSW
+225,St Ignatius' Primary School,3 Meek Street,Bourke,2840,Catholic,Primary,-30.088163,145.931546,NSW
+226,St James Catholic Primary School,2 Woolley St,Glebe,2037,Catholic,Primary,-33.879547,151.18509,NSW
+227,St James Primary School,Vista Parade,Kotara South,2289,Catholic,Primary,-32.948315,151.699885,NSW
+228,St James Primary School,Skellatar Stock Route,Muswellbrook,2333,Catholic,Primary,-32.28022,150.883778,NSW
+229,St Jerome's Catholic Primary School,Rossmore Ave,Punchbowl,2196,Catholic,Primary,-33.927378,151.054852,NSW
+230,St Joachim's Catholic Primary School,7 Mary Street,Lidcombe,2141,Catholic,Primary,-33.862936,151.046117,NSW
+231,St Joan Of Arc Catholic Primary School,88 Dalhousie St,Haberfield,2045,Catholic,Primary,-33.879352,151.139551,NSW
+232,St John Bosco Catholic Primary School,Banksia Avenue,Engadine,2233,Catholic,Primary,-34.065931,151.008349,NSW
+233,St John's Primary School,138 Sheraton Road,Dubbo,2830,Catholic,Primary,-32.252065,148.603559,NSW
+234,St John's College,162 Sheraton Road,Dubbo,2830,Catholic,Secondary,-32.268003,148.645796,NSW
+235,St John's Lutheran Primary School,154 Adams Street,Jindera,2642,Independent,Primary,-35.95709,146.881683,NSW
+236,St John's Catholic Primary School,77 Queen Street,Auburn,2144,Catholic,Primary,-33.851348,151.032786,NSW
+237,St John the Evangelist Catholic Primary School,Lindesay Street,Campbelltown,2560,Catholic,Primary,-34.069508,150.817454,NSW
+238,St John's Catholic Primary School,Jerematta Street,Dapto,2530,Catholic,Primary,-34.49325,150.799363,NSW
+239,St John the Baptist Primary School,12 Victoria St,Maitland,2320,Catholic,Primary,-32.73807,151.558325,NSW
+240,St John's School,Queen St,Baradine,2396,Catholic,Primary,-30.950582,149.065925,NSW
+241,St John's Primary School,2-4 Prince Street,Cobar,2835,Catholic,Primary,-31.498509,145.833936,NSW
+242,St John's Primary School,Dickson Street,Lambton,2299,Catholic,Primary,-32.910351,151.710549,NSW
+243,St John The Apostle Catholic Primary School,166 Alfred Street,Narraweena,2099,Catholic,Primary,-33.750459,151.274351,NSW
+244,St John's Primary School,5 Mcculloch Street,Riverstone,2765,Catholic,Primary,-33.67541,150.871901,NSW
+245,St John's Primary School,89 Dandaloo Street,Trangie,2823,Catholic,Primary,-32.03496,147.978546,NSW
+246,St John The Baptist Catholic Primary School,7 Johnson St,Freshwater,2096,Catholic,Primary,-33.774908,151.282986,NSW
+247,St John The Baptist Catholic Primary School,21A Dulkara Road,Woy Woy South,2256,Catholic,Primary,-33.502835,151.304027,NSW
+248,St John Vianney Catholic Primary School,78 Tempe Street,Greenacre,2190,Catholic,Primary,-33.903833,151.0593,NSW
+249,St John Vianney's Primary School,60-66 Yambo Street,Morisset,2264,Catholic,Primary,-33.109189,151.485189,NSW
+250,St Patrick's Primary School,113 Gregory Rd,Lochinvar,2321,Catholic,Primary,-32.70211,151.455239,NSW
+251,St Joseph's Primary School,Greville Street,South Murwillumbah,2484,Catholic,Primary,-28.331316,153.398364,NSW
+252,St Joseph's Primary School,80 Palace Street,Denman,2328,Catholic,Primary,-32.386959,150.689135,NSW
+253,St Joseph's Primary School,36 Kemp Street,West Kempsey,2440,Catholic,Primary,-31.075541,152.832134,NSW
+254,St Joseph's Primary School,421 Ocean Drive,Laurieton,2443,Catholic,Primary,-31.640825,152.792044,NSW
+255,Sts Peter and Paul Catholic Primary School,96 Manning Street,Kiama,2533,Catholic,Primary,-34.675825,150.853223,NSW
+256,St Joseph's Catholic School,Queen Street,Oberon,2787,Catholic,Primary,-33.705108,149.85678,NSW
+257,St Joseph's Catholic College,Russell Drysdale St,Gosford East,2250,Catholic,Secondary,-33.436858,151.346876,NSW
+258,Holy Spirit Infants School,Church Street,Abermain,2326,Catholic,Primary,-32.81091,151.443237,NSW
+259,St Joseph's Primary School,Adam St,Coraki,2471,Catholic,Primary,-28.989312,153.286072,NSW
+260,St Joseph's Catholic School,Pye St,Eugowra,2806,Catholic,Primary,-33.428149,148.373779,NSW
+261,St Joseph's Primary School,Coree Street,Finley,2713,Catholic,Primary,-35.637614,145.577308,NSW
+262,St Joseph's Primary School,53 Denison Street,Gloucester,2422,Catholic,Primary,-32.00817,151.961621,NSW
+263,St Joseph's Primary School,18 Ash Street,Leeton,2705,Catholic,Primary,-34.554931,146.404439,NSW
+264,St Joseph's Primary School,Farquhar Street,Merewether,2291,Catholic,Primary,-32.937049,151.758934,NSW
+265,St Joseph's Catholic Primary School,108 Ocean Street,Narrabeen,2101,Catholic,Primary,-33.713045,151.300014,NSW
+266,St Joseph's School,Williewa Street,Portland,2847,Catholic,Primary,-33.353244,149.988335,NSW
+267,St Joseph's Primary School,Warlters Street,Port Macquarie,2444,Catholic,Primary,-31.429358,152.894868,NSW
+268,St Joseph's Catholic Primary School,Watkin Street,Rockdale,2216,Catholic,Primary,-33.951347,151.135236,NSW
+269,St Joseph's Primary School,1 St Joseph's Drive,Taree,2430,Catholic,Primary,-31.912498,152.456446,NSW
+270,St Joseph's Primary School,20 Coraki Rd,Woodburn,2472,Catholic,Primary,-29.072576,153.33785,NSW
+271,St Joseph's Primary School,Adelaide Street,Blayney,2799,Catholic,Primary,-33.524941,149.257227,NSW
+272,St Joseph's High School,Segenhoe Street,Aberdeen,2336,Catholic,Secondary,-32.167615,150.887984,NSW
+273,St Joseph's School,21-35 Gundagai Street,Adelong,2729,Catholic,Primary,-35.313492,148.06687,NSW
+274,St Joseph's Primary School,11 Perry Street,Alstonville,2477,Catholic,Primary,-28.838298,153.437713,NSW
+275,St Joseph's School,60 Fitzroy St,Barraba,2347,Catholic,Primary,-30.377122,150.608957,NSW
+276,St Bernard's Primary School  Batemans Bay,David Street,Batehaven,2536,Catholic,Primary,-35.739114,150.205622,NSW
+277,St Francis Xavier's Primary School,Ernest Street,Belmont,2280,Catholic,Primary,-33.037763,151.661659,NSW
+278,St Joseph's Catholic Primary School,8 Wilson Ave,Belmore,2192,Catholic,Primary,-33.923892,151.089192,NSW
+279,St Joseph's School,29 Queen Street,Bombala,2632,Catholic,Primary,-36.906441,149.2359,NSW
+280,St Joseph's School,Scott St,Boorowa,2586,Catholic,Primary,-34.438553,148.712939,NSW
+281,St Joseph's Primary School,26C Bulahdelah Way,Bulahdelah,2423,Catholic,Primary,-32.404873,152.213469,NSW
+282,St Joseph's Catholic Primary School,50 Park Road,Bulli,2516,Catholic,Primary,-34.334055,150.918223,NSW
+283,St Kevin's Primary School,228 Main Rd,Cardiff,2285,Catholic,Primary,-32.942795,151.665665,NSW
+284,St Joseph's Primary School,Shelton Street,Charlestown,2290,Catholic,Primary,-32.966894,151.702628,NSW
+285,St Joseph's Catholic Primary School Como - Oyster Bay,Oyster Bay Road,Como,2226,Catholic,Primary,-34.00927,151.073429,NSW
+286,St Joseph's Primary School,279 William Street,Condobolin,2877,Catholic,Primary,-33.084592,147.146801,NSW
+287,St Joseph's Primary School,8 Blair St,Culcairn,2660,Catholic,Primary,-35.668659,147.035821,NSW
+288,St Joseph's Primary School,49 Brown Street,Dungog,2420,Catholic,Primary,-32.400729,151.754143,NSW
+289,St Joseph's Catholic Primary School,126 Liverpool Road,Enfield,2136,Catholic,Primary,-33.88806,151.10129,NSW
+290,St Joseph's School,20 Wrigley Street,Gilgandra,2827,Catholic,Primary,-31.708488,148.663239,NSW
+291,St Joseph's Primary School,Hyde Street,Grafton South,2460,Catholic,Primary,-29.725385,152.933617,NSW
+292,St Joseph's School,Weddin Street,Grenfell,2810,Catholic,Primary,-33.898153,148.162516,NSW
+293,St Joseph's Primary School,Aiden Street,Hillston,2675,Catholic,Primary,-33.484283,145.528149,NSW
+294,St Joseph's Primary School,Kitchener Street,Junee,2663,Catholic,Primary,-34.87224,147.577395,NSW
+295,St Joseph's Primary School,94 Joseph Street,Kingswood,2747,Catholic,Primary,-33.756798,150.721502,NSW
+296,Holy Spirit Primary School,Barton Street,Kurri Kurri,2327,Catholic,Primary,-32.818582,151.484671,NSW
+297,St Joseph's Primary School,Ferrier Street,Lockhart,2656,Catholic,Primary,-35.220472,146.718077,NSW
+298,St Joseph's Primary School,23 Stanley Street,Maclean,2463,Catholic,Primary,-29.459346,153.202276,NSW
+299,St Joseph's Primary School,57 King Street,East Maitland,2323,Catholic,Primary,-32.750531,151.58513,NSW
+300,St Joseph's School,Loftus Street,Manildra,2865,Catholic,Primary,-33.184217,148.694661,NSW
+301,St Joseph's Primary School,Marquet Street,Merriwa,2329,Catholic,Primary,-32.136813,150.358488,NSW
+302,St Joseph's School,Edward Street,Molong,2866,Catholic,Primary,-33.094281,148.864531,NSW
+303,St Joseph's School,72 - 74 Bucknell Street,Mungindi,2406,Catholic,Primary,-28.979979,148.990844,NSW
+304,St Joseph's Primary School,85 Larmer Street,Narrandera,2700,Catholic,Primary,-34.749233,146.554626,NSW
+305,St Joseph's Primary School,23 Terangion Street,Nyngan,2825,Catholic,Primary,-31.56439,147.190633,NSW
+306,St Joseph's Catholic Primary School,21 Rosa Street,Oatley,2223,Catholic,Primary,-33.981565,151.082548,NSW
+307,St Joseph's Primary School,165 Caswell Street,Peak Hill,2869,Catholic,Primary,-32.726162,148.187016,NSW
+308,St Joseph's School,18 Thomas Street,Quirindi,2343,Catholic,Primary,-31.510242,150.677422,NSW
+309,St Joseph's Catholic Primary School,28-32 Thurlow St,Riverwood,2210,Catholic,Primary,-33.951767,151.055038,NSW
+310,St Joseph's School,99 Bridge Street,Tamworth West,2340,Catholic,Primary,-31.093385,150.917015,NSW
+311,St Joseph's School,50 Scott Street,Tenterfield,2372,Catholic,Primary,-29.058372,152.014773,NSW
+312,St Joseph's Primary School,140 Wangi Road,Kilaben Bay,2283,Catholic,Primary,-33.024861,151.57777,NSW
+313,St Joseph's School,Wood Street,Uralla,2358,Catholic,Primary,-30.639193,151.50501,NSW
+314,St Joseph's School,82 Arthur Street,Walgett,2832,Catholic,Primary,-30.024698,148.114405,NSW
+315,St Joseph's School,Stewart Street,Warialda,2402,Catholic,Primary,-29.543428,150.57334,NSW
+316,St Joseph's Primary School,1 King Street,Wauchope,2446,Catholic,Primary,-31.459694,152.732375,NSW
+317,St Joseph's Primary School,Alma Street,Wee Waa,2388,Catholic,Primary,-30.227233,149.443937,NSW
+318,St Joseph's Primary School,Church Crescent,Wingham,2429,Catholic,Primary,-31.871014,152.373716,NSW
+319,St Joseph The Worker Catholic Primary School,2 New Street,Auburn South,2144,Catholic,Primary,-33.864697,151.02426,NSW
+320,St Joseph's School,26 Coreen St,Jerilderie,2716,Catholic,Primary,-35.358181,145.724032,NSW
+321,St Kevin's Catholic Primary School,57 - 59 Oaks Avenue,Dee Why,2099,Catholic,Primary,-33.754445,151.290364,NSW
+322,St Kevin's Catholic Primary School,28 Hillview Road,Eastwood,2122,Catholic,Primary,-33.789546,151.078684,NSW
+323,St Kieran's Catholic Primary School,63 Gordon Street,Manly Vale,2093,Catholic,Primary,-33.801553,151.255521,NSW
+324,St Laurence's Primary School,Fitzroy Street,Dubbo,2830,Catholic,Primary,-32.260407,148.611988,NSW
+325,St Lawrence's Primary School,Dalgarno St,Coonabarabran,2357,Catholic,Primary,-31.275219,149.273384,NSW
+326,St Leo's Catholic College,16 Woolcott Ave,Wahroonga,2076,Catholic,Secondary,-33.715037,151.104338,NSW
+327,St Luke's Catholic Primary School,75-79 Victoria Street,Revesby,2212,Catholic,Primary,-33.945569,151.016979,NSW
+328,St Margaret Mary's Primary School,7 Chetwynd Road,Merrylands,2160,Catholic,Primary,-33.836279,150.981727,NSW
+329,St Margaret Mary's Catholic Primary School,Cnr Avoca St and Clovelly Rd,Randwick,2031,Catholic,Primary,-33.90529,151.244676,NSW
+330,St Mark's Catholic Primary School,31 Tranmere St,Drummoyne,2047,Catholic,Primary,-33.855573,151.154133,NSW
+331,St Maroun's College,194-206 Wardell Road,Dulwich Hill,2203,Independent,Combined,-33.908236,151.144181,NSW
+332,St Martha's Catholic Primary School,88 Churchill Avenue,Strathfield,2135,Catholic,Primary,-33.873815,151.086979,NSW
+333,St Mary of the Angels Primary School,36 Wirruna Street,Guyra,2365,Catholic,Primary,-30.225568,151.67242,NSW
+334,St Mary's Primary School,156 Rusden Street,Armidale,2350,Catholic,Primary,-30.516282,151.664034,NSW
+335,St Mary Star of the Sea College,Harbour Street,Wollongong,2500,Independent,Secondary,-34.424075,150.903403,NSW
+336,St Mary's Primary School,Park Street,Bellingen,2454,Catholic,Primary,-30.45571,152.898143,NSW
+337,St Mary's Catholic Primary School,2 Broughton Street,Concord,2137,Catholic,Primary,-33.86792,151.103026,NSW
+338,All Saints Catholic College,53 Bigge Street,Liverpool,2170,Catholic,Secondary,-33.920036,150.926859,NSW
+339,St Mary's High School,Pacific Highway,Gateshead,2290,Catholic,Secondary,-32.980587,151.692941,NSW
+340,St Mary's Catholic School,Percy St,Wellington,2820,Catholic,Combined,-32.556533,148.943445,NSW
+341,All Saints Catholic Primary School (Liverpool),George Street,Liverpool,2170,Catholic,Primary,-33.919077,150.926265,NSW
+342,Rosebank College,1A Harris Road,Five Dock,2046,Independent,Secondary,-33.868701,151.122212,NSW
+343,St Mary's School,Selwyn Street,Batlow,2730,Catholic,Primary,-35.521774,148.146249,NSW
+344,St Mary's Primary School,Carbin Street,Bowraville,2449,Catholic,Primary,-30.650993,152.850688,NSW
+345,St Mary's Catholic College,Canterbury Street,Casino,2470,Catholic,Secondary,-28.861067,153.045384,NSW
+346,St Mary's Primary School,207 Federation Drive,Corowa,2646,Catholic,Primary,-35.996528,146.388105,NSW
+347,St Mary's School,Wade Street,Crookwell,2583,Catholic,Primary,-34.462394,149.469288,NSW
+348,St Mary's Primary School,Wheeler'S Lane,Dubbo,2830,Catholic,Primary,-32.242336,148.631385,NSW
+349,St Mary's Catholic Primary School ,54 Swanson Street,Erskineville,2043,Catholic,Primary,-33.900199,151.187625,NSW
+350,St Mary's Primary School,436 Moppett Street,Hay,2711,Catholic,Primary,-34.508916,144.839753,NSW
+351,St Mary's Catholic Primary School,Whistler St,Manly,2095,Catholic,Primary,-33.795043,151.286323,NSW
+352,St Mary's School,Queen Street,Moruya,2537,Catholic,Primary,-35.909964,150.080108,NSW
+353,St Mary's Catholic Primary School ,40 Ridge Street,North Sydney,2060,Catholic,Primary,-33.832701,151.207592,NSW
+354,St Mary's Primary School,Cnr Byng & Park Streets,Orange East,2800,Catholic,Primary,-33.284615,149.117119,NSW
+355,St Mary's Primary School,1 Myrtle St,Rydalmere,2116,Catholic,Primary,-33.811898,151.040766,NSW
+356,St Mary's Primary School,12 Short Street,Scone,2337,Catholic,Primary,-32.053022,150.872225,NSW
+357,St Mary's Primary School,2 Bayview St,Warners Bay,2282,Catholic,Primary,-32.975937,151.648849,NSW
+358,St Mary's Primary School,2 Lawson Street,Warren,2824,Catholic,Primary,-31.699525,147.838373,NSW
+359,St Mary's Primary School,Edon Street,Yoogali,2680,Catholic,Primary,-34.300591,146.083074,NSW
+360,St Mary's Primary School,Elizabeth Street,Young,2594,Catholic,Primary,-34.308091,148.300263,NSW
+361,St Mary's Star of the Sea Catholic Primary School,24-26 Croydon Road,Hurstville,2220,Catholic,Primary,-33.960257,151.111775,NSW
+362,St Mary's Star of the Sea Catholic Primary School,Corks Lane,Milton,2538,Catholic,Primary,-35.311398,150.43026,NSW
+363,St Mary's War Memorial School,England Street,West Wyalong,2671,Catholic,Primary,-33.926278,147.205942,NSW
+364,St Matthew's Catholic School,4 Lewis Street,Mudgee,2850,Catholic,Combined,-32.59307,149.590336,NSW
+365,St Matthew's Primary School,Tebbutt Street,Windsor,2756,Catholic,Primary,-33.6096,150.815286,NSW
+366,St Mel's Catholic Primary School,14 Duke Street,Campsie,2194,Catholic,Primary,-33.910999,151.105925,NSW
+367,St Michael's School,Tucklan Street,Dunedoo,2844,Catholic,Primary,-32.05976,149.260333,NSW
+368,St Michael's School,3-5 Chapel Lane,Baulkham Hills,2153,Catholic,Primary,-33.743606,150.980025,NSW
+369,St Michael's Catholic Primary School,24 Margaret Street,Belfield,2191,Catholic,Primary,-33.901446,151.088022,NSW
+370,St Michael's Primary School,155 Reservoir Road,Blacktown South,2148,Catholic,Primary,-33.789893,150.899006,NSW
+371,St Michael's School,55 Methul Street,Coolamon,2701,Catholic,Primary,-34.817776,147.203353,NSW
+372,St Michael's Catholic Primary School,Haig Avenue,Daceyville,2032,Catholic,Primary,-33.930186,151.225447,NSW
+373,St Michael's School,356-372 Harrison Street,Deniliquin,2710,Catholic,Primary,-35.53091,144.961567,NSW
+374,St Michael's Catholic Primary School,181-187 Longueville Road,Lane Cove,2066,Catholic,Primary,-33.819014,151.169995,NSW
+375,St Michael's School,45 Rowan Street,Manilla,2346,Catholic,Primary,-30.750059,150.723451,NSW
+376,St Michael's Catholic Primary School,Maxim Street,Meadowbank,2114,Catholic,Primary,-33.812298,151.087241,NSW
+377,St Michael's Catholic Primary School,Alfred St,Mittagong,2575,Catholic,Primary,-34.447452,150.449884,NSW
+378,St Michael's Primary School,Sproule Street,Nelson Bay,2315,Catholic,Primary,-32.722709,152.135301,NSW
+379,St Michael's Catholic Primary School,20 North Street,Nowra,2541,Catholic,Primary,-34.87286,150.597327,NSW
+380,St Michael's Catholic Primary School,Percival Road,Stanmore,2048,Catholic,Primary,-33.892382,151.16499,NSW
+381,St Michael's Catholic Primary School,Station Street,Thirroul,2515,Catholic,Primary,-34.317496,150.920991,NSW
+382,St Monica's Primary School,10 Daking Street,North Parramatta,2151,Catholic,Primary,-33.793627,151.001217,NSW
+383,St Monica's Primary School,32 Francis Rd,Richmond,2753,Catholic,Primary,-33.599586,150.759532,NSW
+384,St Nicholas of Myra Primary School,Cnr Higgins Street and Lane,Penrith,2750,Catholic,Primary,-33.75482,150.700042,NSW
+385,St Patrick's College,4 St Johns Road,Campbelltown,2560,Independent,Secondary,-34.078356,150.824679,NSW
+386,St Patrick's College,Edgar Street,Strathfield,2135,Independent,Combined,-33.874621,151.075674,NSW
+387,St Patrick's Marist College,151 Kirby Street,Dundas,2117,Catholic,Secondary,-33.802722,151.046824,NSW
+388,St Patrick's Catholic Primary School,1 Royston Parade,Asquith,2077,Catholic,Primary,-33.685547,151.111529,NSW
+389,St Patrick's Primary School,51-59 Allawah Street,Blacktown,2148,Catholic,Primary,-33.774574,150.898548,NSW
+390,St Patrick's Catholic Primary School,Cnr York And Melbourne Streets,Gosford East,2250,Catholic,Primary,-33.436909,151.351495,NSW
+391,St Patrick's Catholic Primary School,Belmont Street,Sutherland,2232,Catholic,Primary,-34.033942,151.06213,NSW
+392,St Patrick's Parish School,449 Olive Street,Albury,2640,Catholic,Primary,-36.083551,146.918126,NSW
+393,St Patrick's Primary School,Gipps Street,Bega,2550,Catholic,Primary,-36.679312,149.842771,NSW
+394,St Patrick's Primary School,108-116 Bathurst Street,Brewarrina,2839,Catholic,Primary,-29.961079,146.858789,NSW
+395,St Patrick's Primary School,155 Wollombi Road,Cessnock,2325,Catholic,Primary,-32.835544,151.350789,NSW
+396,St Patrick's Primary School,Warrambool Street,Griffith,2680,Catholic,Primary,-34.281573,146.04609,NSW
+397,St Patrick's Primary School,34 Calliope Street,Guildford,2161,Catholic,Primary,-33.853384,150.978105,NSW
+398,St Patrick's Primary School,145 Albury Street,Holbrook,2644,Catholic,Primary,-35.721096,147.315255,NSW
+399,St Patrick's Catholic Primary School,36 Chapel Street,Kogarah,2217,Catholic,Primary,-33.968416,151.135385,NSW
+400,St Patrick's School,Mort Street,Lithgow,2790,Catholic,Primary,-33.483901,150.153401,NSW
+401,St Patrick's Primary School,32 Macksville Heights Drive,Macksville,2447,Catholic,Primary,-30.708608,152.916726,NSW
+402,St Patrick's Primary School,Villiers St,Parramatta,2150,Catholic,Primary,-33.807321,151.003808,NSW
+403,St Patrick's Catholic Primary School,Kemble Street,Port Kembla,2505,Catholic,Primary,-34.482986,150.899823,NSW
+404,St Patrick's Catholic Primary School,9 Drynan St,Summer Hill,2130,Catholic,Primary,-33.893718,151.133396,NSW
+405,St Patrick's Primary School,213 Northcote Avenue,Swansea,2281,Catholic,Primary,-33.097424,151.643474,NSW
+406,St Patrick's Primary School,Austin St,Trundle,2875,Catholic,Primary,-32.923921,147.7084,NSW
+407,St Patrick's School,51N South Street,Walcha,2354,Catholic,Primary,-30.984563,151.591198,NSW
+408,St Patrick's Primary School,Macquarie Street,Wallsend,2287,Catholic,Primary,-32.900094,151.663933,NSW
+409,St Paul of The Cross Catholic Primary School,16 May St,Dulwich Hill,2203,Catholic,Primary,-33.905241,151.134799,NSW
+410,St Paul's College,3 Klemke Avenue,Walla Walla,2659,Independent,Secondary,-35.755412,146.908182,NSW
+411,St Paul's Lutheran Primary School,Lyne Street.,Henty,2658,Independent,Primary,-35.517777,147.031188,NSW
+412,St Paul's Catholic Primary School,247-251 Tongarra Road,Albion Park,2527,Catholic,Primary,-34.572309,150.764554,NSW
+413,St Paul's Catholic Primary School,20 Mitchell Street,Camden,2570,Catholic,Primary,-34.053085,150.695685,NSW
+414,St Paul's Primary School,Felton Street,Gateshead,2290,Catholic,Primary,-32.979409,151.693609,NSW
+415,St Paul's Catholic Primary School,18 Garrett Street,Moss Vale,2577,Catholic,Primary,-34.545843,150.37074,NSW
+416,St Paul's Primary School,90A Gilles Street,Rutherford,2320,Catholic,Primary,-32.721035,151.530271,NSW
+417,St Peter Chanel Catholic Primary School,43 Regent Street,Regents Park,2143,Catholic,Primary,-33.879232,151.027341,NSW
+418,St Peter's Primary School,Currawong Crescent,Coleambally,2707,Catholic,Primary,-34.805097,145.879428,NSW
+419,St Peter's Primary School,Dunbar St,Stockton,2295,Catholic,Primary,-32.90897,151.785877,NSW
+420,St Philomena's School,Lloyds Road,Bathurst,2795,Catholic,Primary,-33.438323,149.566922,NSW
+421,St Philomena's School,55 Boston Street,Moree,2400,Catholic,Combined,-29.459249,149.838103,NSW
+422,St Pius' Catholic Primary School,209 Edgeware Road,Enmore,2042,Catholic,Primary,-33.907429,151.174296,NSW
+423,St Pius X High School,Park Avenue,Adamstown,2289,Catholic,Secondary,-32.937602,151.715156,NSW
+424,St Pius X College,35 Anderson Street,Chatswood,2067,Independent,Combined,-33.794902,151.182925,NSW
+425,St Pius X Primary School,East Street,Dubbo West,2830,Catholic,Primary,-32.250604,148.588217,NSW
+426,St Pius X Catholic Primary School,Cummins Street,Unanderra,2526,Catholic,Primary,-34.45198,150.841422,NSW
+427,St Pius X Primary School,2 Lake Road,Windale,2306,Catholic,Primary,-32.992825,151.68365,NSW
+428,St Raphael's Catholic School,11-15 Liverpool Street,Cowra,2794,Catholic,Combined,-33.832721,148.688619,NSW
+429,St Raphael's Catholic Primary School,82 George Street,Hurstville,2221,Catholic,Primary,-33.975224,151.11051,NSW
+430,St Scholastica's College,4 Avenue Road,Glebe,2037,Independent,Secondary,-33.875564,151.181091,NSW
+431,Our Lady Queen of Peace Primary School,Braeside Road,Greystanes,2145,Catholic,Primary,-33.819847,150.95404,NSW
+432,St Stanislaus College,Bentinck And Brilliant Streets,Bathurst,2795,Independent,Secondary,-33.427611,149.571665,NSW
+433,St Patrick's School,26 Homer Street,Gundagai,2722,Catholic,Primary,-35.063066,148.108453,NSW
+434,St Therese Catholic Primary School,96 Cartwright Ave,Sadleir,2168,Catholic,Primary,-33.918997,150.883637,NSW
+435,St Therese's Catholic Primary School,448 Blaxland Road,Denistone,2122,Catholic,Primary,-33.797267,151.093926,NSW
+436,St Therese's Catholic Primary School,2A Yerrick Road,Lakemba,2195,Catholic,Primary,-33.916143,151.078125,NSW
+437,St Therese Catholic Primary School,43 Sutherland Street,Mascot,2020,Catholic,Primary,-33.925808,151.201113,NSW
+438,St Therese Catholic Primary School,48 Chamberlain Rd,Padstow Heights,2211,Catholic,Primary,-33.962464,151.031563,NSW
+439,St Therese's Catholic Primary School,1 Princes Highway,West Wollongong,2500,Catholic,Primary,-34.425936,150.871158,NSW
+440,St Thomas More's Catholic School,Francis Avenue,Brighton-Le-Sands,2216,Catholic,Primary,-33.958325,151.151476,NSW
+441,St Thomas Aquinas Primary School,168 Hawkesbury Rd,Springwood,2777,Catholic,Primary,-33.681499,150.589168,NSW
+442,St Thomas' Catholic Primary School,2 Horsley Avenue,Willoughby,2068,Catholic,Primary,-33.795983,151.200205,NSW
+443,O'Connor Catholic College,35 Kirwood Street,Armidale,2350,Catholic,Secondary,-30.51174,151.67943,NSW
+444,St Ursula's College,69 Caroline St,Kingsgrove,2208,Catholic,Secondary,-33.941884,151.103281,NSW
+445,St Vincent's College,1 Rockwall Crescent,Potts Point,2011,Independent,Secondary,-33.869586,151.223801,NSW
+446,St Vincent's Catholic Primary School,30-34 Charlotte Street,Ashfield,2131,Catholic,Primary,-33.886031,151.126225,NSW
+447,St Xavier's School,150 - 172 Bloomfield Street,Gunnedah,2380,Catholic,Primary,-30.977063,150.258252,NSW
+448,St Francis Xavier's School,32 Nandewar Street,Narrabri,2390,Catholic,Primary,-30.325975,149.789022,NSW
+449,San Clemente High School,Havelock Street,Mayfield,2304,Catholic,Secondary,-32.895968,151.743709,NSW
+450,Catherine McAuley Catholic Primary School,90 Hill Street,Orange,2800,Catholic,Primary,-33.279406,149.094667,NSW
+451,Blue Hills College,17 Blue Hills Avenue,Goonellabah,2480,Independent,Combined,-28.824666,153.354946,NSW
+452,Border Christian College,Elizabeth Mitchell Drive,Thurgoona,2640,Independent,Combined,-36.039775,146.981421,NSW
+453,Hills Adventist College,84 Cecil Avenue,Castle Hill,2154,Independent,Combined,-33.735512,151.005702,NSW
+454,Mountain View Adventist College,41 Doonside Road,Doonside,2767,Independent,Combined,-33.767122,150.87024,NSW
+455,Hurstville Adventist School,24 - 30 Wright Street,Hurstville,2220,Independent,Primary,-33.964775,151.109124,NSW
+456,Tweed Valley Adventist College,7a Hall Drive,Murwillumbah,2484,Independent,Combined,-28.33261,153.371153,NSW
+457,St Paul's Catholic College,198 Old Prospect Road,Greystanes,2145,Catholic,Secondary,-33.819079,150.952686,NSW
+458,Holy Spirit Catholic Primary School,Cooney Street,North Ryde,2113,Catholic,Primary,-33.796209,151.123777,NSW
+459,Our Lady Star of the Sea Catholic School,44 Kiora Road,Miranda,2228,Catholic,Primary,-34.032851,151.104062,NSW
+460,Stella Maris College,52 Eurobin Avenue,Manly,2095,Independent,Secondary,-33.78629,151.286084,NSW
+461,Stella Maris Catholic Primary School,Wentworth Street,Shellharbour,2529,Catholic,Primary,-34.580333,150.869894,NSW
+462,SCEGGS  Darlinghurst,215 Forbes Street,Darlinghurst,2010,Independent,Combined,-33.87599,151.218826,NSW
+463,Sydney Church of England Co-Educational Grammar School  Redlands,272 Military Road,Cremorne,2090,Independent,Combined,-33.832193,151.227263,NSW
+464,Sydney Church of England Grammar School,Blue Street,North Sydney,2060,Independent,Combined,-33.839913,151.204871,NSW
+465,Sydney Grammar School  Edgecliff Preparatory School,7 Alma Street,Paddington,2021,Independent,Primary,-33.879554,151.230279,NSW
+466,Sydney Grammar School  St Ives Preparatory School,11-21 Ayres Road,St Ives,2075,Independent,Primary,-33.718123,151.17078,NSW
+467,Sydney Grammar School,10 College Street,Darlinghurst,2010,Independent,Secondary,-33.874973,151.213277,NSW
+468,Tara Anglican School for Girls,Masons Drive,North Parramatta,2151,Independent,Combined,-33.790469,151.014717,NSW
+469,St Clare's High School,Davis Street,Taree,2430,Catholic,Secondary,-31.897023,152.479476,NSW
+470,The Armidale School,87 Douglas Street,Armidale,2350,Independent,Combined,-30.519975,151.673195,NSW
+471,The King's School,87-129 Pennant Hills Road,North Parramatta,2151,Independent,Combined,-33.788027,151.021918,NSW
+472,The Scots College,Victoria Road,Bellevue Hill,2023,Independent,Combined,-33.875115,151.253856,NSW
+473,The Scots School,4173 O'Connell Road,Bathurst,2795,Independent,Combined,-33.431184,149.616329,NSW
+474,Trinity Grammar School,Prospect Road,Summer Hill,2130,Independent,Combined,-33.898552,151.130711,NSW
+475,Tudor House,6480 Illawarra Highway,Moss Vale,2577,Independent,Primary,-34.560626,150.408017,NSW
+476,Tyndale Christian School,58 Douglas Road,Blacktown,2148,Independent,Combined,-33.782349,150.885119,NSW
+477,Villa Maria Catholic Primary School,Mark Street,Hunters Hill,2110,Catholic,Primary,-33.830064,151.139696,NSW
+478,Waverley College,131 Birrell Street,Waverley,2024,Independent,Combined,-33.900034,151.257337,NSW
+479,Wenona School Ltd,176 Walker Street,North Sydney,2060,Independent,Combined,-33.834101,151.209609,NSW
+480,Christ the King Primary School,2 Statham Avenue,North Rocks,2151,Catholic,Primary,-33.775284,151.02327,NSW
+481,Sacred Heart Primary School,235-245 Lake Albert Road,Kooringal,2650,Catholic,Primary,-35.137892,147.376874,NSW
+482,St Paul the Apostle Primary School,44 Buckleys Rd,Winston Hills,2153,Catholic,Primary,-33.777215,150.973113,NSW
+483,St Paul's College,107 Sea Street,West Kempsey,2440,Catholic,Secondary,-31.060509,152.822097,NSW
+484,St Rose Catholic Primary School,8 Rose Avenue,Collaroy Plateau,2097,Catholic,Primary,-33.726921,151.286194,NSW
+485,St Therese's Primary School,Burke Street,New Lambton,2305,Catholic,Primary,-32.925619,151.716067,NSW
+486,St Therese's Community School,Barrier Hwy,Wilcannia,2836,Catholic,Primary,-31.559128,143.379376,NSW
+487,The Scots School Albury,Perry Street,Albury,2640,Independent,Combined,-36.07289,146.9272,NSW
+488,St Joseph's Primary School,106 Church Street,Balranald,2715,Catholic,Primary,-34.638078,143.563823,NSW
+489,Caroline Chisholm College,90-98 The Lakes Drive,Glenmore Park,2745,Catholic,Secondary,-33.78659,150.674905,NSW
+490,Our Lady Queen of Peace Catholic Primary School,Cnr Westminster Rd And Oxford St,Gladesville,2111,Catholic,Primary,-33.826261,151.126955,NSW
+491,St Mary's Catholic Primary School,458 Main Road,Noraville,2263,Catholic,Primary,-33.268628,151.558775,NSW
+492,St Anthony's Catholic Primary School,Cnr Balaclava And Agincourt Rds,Marsfield,2122,Catholic,Primary,-33.780982,151.102615,NSW
+493,St Mary's Primary School,Centre Street,Casino,2470,Catholic,Primary,-28.862006,153.044961,NSW
+494,St John's Primary School,11 Murwillumbah Road,Mullumbimby,2482,Catholic,Primary,-28.549467,153.496826,NSW
+495,Cathedral School,98 George Street,Bathurst,2795,Catholic,Primary,-33.419281,149.575319,NSW
+496,Barker College,91 Pacific Highway,Hornsby,2077,Independent,Combined,-33.709245,151.099056,NSW
+497,Kamaroi Rudolf Steiner School,220 Forest Way,Belrose,2085,Independent,Primary,-33.711374,151.215821,NSW
+498,Regents Park Christian School,59-61 Regent Street,Regents Park,2143,Independent,Combined,-33.881224,151.026762,NSW
+499,Wycliffe Christian School,133 Rickard Road,Warrimoo,2774,Independent,Combined,-33.720683,150.615343,NSW
+500,St Thomas Aquinas Catholic Primary School,Bundaroo Street,Bowral,2576,Catholic,Primary,-34.476804,150.420872,NSW
+501,Narromine Christian School,147-153 Terangion St,Narromine,2821,Independent,Primary,-32.238002,148.245937,NSW
+502,Sydney Japanese School,112 Booralie Road,Terrey Hills,2084,Independent,Combined,-33.676174,151.19965,NSW
+503,St Francis Xavier's Catholic Primary School,71 Webster Rd,Lurnea,2170,Catholic,Primary,-33.933221,150.899256,NSW
+504,St Joseph's Catholic Primary School,35-45 Nuwarra Road,Moorebank,2170,Catholic,Primary,-33.92836,150.954871,NSW
+505,Hennessy Catholic College,Ripon St,Young,2594,Catholic,Secondary,-34.31487,148.292351,NSW
+506,St Anthony's Catholic Primary School,Menangle Street,Picton,2571,Catholic,Primary,-34.170802,150.611975,NSW
+507,James Sheahan Catholic High School,46-49 Anson Street,Orange,2800,Catholic,Secondary,-33.300853,149.091091,NSW
+508,St Joseph's Primary School,Lagoon Street,Goulburn North,2580,Catholic,Primary,-34.746244,149.732804,NSW
+509,Mosman Church of England Preparatory School,75 Shadforth Street,Mosman,2088,Independent,Primary,-33.832911,151.240046,NSW
+510,Kempsey Adventist School,108 Crescent Head Road,Kempsey,2440,Independent,Combined,-31.091622,152.83048,NSW
+511,Shire Christian School,16A Allies Road,Barden Ridge,2234,Independent,Combined,-34.03633,151.009115,NSW
+512,Manning District Adventist School,Bucketts Way,Tinonee,2430,Independent,Primary,-31.895128,152.498117,NSW
+513,Korowal School,54 Hall Parade,Hazelbrook,2779,Independent,Combined,-33.711046,150.350184,NSW
+514,Mamre Anglican School,45 Bakers Lane,Erskine Park,2759,Independent,Combined,-33.831381,150.785964,NSW
+515,Tambelin Independent School,Fenwick Crescent,Goulburn,2580,Independent,Primary,-34.749518,149.726329,NSW
+516,Linuwel School Ltd,133 Morpeth Road,East Maitland,2323,Independent,Combined,-32.736732,151.600686,NSW
+517,Holy Family School,10 French-Smith Place,Kelso,2795,Catholic,Primary,-33.401074,149.606009,NSW
+518,Our Lady of the Way Primary School,17 Troy Street,Emu Plains,2750,Catholic,Primary,-33.756277,150.655824,NSW
+519,St Mary's Catholic Primary School,Rex Road,Georges Hall,2198,Catholic,Primary,-33.910572,150.982365,NSW
+520,Good Shepherd Primary School,134 Hyatts Road,Plumpton,2761,Catholic,Primary,-33.746681,150.832854,NSW
+521,St Columba's Catholic College,168 Hawkesbury Road,Springwood,2777,Catholic,Secondary,-33.673201,150.58763,NSW
+522,Our Lady Star of the Sea Catholic Primary School,165 Serpentine Road,Terrigal,2260,Catholic,Primary,-33.428434,151.413873,NSW
+523,St Martin's Catholic Primary School,147 Prahran Avenue,Davidson,2085,Catholic,Primary,-33.741943,151.199458,NSW
+524,Our Lady of The Rosary Catholic Primary School,92 Glennie Street,Wyoming,2250,Catholic,Primary,-33.412651,151.350553,NSW
+525,St Thomas More Catholic Primary School,6 St Johns Road,Campbelltown,2560,Catholic,Primary,-34.081202,150.82512,NSW
+526,St John Bosco College,Banksia Avenue,Engadine,2233,Catholic,Secondary,-34.059276,151.008769,NSW
+527,Covenant Christian School,212 Forest Way,Belrose,2085,Independent,Combined,-33.713684,151.216023,NSW
+528,Our Lady of the Rosary Primary School,8 Diana Avenue,Kellyville,2155,Catholic,Primary,-33.706786,150.955194,NSW
+529,Bethel Christian School,104-112 Mount Druitt Road,Mount Druitt,2770,Independent,Combined,-33.775057,150.810833,NSW
+530,The Lakes Christian College,206 East Wilchard Road,Castlereagh,2749,Independent,Combined,-33.686263,150.684721,NSW
+531,Pacific Hills Christian School,9-11 Quarry Road,Dural,2158,Independent,Combined,-33.696684,151.035675,NSW
+532,John Therry Catholic High School,Demetrius Road,Rosemeadow,2560,Catholic,Secondary,-34.100424,150.785953,NSW
+533,Arkana College,346 Stoney Creek Road,Kingsgrove,2208,Independent,Primary,-33.94985,151.09848,NSW
+534,Highfields Preparatory & Kindergarten School Limited,18 Highfield Road,Lindfield,2070,Independent,Primary,-33.775314,151.163641,NSW
+535,Gilroy Catholic College,Marie St,Castle Hill,2154,Catholic,Secondary,-33.740154,150.996633,NSW
+536,Mary Help of Christians Primary School Sawtell,Eungella Street,Toormina,2452,Catholic,Primary,-30.358164,153.083971,NSW
+537,Norwest Christian College,Cnr Regent & Mcculloch Streets,Riverstone,2765,Independent,Combined,-33.677741,150.873642,NSW
+538,Sherwood Hills Christian School,61 Jacaranda Avenue,Bradbury,2560,Independent,Combined,-34.083556,150.814154,NSW
+539,Nowra Christian School,194 Old Southern Rd,Nowra,2541,Independent,Combined,-34.904759,150.615523,NSW
+540,Hopepoint Christian School,39 Ashcroft Street,Georges Hall,2198,Independent,Primary,-33.911731,150.977206,NSW
+541,Newcastle Waldorf School,36 Reservoir Road,Glendale,2285,Independent,Combined,-32.924437,151.655596,NSW
+542,Forestville Montessori School,1 Angel Place,Forestville,2087,Independent,Primary,-33.75822,151.218913,NSW
+543,Odyssey House,Moonstone Place,Eaglevale,2558,Independent,Secondary,-34.034379,150.813818,NSW
+544,Toongabbie Christian School Ltd,40 Metella Road,Toongabbie,2146,Independent,Combined,-33.789371,150.943398,NSW
+545,Coffs Harbour Christian Community School,226 Bonville Station Road,Bonville,2450,Independent,Combined,-30.378228,153.057112,NSW
+546,Lindisfarne Anglican School,Maher'S Lane,Terranora,2486,Independent,Combined,-28.233789,153.504788,NSW
+547,Northcross Christian School,Cnr Lane Cove Rd & Dobson Cres,Ryde,2112,Independent,Primary,-33.806204,151.111571,NSW
+548,Orange Christian School,500 Cecil Road,Orange,2800,Independent,Combined,-33.298781,149.089093,NSW
+549,Tuntable Falls Community Primary School,117 Upper Tuntable Falls Road,Nimbin,2480,Independent,Primary,-28.578561,153.279734,NSW
+550,St Joseph's Catholic High School,16 Macquarie Street,Albion Park,2527,Catholic,Secondary,-34.572987,150.765948,NSW
+551,Holy Family Catholic Primary School,Oxford Road,Ingleburn,2565,Catholic,Primary,-34.003284,150.872938,NSW
+552,Koinonia Christian Academy,Mitchell Highway,Bourke,2840,Independent,Combined,-30.073809,145.956891,NSW
+553,Northern Beaches Christian School,Echunga Road,Terrey Hills,2084,Independent,Combined,-33.674045,151.201939,NSW
+554,Penrith Christian School,1 Simeon Road,Orchard Hills,2748,Independent,Combined,-33.785374,150.7101,NSW
+555,St Agnes' Primary School,Boronia Street,Port Macquarie,2444,Catholic,Primary,-31.440467,152.897739,NSW
+556,Masada College High School,9-15 Link Road,St Ives,2075,Independent,Combined,-33.729757,151.166914,NSW
+557,Inaburra School,Billa Road,Bangor,2234,Independent,Combined,-34.014572,151.025931,NSW
+558,St John Paul College,421 Hogbin Drive,Coffs Harbour,2450,Catholic,Secondary,-30.323793,153.098377,NSW
+559,St Philip's Christian College - Gosford,20 Narara Creek Road,Narara,2250,Independent,Combined,-33.408273,151.333151,NSW
+560,Mount Sinai College,6 Runic Lane,Maroubra,2035,Independent,Primary,-33.935219,151.236805,NSW
+561,Biala Special School,78 Fox Street,Ballina,2478,Independent,Special,-28.861483,153.562119,NSW
+562,St Dominic's Centre,76 Havelock Street,Mayfield,2304,Catholic,Special,-32.895594,151.74417,NSW
+563,Elouera Special School,Scott Avenue,Cootamundra,2590,Independent,Special,-34.634877,148.017776,NSW
+564,Mater Dei School,229 Macquarie Grove Road,Camden,2570,Independent,Special,-34.015034,150.709163,NSW
+565,St Edmund's School,60 Burns Road,Wahroonga,2076,Independent,Special,-33.714226,151.126197,NSW
+566,St Gabriel's School for Hearing Impaired Children,190 Old Northern Road,Castle Hill,2154,Independent,Special,-33.740289,150.998945,NSW
+567,St Lucy's School,21 Cleveland Street,Wahroonga,2076,Independent,Special,-33.716771,151.120651,NSW
+568,Aspect Hunter School,3 Kooralbyn St,Thornton,2322,Independent,Special,-32.883265,151.695515,NSW
+569,RIDBC Alice Betteridge School,361-365 North Rocks Road,North Rocks,2151,Independent,Special,-33.767614,151.029054,NSW
+570,Aspect Vern Barnett School,41 Cook Street,Forestville,2087,Independent,Special,-33.763332,151.219315,NSW
+571,Warrah Village Rudolf Steiner School for Curative Education,20-24 Harris Road,Dural,2158,Independent,Special,-33.702973,151.036467,NSW
+572,Bhaktivedanta Swami Gurukula School,Hare Krishna Farm 525 Tyalgum Road,Eungella,2484,Independent,Combined,-28.353812,153.314613,NSW
+573,Chrysalis School for Rudolf Steiner Education,703 Darkwood Road,Thora,2454,Independent,Combined,-30.43347,152.721978,NSW
+574,St George Christian School,55-67 Woids Avenue,Hurstville,2220,Independent,Combined,-33.972286,151.11109,NSW
+575,St Mary MacKillop Primary School,150 Fragar Road,South Penrith,2750,Catholic,Primary,-33.778928,150.70683,NSW
+576,Oxley College,Railway Parade,Burradoo,2576,Independent,Combined,-34.498077,150.392007,NSW
+577,Lutheran Primary School Wagga Wagga,Tamar Drive,Wagga Wagga,2650,Independent,Primary,-35.154047,147.362886,NSW
+578,Marion Catholic Primary School,1788 The Horsley Drive,Horsley Park,2175,Catholic,Primary,-33.841231,150.850842,NSW
+579,Mountains Christian College,60 Thirroul Avenue,Blackheath,2785,Independent,Combined,-33.631022,150.277271,NSW
+580,Green Point Christian College,Avoca Drive,Green Point,2251,Independent,Combined,-33.461037,151.36312,NSW
+581,St Philip's Christian College,57 High Street,Waratah,2298,Independent,Combined,-32.90305,151.723089,NSW
+582,Wellington Christian School,Gipps Street,Wellington,2820,Independent,Primary,-32.539295,148.93008,NSW
+583,Carinya Christian School,46 Elgin Street,Gunnedah,2380,Independent,Primary,-30.978876,150.25474,NSW
+584,Toronto Adventist Primary School,Cnr Parkside Parade and Wangi Road,Toronto,2283,Independent,Primary,-33.028602,151.565397,NSW
+585,Belmont Christian College,65 John Fisher Road,Belmont North,2280,Independent,Combined,-33.024548,151.669596,NSW
+586,Parkes Christian School,243 Back Trundle Road,Parkes,2870,Independent,Combined,-33.119277,148.150353,NSW
+587,Tangara School for Girls,77-97 Franklin Road,Cherrybrook,2126,Independent,Combined,-33.736457,151.035696,NSW
+588,Holy Spirit College,Cawley Road,Bellambi,2518,Catholic,Secondary,-34.36448,150.916451,NSW
+589,The Hills Grammar School,43 Kenthurst Rd,Kenthurst,2156,Independent,Combined,-33.685772,151.013035,NSW
+590,Northholm Grammar School,79 Cobah Rd,Arcadia,2159,Independent,Combined,-33.602911,151.053199,NSW
+591,Southside Montessori School,35 Lilian Road,Riverwood,2210,Independent,Primary,-33.952384,151.044309,NSW
+592,Dubbo Christian School,Sheraton Road,Dubbo,2830,Independent,Combined,-32.263095,148.64441,NSW
+593,St Peter's Anglican Primary School,Howe Street,Campbelltown,2560,Independent,Primary,-34.06686,150.817798,NSW
+594,Cedars Christian College,Lot 36 Waples Road,Farmborough Heights,2526,Independent,Combined,-34.455585,150.830313,NSW
+595,Heritage Christian School,33 Mumford Street,Port Macquarie,2444,Independent,Combined,-31.430279,152.881802,NSW
+596,St Paul's High School,Primrose St,Booragul,2284,Catholic,Secondary,-32.9758,151.606948,NSW
+597,Kuyper Christian School,294 Redbank Road,North Richmond,2754,Independent,Combined,-33.566666,150.683621,NSW
+598,St Paul's Grammar School Penrith,52 Taylor Rd,Cranebrook,2749,Independent,Combined,-33.693046,150.715082,NSW
+599,Aspect Central Coast School,Lot 4 Duffys Road,Terrigal,2260,Independent,Special,-33.443989,151.426892,NSW
+600,Yanginanook School,Bundaleer Street,Belrose,2085,Independent,Primary,-33.712408,151.214472,NSW
+601,The Emanuel School,20 Stanley St,Randwick,2031,Independent,Combined,-33.907344,151.243268,NSW
+602,Maitland Christian School,75-85 Chelmsford Drive,Metford,2323,Independent,Combined,-32.765994,151.60865,NSW
+603,St Spyridon College,78 Gardeners Road,Kingsford,2032,Independent,Combined,-33.925404,151.224638,NSW
+604,Sacred Heart Primary School,25 Nelson Street,Mt Druitt South,2770,Catholic,Primary,-33.773861,150.813454,NSW
+605,Southern Highlands Christian School,22 Boardman Road South,Bowral,2576,Independent,Combined,-34.502635,150.439737,NSW
+606,Blue Mountains Steiner School,83 Clearview Parade,Hazelbrook,2779,Independent,Primary,-33.72155,150.467986,NSW
+607,St Charbel's College,142 Highclere Avenue,Punchbowl,2196,Independent,Combined,-33.917424,151.056608,NSW
+608,The McDonald College,17 George Street,North Strathfield,2137,Independent,Combined,-33.863434,151.088129,NSW
+609,Nepean Christian School,836 Mulgoa Road,Mulgoa,2745,Independent,Combined,-33.829562,150.655171,NSW
+610,Oxford Falls Grammar School,1078 Oxford Falls Road,Oxford Falls,2100,Independent,Combined,-33.739042,151.245805,NSW
+611,International Grammar School,4-8 Kelly Street,Ultimo,2007,Independent,Combined,-33.881668,151.195266,NSW
+612,Redeemer Baptist School,2-12 Masons Drive,North Parramatta,2151,Independent,Combined,-33.793639,151.017344,NSW
+613,Moree Christian School,409 Chester Street,Moree,2400,Independent,Combined,-29.482677,149.83689,NSW
+614,Carinya Christian School,25 Boronia Drive,Tamworth,2340,Independent,Combined,-31.128839,150.94033,NSW
+615,Namoi Valley Christian School,51 Rose Street,Wee Waa,2388,Independent,Primary,-30.226029,149.440937,NSW
+616,Santa Sabina College,90 The Boulevarde,Strathfield,2135,Independent,Combined,-33.877348,151.09346,NSW
+617,Macarthur Anglican School,605 Cobbitty Road,Cobbitty,2570,Independent,Combined,-34.011465,150.721012,NSW
+618,Aspect Western Sydney School,295 Victoria Street,Wetherill Park,2164,Independent,Special,-33.848273,150.914952,NSW
+619,Trinity Catholic College,1 Dawson Street,Lismore,2480,Independent,Secondary,-28.803988,153.283205,NSW
+620,Casimir Catholic College,200 Livingstone Road,Marrickville,2204,Catholic,Secondary,-33.910917,151.149003,NSW
+621,Macquarie University Special Education Centre,Building X5A Macquarie University,North Ryde,2113,Independent,Special,-33.770141,151.113104,NSW
+622,Westmead Christian Grammar School,2-14 Bridge Road,Westmead,2145,Independent,Primary,-33.816592,150.980895,NSW
+623,Taree Christian College,423  441 Kolodong Road,Taree,2430,Independent,Combined,-31.888044,152.423376,NSW
+624,Greenacre Baptist Christian Community School,36-40 Shellcote Road,Greenacre,2190,Independent,Combined,-33.894575,151.055674,NSW
+625,Summerland Christian College,Pineapple Road,Goonellabah,2480,Independent,Combined,-28.802584,153.350286,NSW
+626,St Dominic Savio School,19 William Street,Rockdale,2216,Independent,Primary,-33.950985,151.149577,NSW
+627,Trinity Catholic Primary School  Murrumburrah,Vernon Street,Murrumburrah,2587,Catholic,Primary,-34.545455,148.348227,NSW
+628,Central Coast Grammar School,Arundel and the Entrance Roads,Erina Heights,2260,Independent,Combined,-33.425697,151.398547,NSW
+629,William Carey Christian School,Bumbera Street,Prestons,2170,Independent,Combined,-33.948963,150.850812,NSW
+630,Freeman Catholic College,Mount Street,Bonnyrigg Heights,2177,Catholic,Secondary,-33.886767,150.86297,NSW
+631,Mary Immaculate Catholic Primary School,110 Mimosa Road,Bossley Park,2176,Catholic,Primary,-33.86084,150.891374,NSW
+632,Holy Spirit Primary School,7-17 Todd Row,St Clair,2759,Catholic,Primary,-33.793637,150.781728,NSW
+633,Northside Montessori School,42 Bobbin Head Road,Pymble,2073,Independent,Primary,-33.734806,151.136891,NSW
+634,Hinterland Christian College,114 Main Arm Road,Mullumbimby,2482,Independent,Combined,-28.546397,153.486919,NSW
+635,St John Vianney's Primary School,17 Cameron Street,Doonside,2767,Catholic,Primary,-33.758259,150.872488,NSW
+636,Broughton Anglican College,Menangle Road,Campbelltown,2560,Independent,Combined,-34.099689,150.767656,NSW
+637,Mount Carmel Catholic College,St Andrews Road,Varroville,2565,Catholic,Secondary,-34.009179,150.822773,NSW
+638,Berowra Christian Community School,Cnr King St & Berowra Waters Rd,Berowra,2081,Independent,Primary,-33.62131,151.147017,NSW
+639,Mary Immaculate Catholic Primary School,Cnr Emerald and Aquamarine Drive,Eagle Vale,2558,Catholic,Primary,-34.039449,150.814118,NSW
+640,McCarthy Catholic College (Emu Plains),75 Mackellar Street,Emu Plains,2750,Catholic,Secondary,-33.743107,150.67768,NSW
+641,Bede Polding College,Rifle Range Road,South Windsor,2756,Catholic,Secondary,-33.631466,150.796143,NSW
+642,Redfield College,855 Old Northern Rd,Dural,2158,Independent,Combined,-33.69026,151.032262,NSW
+643,Galstaun College,5 Chiltern Road,Ingleside,2101,Independent,Combined,-33.680117,151.260962,NSW
+644,Holy Family Catholic Primary School,1D Anzac Road,Menai,2234,Catholic,Primary,-34.018206,151.021135,NSW
+645,Casuarina Steiner School,Gentle Street,Coffs Harbour,2450,Independent,Primary,-30.292404,153.131535,NSW
+646,All Saints Catholic Senior College,Leacocks Lane,Casula,2170,Catholic,Secondary,-33.952689,150.906217,NSW
+647,Mary Immaculate Primary School,125 Barnier Drive,Quakers Hill,2763,Catholic,Primary,-33.721073,150.903244,NSW
+648,Corpus Christi Primary School,Andromeda Drive,Cranebrook,2749,Catholic,Primary,-33.711793,150.717982,NSW
+649,St Madeleine's Primary School,28 Annangrove Road,Kenthurst,2156,Catholic,Primary,-33.680791,151.00105,NSW
+650,Vistara Primary School,Lot 8 Richmond Hill Road,Richmond Hill,2480,Independent,Primary,-28.783642,153.340038,NSW
+651,William Branwhite Clarke College,1 Morris Grove,Kellyville,2155,Independent,Combined,-33.711267,150.957076,NSW
+652,Tallowood Steiner School,220 Bellingen Road,Bowraville,2449,Independent,Primary,-30.63428,152.855876,NSW
+653,Aspect South Coast School,4 Wilford Street,Corrimal,2518,Independent,Special,-34.363866,150.896076,NSW
+654,Malek Fahd Islamic School,405 Waterloo Road,Greenacre,2190,Independent,Combined,-33.891215,151.060131,NSW
+655,Cape Byron Rudolf Steiner School,Balraith Lane,Byron Bay,2481,Independent,Combined,-28.653663,153.560298,NSW
+656,Marian Catholic College,24-28 Annangrove Road,Kenthurst,2156,Catholic,Secondary,-33.681296,151.001069,NSW
+657,Our Lady Help of Christians Catholic Primary School,Lot 2 Demetrius Road,Rosemeadow,2560,Catholic,Primary,-34.100471,150.792195,NSW
+658,The Armidale Waldorf School,278 Rockvale Road,Armidale,2350,Independent,Combined,-30.489206,151.696254,NSW
+659,St Patrick's College,551 President Avenue,Sutherland,2232,Catholic,Secondary,-34.033937,151.05902,NSW
+660,Mumbulla School for Rudolf Steiner Education,37 Bega Street,Bega,2550,Independent,Primary,-36.6717,149.846786,NSW
+661,Georges River Grammar,53 Georges Crescent,Georges Hall,2198,Independent,Combined,-33.910553,150.98233,NSW
+662,St John Fisher Catholic Primary School,Hicks Lane,Tumbi Umbi,2261,Catholic,Primary,-33.369213,151.437207,NSW
+663,Australian Christian College - Singleton,23 Maitland Road,Singleton,2330,Independent,Combined,-32.575911,151.182835,NSW
+664,The Joseph Varga School,128 Alison Road,Randwick,2031,Independent,Special,-33.911962,151.237438,NSW
+665,Emmaus Catholic College,87-109 Bakers Lane,Kemps Creek,2178,Catholic,Secondary,-33.832296,150.793391,NSW
+666,Holy Family Primary School,37A High Street,Parkes,2870,Catholic,Primary,-33.132718,148.175895,NSW
+667,St John The Evangelist Catholic High School,John Purcell Way,Nowra,2541,Catholic,Secondary,-34.896643,150.604775,NSW
+668,Mater Dei Primary School,63 Gregadoo Road,Wagga Wagga,2650,Catholic,Primary,-35.177764,147.36356,NSW
+669,Byron Community Primary School,53 Tennyson Street,Byron Bay,2481,Independent,Primary,-28.649344,153.615671,NSW
+670,RIDBC Garfield Barwick School,361-365 North Rocks Road,North Rocks,2151,Independent,Special,-33.793167,151.019701,NSW
+671,Sacred Heart Parish Primary School,192 Lane Street,Broken Hill,2880,Catholic,Primary,-31.952716,141.459649,NSW
+672,Condell Park Christian School,29 Lancelot Street,Condell Park,2200,Independent,Combined,-33.922388,151.017884,NSW
+673,John Colet School,6 Wyatt Avenue,Belrose,2085,Independent,Primary,-33.722921,151.214389,NSW
+674,St Paul's International College,463 Argyle Street,Moss Vale,2577,Independent,Secondary,-34.549718,150.36883,NSW
+675,Lycee Condorcet - The International French School of Sydney,758 Anzac Parade,Maroubra Junction,2035,Independent,Combined,-33.934211,151.238299,NSW
+676,Al Noori Muslim School,75 Greenacre Rd,Greenacre,2190,Independent,Combined,-33.911386,151.050669,NSW
+677,Southern Cross Baptist Church Christian School,104 Anzac Ave,Engadine,2233,Independent,Combined,-34.060272,151.006193,NSW
+678,Coffs Harbour Bible Church School,26 Hi-Tech Drive,Toormina,2452,Independent,Combined,-30.343747,153.090802,NSW
+679,German International School Sydney,33 Myoora Road,Terrey Hills,2084,Independent,Combined,-33.687411,151.22031,NSW
+680,The Athena School,28 Oxford Street,Newtown,2042,Independent,Combined,-33.895621,151.174767,NSW
+681,John The Baptist Catholic Primary School,Mount St,Bonnyrigg Heights,2177,Catholic,Primary,-33.887226,150.864055,NSW
+682,St Brendan's Catholic Primary School,Carters Road,Lake Munmorah,2259,Catholic,Primary,-33.188323,151.577319,NSW
+683,Inner Sydney Montessori School,44 Smith Street,Balmain,2041,Independent,Primary,-33.859123,151.184504,NSW
+684,St Euphemia College,6-12 East Tce,Bankstown,2200,Independent,Combined,-33.919725,151.039766,NSW
+685,Sydney Montessori School,99-107 Manchester Road,Gymea,2227,Independent,Combined,-34.037331,151.08778,NSW
+686,Rainbow Ridge School for Steiner Education,279 Lillian Rock Road,Lillian Rock Via Nimbin,2480,Independent,Combined,-28.537518,153.177441,NSW
+687,Wagga Wagga Christian College,401 Kooringal Road,Wagga Wagga,2650,Independent,Combined,-35.134005,147.390246,NSW
+688,Armenian General Benevolent Union Alexander Primary School,Cnr Thuddungra and Namba Roads,Duffys Forest,2084,Independent,Primary,-33.6769,151.187452,NSW
+689,Hunter Valley Grammar School,42 Norfolk Street,Ashtonfield,2323,Independent,Combined,-32.772568,151.600091,NSW
+690,Holy Cross Catholic Primary School,37 Kincumber Street,Kincumber,2251,Catholic,Primary,-33.46514,151.379892,NSW
+691,All Saints Greek Orthodox Grammar School,Cnr Isabel and Cecilia Streets,Belmore,2192,Independent,Combined,-33.914121,151.090939,NSW
+692,Holy Family Primary School,Lot 32 Willowdene Ave,Luddenham,2745,Catholic,Primary,-33.88159,150.686032,NSW
+693,Bishop Druitt College,111 North Boambee Road,Coffs Harbour,2450,Independent,Combined,-30.305176,153.071386,NSW
+694,Australian Islamic College of Sydney,33 Headcorn Street,Mount Druitt,2770,Independent,Combined,-33.758994,150.819313,NSW
+695,St Joseph's College,Doyle Drive,Banora Point,2486,Catholic,Secondary,-28.211223,153.553347,NSW
+696,St Francis of Assisi Primary School,1 Stone Street,Glendenning,2761,Catholic,Primary,-33.737688,150.852188,NSW
+697,St Joseph's School,161 Church Street,Glen Innes,2370,Catholic,Primary,-29.738046,151.738593,NSW
+698,McAuley Catholic College,Pacific Highway,Clarenza Via Grafton,2460,Catholic,Secondary,-29.694422,152.935128,NSW
+699,St Brigid's Catholic Primary School,160 Coogee Bay Rd,Coogee,2034,Catholic,Primary,-33.919921,151.252785,NSW
+700,Trinity Catholic Primary School,61-83 Bakers Lane,Kemps Creek,2178,Catholic,Primary,-33.831893,150.789217,NSW
+701,Scone Grammar School,60 Kingdon Street,Scone,2337,Independent,Combined,-32.051655,150.861929,NSW
+702,De La Salle Catholic College  Cronulla,2 Cross Street,Cronulla,2230,Catholic,Secondary,-34.055592,151.143328,NSW
+703,McAuley Catholic Central School,Capper Street,Tumut,2720,Catholic,Combined,-35.303429,148.221992,NSW
+704,St Laurence's Primary School,2 Dalton Street,Forbes,2871,Catholic,Primary,-33.379309,148.008506,NSW
+705,St Gregory's Primary School,57 Lowe Street,Queanbeyan,2620,Catholic,Primary,-35.352175,149.240905,NSW
+706,All Saints College,16 Grant Street,Maitland,2320,Catholic,Secondary,-32.73784,151.559996,NSW
+707,Aquinas Catholic College,Anzac Road,Menai,2234,Catholic,Secondary,-34.01997,151.021315,NSW
+708,St Edward's Primary School,Hillvue Rd,Tamworth,2340,Catholic,Primary,-31.112464,150.907992,NSW
+709,Richmond Christian College,7 Gallans Road,Ballina,2478,Independent,Combined,-28.84778,153.545439,NSW
+710,St Peter's Primary School,Ocean Drive,Port Macquarie,2444,Catholic,Primary,-31.456617,152.891881,NSW
+711,St Clare's Catholic Primary School,59 Holdsworth Drive,Narellan Vale,2567,Catholic,Primary,-34.047474,150.748107,NSW
+712,Wyong Christian Community School,Alison Road,Wyong,2259,Independent,Combined,-33.277464,151.415148,NSW
+713,Bethany Catholic Primary School,34-38 William Howell Drive,Glenmore Park,2745,Catholic,Primary,-33.78701,150.670768,NSW
+714,Chisholm Catholic Primary School,30 Collith Ave,Bligh Park,2756,Catholic,Primary,-33.632777,150.802921,NSW
+715,Bethany College,Croydon Road,Hurstville,2220,Catholic,Secondary,-33.961833,151.113118,NSW
+716,St Francis Xavier Primary School,39 Queen Street,Woolgoolga,2456,Catholic,Primary,-30.115154,153.201313,NSW
+717,Central Coast Rudolf Steiner School,Cnr Station East Road and Catamaran Road,Fountaindale,2258,Independent,Combined,-33.339168,151.39562,NSW
+718,St Luke's Grammar School,210 Headland Road,Dee Why,2099,Independent,Combined,-33.759833,151.283881,NSW
+719,St Mark's Coptic Orthodox College,52 Australis Avenue,Wattle Grove,2173,Independent,Combined,-33.955243,150.943183,NSW
+720,Sapphire Coast Anglican College,2 Max Slater Drive,Bega,2550,Independent,Combined,-36.701219,149.838623,NSW
+721,St Mary - St Joseph Catholic Primary School,280 Fitzgerald Avenue,Maroubra Beach,2035,Catholic,Primary,-33.947473,151.252331,NSW
+722,Hawkesbury Independent School,316 Comleroy Road,Kurrajong,2758,Independent,Primary,-33.526659,150.691887,NSW
+723,Shearwater  The Mullumbimby Steiner School,349 Left Bank Road,Mullumbimby,2482,Independent,Combined,-28.548325,153.4965,NSW
+724,St Joseph's Primary School,Cnr Tarcutta and Johnston Streets,Wagga Wagga,2650,Catholic,Primary,-35.107392,147.372628,NSW
+725,Carroll College,2494 George Bass Drive,Broulee,2537,Catholic,Secondary,-35.822058,150.187785,NSW
+726,Australian International Academy  Sydney  Strathfield Campus,416-420 Liverpool Road,Strathfield,2135,Independent,Combined,-33.891742,151.089845,NSW
+727,St Philip's Christian College - Port Stephens,182 Salamander Way,Salamander Bay,2317,Independent,Combined,-32.740585,152.092941,NSW
+728,Trinity Catholic College,13 Park Road,Auburn,2144,Catholic,Secondary,-33.850411,151.02985,NSW
+729,MacKillop College Port Macquarie,151 Greenmeadows Drive and Lochinvar Place,Port Macquarie,2444,Catholic,Secondary,-31.454628,152.896503,NSW
+730,St Joseph's Primary School,3-5 Frances Street,Tweed Heads,2485,Catholic,Primary,-28.171253,153.540751,NSW
+731,St James Primary School,Doyle Drive,Banora Point,2486,Catholic,Primary,-28.222412,153.543376,NSW
+732,Casino Christian School,93 Manifold Road,North Casino,2470,Independent,Combined,-28.811971,153.072893,NSW
+733,Illawarra Christian School,4 Tyalla Place,Cordeaux Heights,2526,Independent,Combined,-34.443449,150.830377,NSW
+734,Mt Carmel School,Dutton Street,Yass,2582,Catholic,Primary,-34.841933,148.909396,NSW
+735,St James Primary School,Carr'S Drive,Yamba,2464,Catholic,Primary,-29.43248,153.333744,NSW
+736,Holy Family Catholic Primary School,40 Isabella Drive,Skennars Head,2478,Catholic,Primary,-28.827809,153.599632,NSW
+737,St John Paul II Catholic College (Schofields),85 Hambledon Road,Schofields,2762,Catholic,Secondary,-33.705273,150.89196,NSW
+738,St Joseph's Primary School,78 Alex Avenue,Schofields,2762,Catholic,Primary,-33.705112,150.888942,NSW
+739,Al Zahra College,3-5 Wollongong Road,Arncliffe,2205,Independent,Combined,-33.933688,151.148249,NSW
+740,M.E.T. School,216 Pennant Hills Road,Oatlands,2117,Independent,Combined,-33.786334,151.032344,NSW
+741,Nazareth Catholic Primary School,3 Glider Avenue,Shellharbour City Centre,2529,Catholic,Primary,-34.568738,150.835526,NSW
+742,Fr John Therry Catholic Primary School,2 Eaton Street,Balmain,2041,Catholic,Primary,-33.859081,151.183417,NSW
+743,Burrabadine Cornerstone Christian School,101R Bunglegumbie Road,Dubbo,2830,Independent,Primary,-32.226374,148.593516,NSW
+744,Montessori East,8 Wellington Street,Bondi,2026,Independent,Primary,-33.893029,151.263958,NSW
+745,Amity College,163 Kurrajong Road,Prestons,2170,Independent,Combined,-33.941944,150.874328,NSW
+746,Rissalah College,54-72 Hampden Road,Lakemba,2195,Independent,Primary,-33.926819,151.080217,NSW
+747,Minimbah Primary School,Galloway Street,Armidale,2350,Independent,Primary,-30.525401,151.655627,NSW
+748,Snowy Mountains Christian School,Cnr Baroona Ave And Boona Street,Cooma North,2630,Independent,Combined,-36.22095,149.129845,NSW
+749,Aim Senior Secondary Music College,17-51 Foveaux Street,Surry Hills,2010,Independent,Secondary,-33.883321,151.208645,NSW
+750,Al Faisal College,149 Auburn Road,Auburn,2144,Independent,Combined,-33.854755,151.031559,NSW
+751,Good Samaritan Catholic College,401 Hoxton Park Road,Hinchinbrook,2168,Catholic,Secondary,-33.926134,150.860114,NSW
+752,Good Shepherd Catholic Primary School,21 Twentieth Avenue,Hoxton Park,2171,Catholic,Primary,-33.93018,150.862437,NSW
+753,Giant Steps Sydney,23 Punt Road,Gladesville,2111,Independent,Special,-33.837903,151.128438,NSW
+754,Deniliquin Christian School,535-549 Henry Street,Deniliquin,2710,Independent,Combined,-35.536532,144.950973,NSW
+755,Nambucca Valley Christian Community School,Centenary Parade,Nambucca Heads,2448,Independent,Combined,-30.642285,152.983626,NSW
+756,Snowy Mountains Grammar School,6339 Kosciuszko Road,Jindabyne,2627,Independent,Combined,-36.416819,148.61053,NSW
+757,Al Amanah College,2-4 Winspear Avenue,Bankstown,2200,Independent,Combined,-33.916443,151.028213,NSW
+758,St Bishoy Coptic Orthodox College,53-59 Methven Street,Mount Druitt,2770,Independent,Combined,-33.762203,150.827357,NSW
+759,Emmanuel Anglican College,62 Horizon Drive,West Ballina,2478,Independent,Combined,-28.859541,153.532927,NSW
+760,Magdalene Catholic High School,Smeaton Grange Road,Narellan,2567,Catholic,Secondary,-34.045062,150.759756,NSW
+761,Mount Annan Christian College,347 Narellan Road,Mount Annan,2567,Independent,Combined,-34.053009,150.774906,NSW
+762,Aetaomah School,2486 Kyogle Road,Terragon,2484,Independent,Primary,-28.444278,153.282663,NSW
+763,Margaret Jurd College,272 Sandgate Road.,Shortland,2307,Independent,Special,-32.913373,151.716531,NSW
+764,Aspect South East Sydney School,Monterra Avenue,Peakhurst,2210,Independent,Special,-33.972765,151.0559,NSW
+765,RIDBC Thomas Pattison School,361-365 North Rocks Road,North Rocks,2151,Independent,Special,-33.767661,151.029206,NSW
+766,Heritage College Lake Macquarie,85 Ironbark Rd,Morisset,2264,Independent,Combined,-33.076659,151.431132,NSW
+767,Blacktown Youth College Incorporated,39 Mackellar Road,Hebersham,2770,Independent,Combined,-33.737383,150.825972,NSW
+768,Sathya Sai School,9 Nullum Street,Murwillumbah,2484,Independent,Combined,-28.32779,153.393048,NSW
+769,Kesser Torah College,Cnr Of Napier And Blake Streets,Dover Heights,2030,Independent,Combined,-33.87225,151.282579,NSW
+770,Xavier Catholic College Ballina,2 Redford Drive,Skennars Head,2478,Catholic,Secondary,-28.829698,153.600101,NSW
+771,Holy Cross Primary School,49 Meurants Lane,Glenwood,2768,Catholic,Primary,-33.736936,150.924047,NSW
+772,Charlton Christian College,43 Fassifern Road,Fassifern,2283,Independent,Combined,-32.98898,151.5825,NSW
+773,D.A.L.E. Christian School,98 Georgetown Road,Waratah,2298,Independent,Special,-32.904984,151.722303,NSW
+774,Thomas More Christian Montessori School,2-6 Willow Court,Bega,2550,Independent,Primary,-36.687541,149.843108,NSW
+775,The John Berne School,1 Thomas Street,Lewisham,2049,Independent,Special,-33.89207,151.148243,NSW
+776,St Philip's Christian College - Cessnock Campus,10 Lomas Lane,Nulkaba,2325,Independent,Combined,-32.843443,151.356084,NSW
+777,Christadelphian Heritage College Sydney Inc,110 Cross Street,Kemps Creek,2178,Independent,Combined,-33.883478,150.791224,NSW
+778,St Andrew's Christian School,84 Washpool Road,Clarenza Via Grafton,2460,Independent,Combined,-29.701348,152.964903,NSW
+779,St Andrews College,116-132 Quakers Road,Marayong,2148,Catholic,Secondary,-33.742284,150.886408,NSW
+780,Clarence Valley Anglican School,39 Victoria Street,Grafton,2460,Independent,Combined,-29.694117,152.932011,NSW
+781,St Catherine of Siena Catholic Primary School,58 Dalmeny Drive,Prestons,2170,Catholic,Primary,-33.952631,150.868678,NSW
+782,Holy Spirit Catholic College,39 Croydon Street,Lakemba,2195,Catholic,Secondary,-33.921743,151.076591,NSW
+783,Xavier College,1170- 1172 Ninth Avenue,Llandilo,2747,Catholic,Secondary,-33.715072,150.728704,NSW
+784,Liberty College,582 Goonoo Goonoo Road,Tamworth,2340,Independent,Primary,-31.140827,150.924326,NSW
+785,Muswellbrook Christian School,30 Sowerby Street,Muswellbrook,2333,Independent,Primary,-32.254363,150.893052,NSW
+786,Australian Christian College: Marsden Park,69 Farm Road,Riverstone,2765,Independent,Combined,-33.678559,150.841762,NSW
+787,Hunter Christian School,Cnr Bull & Kerr Streets,Mayfield,2304,Independent,Combined,-32.889971,151.738795,NSW
+788,Medowie Christian School,6A and 6B Waropara Road,Medowie,2318,Independent,Combined,-32.733917,151.853679,NSW
+789,Key College,122 Little Eveleigh Street,Redfern,2016,Independent,Combined,-33.891796,151.197932,NSW
+790,Montgrove College,140 Bringelly Road,Orchard Hills,2748,Independent,Combined,-33.774826,150.714226,NSW
+791,Bishop Tyrrell Anglican College,256 Minmi Road,Fletcher,2287,Independent,Combined,-32.873346,151.646812,NSW
+792,The Riverina Anglican College,Farrer Road,Wagga Wagga,2650,Independent,Secondary,-35.068765,147.374657,NSW
+793,St Mary and St Mina's Coptic Orthodox College,339-377 Forest Road,Bexley,2207,Independent,Combined,-33.946126,151.127346,NSW
+794,Calrossy Anglican College - William Cowper Campus,242 Moore Creek Road,Tamworth,2340,Independent,Combined,-31.061006,150.913352,NSW
+795,"Dunlea Centre, Australia's Original Boys' Town",35A Waratah Road,Engadine,2233,Independent,Secondary,-34.065036,151.008629,NSW
+796,The Coast Christian School,37 - 39 Bundaleer Cres,Bensville,2251,Independent,Primary,-33.493631,151.390101,NSW
+797,Holy Saviour School,80 Waterloo Road,Greenacre,2190,Independent,Primary,-33.911785,151.056407,NSW
+798,Red Bend Catholic College,College Road,Forbes,2871,Independent,Secondary,-33.418419,148.02163,NSW
+799,Kildare Catholic College,Coleman Street,Wagga Wagga,2650,Catholic,Secondary,-35.122634,147.363584,NSW
+800,Arndell College,118 Wolseley Road,Oakville,2765,Independent,Combined,-33.620111,150.8504,NSW
+801,Richard Johnson Anglican School,93 Hyatts Road,Oakhurst,2761,Independent,Combined,-33.743287,150.835651,NSW
+802,Penrith Anglican College,338-356 Wentworth Road,Orchard Hills,2748,Independent,Combined,-33.783377,150.720781,NSW
+803,Nowra Anglican College,Cnr Princes Highway and West Bunderra Street,Bomaderry,2541,Independent,Combined,-34.857265,150.599905,NSW
+804,Thomas Hassall Anglican College,Cnr Second and Sixteenth Avenues,West Hoxton,2171,Independent,Combined,-33.918729,150.839747,NSW
+805,St Peter's Catholic College,84 Gavenlock Road,Tuggerah,2259,Catholic,Secondary,-33.301912,151.413793,NSW
+806,St Nicholas' Primary School,143-149 Carthage Street,Tamworth,2340,Catholic,Primary,-31.094048,150.937951,NSW
+807,McCarthy Catholic College,Tribe Street,Tamworth,2340,Catholic,Secondary,-31.074671,150.919618,NSW
+808,Trinity Catholic College,Clinton Street,Goulburn,2580,Catholic,Secondary,-34.753082,149.705539,NSW
+809,Kindlehill School,8-12 Lake Street,Wentworth Falls,2782,Independent,Combined,-33.704508,150.374908,NSW
+810,Rouse Hill Anglican College,Corner Rouse Road and Worcester Road,Rouse Hill,2155,Independent,Combined,-33.684396,150.910679,NSW
+811,Mater Dei Catholic College,Plunkett Drive  off Gregadoo Road,Wagga Wagga,2650,Catholic,Secondary,-35.106664,147.360594,NSW
+812,St John's College,Woodlawn Road,Lismore,2480,Catholic,Secondary,-28.784184,153.300445,NSW
+813,St Angela's Primary School,40 Harrington Avenue,Castle Hill,2154,Catholic,Primary,-33.717526,150.971927,NSW
+814,Lumen Christi Catholic College,388 Pambula Beach Road,Pambula Beach,2549,Catholic,Combined,-36.939092,149.899521,NSW
+815,Reddam House,56 Mitchell Street,North Bondi,2026,Independent,Combined,-33.885307,151.276779,NSW
+816,MacKillop Catholic College,91 Sparks Road,Warnervale,2259,Catholic,Combined,-33.243318,151.469158,NSW
+817,Holy Family Primary School,11 Emert Parade,Emerton,2770,Catholic,Primary,-33.744627,150.805854,NSW
+818,Holy Spirit Catholic Primary School,25 Main Street,Carnes Hill,2171,Catholic,Primary,-33.925689,150.849187,NSW
+819,Barrenjoey Montessori School,2 Tasman Road,Avalon,2107,Independent,Primary,-33.6325,151.333,NSW
+820,St Columba Anglican School,43-53 Major Innes Road,Port Macquarie,2444,Independent,Combined,-31.46297,152.87838,NSW
+821,Macleay Vocational College,1-13 Reginald Ward Street,South Kempsey,2440,Independent,Secondary,-31.098508,152.822931,NSW
+822,Trinity Anglican College - Albury,421 Elizabeth Mitchell Drive,Thurgoona,2640,Independent,Combined,-36.030741,146.984214,NSW
+823,Macquarie Anglican Grammar School,11 Currawong Road,Dubbo,2830,Independent,Combined,-32.249321,148.57428,NSW
+824,St Hurmizd Assyrian Primary School,7-9 Greenfield Rd,Greenfield Park,2176,Independent,Combined,-33.871267,150.891309,NSW
+825,St Christopher's Catholic Primary School,205 Heathcote Rd,Holsworthy,2173,Catholic,Primary,-33.952119,150.951725,NSW
+826,Green Valley Islamic College,264 Wilson Road,Green Valley,2168,Independent,Combined,-33.898208,150.867092,NSW
+827,Italian Bilingual School,111 Bowden Street,Meadowbank,2112,Independent,Primary,-33.886895,151.156188,NSW
+828,St Peter's Anglican College - Broulee,61 Train Street,Broulee,2537,Independent,Combined,-35.841898,150.170365,NSW
+829,John XXIII Catholic Primary School,160 Perfection Avenue,Stanhope Gardens,2768,Catholic,Primary,-33.705583,150.92702,NSW
+830,St Mary's Primary School,171 Turf Street,Grafton,2460,Catholic,Primary,-29.694692,152.935422,NSW
+831,St Catherine's Catholic College,30-40 Combo Lane,Singleton,2330,Catholic,Combined,-32.559208,151.180419,NSW
+832,Xavier High School,294 Fallon Street,Albury,2640,Catholic,Secondary,-36.062669,146.935126,NSW
+833,St Mary's College,151 Bloomfield Road,Gunnedah,2380,Catholic,Secondary,-30.98,150.259969,NSW
+834,Manning Valley Anglican College,94 Princes Street,Cundletown,2430,Independent,Combined,-31.898902,152.530176,NSW
+835,Avondale School,119 Avondale Road,Cooranbong,2265,Independent,Combined,-33.063698,151.464957,NSW
+836,Wollondilly Anglican College,3000 Remembrance Drive,Tahmoor,2573,Independent,Combined,-34.229257,150.591102,NSW
+837,Shellharbour Anglican College,Shellharbour Road,Dunmore,2529,Independent,Combined,-34.594975,150.84644,NSW
+838,Brightwaters Christian College,82 Bulgonia Road,Brightwaters,2264,Independent,Primary,-33.111795,151.543076,NSW
+839,Al Sadiq College,114 Waterloo Road,Greenacre,2190,Independent,Combined,-33.906744,151.025185,NSW
+840,Lakes Grammar - An Anglican School,Cnr Sparks Road and Albert Warner Drive,Warnervale,2259,Independent,Combined,-33.246315,151.450845,NSW
+841,ALESCO Senior College,100 Laman Street,Cooks Hill,2300,Independent,Combined,-32.929363,151.768075,NSW
+842,Corpus Christi Catholic High School,Cnr Industrial Road and Moore Street,Oak Flats,2529,Catholic,Secondary,-33.786338,151.032553,NSW
+843,Clancy Catholic College,Carmichael Drive,West Hoxton,2171,Catholic,Secondary,-33.930213,150.844453,NSW
+844,St Clare's Catholic High School,175 Buckwell Drive,Hassall Grove,2761,Catholic,Secondary,-33.734495,150.840445,NSW
+845,St Agnes Catholic High School,Evans Road,Rooty Hill,2766,Catholic,Secondary,-33.772175,150.846102,NSW
+846,Loyola Senior High School,91 North Parade,Mount Druitt,2770,Catholic,Secondary,-33.768032,150.813967,NSW
+847,Moama Anglican Grammar School,2 Kirchhofer Street,Moama,2731,Independent,Combined,-36.100468,144.75067,NSW
+848,Australian Performing Arts Grammar School,255 Broadway,Glebe,2037,Independent,Secondary,-33.874684,151.181453,NSW
+849,St Mark's Catholic College,160 Perfection Avenue,Stanhope Gardens,2768,Catholic,Secondary,-33.705685,150.929069,NSW
+850,Woodbury,Building 11  92 Seven Hills Road,Baulkham Hills,2153,Independent,Special,-33.764333,150.97966,NSW
+851,Ebenezer Christian College,441 Blacktown Road,Prospect,2148,Independent,Combined,-33.806401,150.926511,NSW
+852,Warakirri College,Level 1  1-3 Hamilton Road,Fairfield,2165,Independent,Secondary,-33.814467,150.999558,NSW
+853,Saint Mary MacKillop Colleges Limited,20 Hely Ave,Wagga Wagga,2650,Independent,Combined,-35.110911,147.352081,NSW
+854,Hunter Trade College,Cnr Mount Dee Road and Junction Street,Telarah,2320,Independent,Secondary,-32.739603,151.537192,NSW
+855,Newman Senior Technical College,Boundary Street,Port Macquarie,2444,Catholic,Secondary,-31.427003,152.870033,NSW
+856,Orange Anglican Grammar School,7 Murphy Lane,Orange,2800,Independent,Combined,-33.280722,149.098433,NSW
+857,Wollemi College,14 Gipps Street,Werrington,2747,Independent,Secondary,-33.7646,150.7553,NSW
+858,Unity Grammar College,70 Fourth Avenue,Austral,2179,Independent,Combined,-33.944694,150.802523,NSW
+859,Mother Teresa Primary School,2a Darcy Road,Westmead,2145,Catholic,Primary,-33.803397,150.984154,NSW
+860,Sydney Adventist School - Auburn,3 Macquarie Road,Auburn,2144,Independent,Primary,-33.8749,151.079,NSW
+861,St Joseph's Regional College,College Drive,Port Macquarie,2444,Catholic,Secondary,-31.429396,152.898328,NSW
+862,Bellfield College,29 - 31 Rossmore Avenue West,Rossmore,2557,Independent,Combined,-33.941562,150.766599,NSW
+863,Yeshiva College,36 Flood Street,Bondi,2026,Independent,Combined,-33.891831,151.259389,NSW
+864,Trades Norwest Anglican Senior College,1000 Old Windsor Road,Glenwood,2768,Independent,Secondary,-33.7464,150.901,NSW
+865,Pacific Coast Christian School,3a Acacia Street,Tweed Heads South,2486,Independent,Combined,-28.197637,153.520713,NSW
+866,Our Lady of the Angels Primary School,1 Wellgate Avenue,Kellyville,2155,Catholic,Primary,-33.683958,150.933018,NSW
+867,Saint Mary MacKillop College Albury,197 Urana Road,Jindera,2642,Independent,Combined,-35.951768,146.887464,NSW
+868,Pacific Valley Christian School,8 Edinburgh Drive,Townsend,2463,Independent,Combined,-29.462867,153.217315,NSW
+869,Lindfield Montessori Preschool,9 Moore Street,West Lindfield,2070,Independent,Primary,-33.777789,151.148357,NSW
+870,WAYS Secondary,63a Wairoa Avenue,Bondi,2026,Independent,Secondary,-33.886915,151.279192,NSW
+871,Cameragal Montessori School,2B  Montpelier Street,Neutral Bay,2089,Independent,Primary,-33.8428,151.2078,NSW
+872,Karuna Montessori School,48-50 Parr Parade,Narraweena,2099,Independent,Primary,-33.74781,151.276408,NSW
+873,Albury Wodonga Community College  Albury,327B Kiewa Street,Albury,2640,Independent,Secondary,-36.0897,146.9133,NSW
+874,St Justin's Catholic Primary School,94 Oran Park Drive,Oran Park,2570,Catholic,Primary,-34.020017,150.742401,NSW
+875,St Benedict's Catholic College,70 Oran Park Drive,Oran Park,2570,Catholic,Secondary,-34.025859,150.699271,NSW
+876,Redfern Jarjum College,117 Redfern Street,Redfern,2016,Independent,Primary,-33.892973,151.20261,NSW
+877,Farmhouse Montessori School,9 Bardoo Avenue,North Balgowlah,2093,Independent,Primary,-33.783352,151.246409,NSW
+878,Macquarie Grammar School,225 Clarence Street Levels 4 and 8,Sydney,2000,Independent,Secondary,-33.8701,151.205138,NSW
+879,St Andrew's Cathedral Gawura School,Sydney Square,Sydney,2000,Independent,Primary,-33.873934,151.205644,NSW
+880,TLK Alesco School,Old School Place  80 Shannon Parade,Berkeley Vale,2261,Independent,Secondary,-33.34772,151.435601,NSW
+881,ALESCO Illawarra,50-52 Auburn Street,Wollongong,2500,Independent,Secondary,-34.430408,150.88851,NSW
+882,Alpha Omega Senior College,Level 4  1-5 Harrow Road,Auburn,2144,Independent,Secondary,-33.850765,151.031329,NSW
+883,Aspect Macarthur School,229 Macquarie Grove Road,Cobbitty,2570,Independent,Special,-34.032094,150.705575,NSW
+884,Aspect Riverina School,437 Olive Street,Albury,2640,Independent,Special,-36.084338,146.917576,NSW
+885,St Andrew's Cathedral School,St Andrew's House 474 Kent Street,Sydney,2000,Independent,Combined,-33.873885,151.205524,NSW
+886,Rosary Park Catholic School,Station Street,Branxton,2335,Catholic,Primary,-32.656321,151.347359,NSW
+887,St Ambrose Catholic Primary School,Lot 3  Elizabeth Street,Pottsville,2689,Catholic,Primary,-28.39192,153.56294,NSW
+888,Salamah College,40 Hector Street,Chester Hill,2162,Independent,Combined,-33.875947,151.005794,NSW
+889,Al Hikma College,291 Haldon Street,Lakemba,2195,Independent,Primary,-33.926124,151.081249,NSW
+890,Pittwater House Schools,Westmoreland Avenue,Collaroy,2097,Independent,Combined,-33.741707,151.29277,NSW
+891,EDEN College,86 Parliament Road,Macquarie Fields,2564,Independent,Secondary,-33.989261,150.891887,NSW
+892,St Carthage's Primary School,2 Dawson Street,Lismore,2480,Catholic,Primary,-28.803682,153.284482,NSW
+893,Good Samaritan Catholic Primary School,48 McGrath Street,Fairy Meadow,2519,Catholic,Primary,-34.39783,150.890116,NSW
+894,Western Grammar School,15 Cannery Road,Plumpton,2671,Independent,Combined,-33.74973,150.835912,NSW
+895,St Brigid's Catholic College,48 Carters Road,Lake Munmorah,2259,Catholic,Secondary,-33.187111,151.573255,NSW
+896,ET Australia Secondary College,123 Donnison Street,Gosford,2250,Independent,Secondary,-33.427621,151.342756,NSW
+897,Wollongong Flexible Learning Centre,440-450 Princes Highway,Towradgi,2518,Independent,Secondary,-34.38325,150.895325,NSW
+898,Aurora Southern Highlands Steiner School,15-17 Kirkham Road,Bowral,2576,Independent,Primary,-34.471784,150.419022,NSW
+899,International Football School,16 The Avenue Mt Penang Parklands,Kariong,2250,Independent,Combined,-33.429124,151.298282,NSW
+900,Pal Buddhist School,14 First Avenue,Canley Vale,2166,Independent,Secondary,-33.887851,150.943881,NSW
+901,Irfan College,2089 Elizabeth Drive,Cecil Park,2178,Independent,Combined,-33.876415,150.825571,NSW
+902,St Aloysius Catholic Primary School,24 Heritage Drive,Chisholm,2322,Catholic,Primary,-32.7558,151.6332,NSW
+903,Craig Davis College,72-98 Staff Road,Cordeaux Heights,2526,Independent,Secondary,-34.446484,150.830947,NSW
+904,Ngaruki Gulgul,Gate 1  Kangoo Road,Kariong,2250,Independent,Secondary,-33.427649,151.290301,NSW
+905,Western College Alesco Learning Centre,37 Cobbora Road,Dubbo,2830,Independent,Combined,-32.243946,148.618789,NSW
+906,Australian International Academy  Kellyville Campus,57-69 Samantha Riley Drive,Kellyville,2155,Independent,Combined,-33.697254,150.963129,NSW
+907,Our Lady of the Assumption Catholic Primary School,1a Hamilton Street East,North Strathfield,2137,Catholic,Primary,-33.858,151.0864,NSW
+908,St Mary's Flexible Learning Centre,63 Forrester Rd,St Mary's,2760,Independent,Secondary,-33.760372,150.775405,NSW
+909,The Anglican School Googong,136 Gorman Drive,Googong,2620,Independent,Primary,-35.42238,149.23263,NSW
+910,Pacific Hope School,3a Acacia Street,Tweed Heads South,2486,Independent,Special,-28.197637,153.520713,NSW
+911,Eileen O???onnor Catholic College,7 Thomas Street,Lewisham,2049,Catholic,Special,-33.892776,151.148653,NSW
+912,New Hope School,9-15 Quarry Road,Dural,2158,Independent,Special,-33.69576,151.03891,NSW
+913,Eagle Arts and Vocational College,139 Colonial Drive,BLIGH PARK,2756,Independent,Secondary,-31.985556,141.467656,NSW
+914,The Waranara Centre,434 Marrickville Rd,Marrickville,2204,Independent,Secondary,-33.907792,151.148614,NSW
+915,Kingdom Culture Christian School,19 Dowling Street,Arncliffe,2205,Independent,Primary,-33.936132,151.138979,NSW
+916,St Luke's Catholic College (Primary),Lot 1104 Cnr Frontier Avenue & Northbourne Drive,MARSDEN PARK,2765,Catholic,Primary,-33.69893,150.819333,NSW
+917,Skillset Senior College,390 Panorama Avenue,Mitchell,2795,Independent,Secondary,-33.43673,149.56417,NSW
+918,International Chinese School,1 View Street,Chatswood,2067,Independent,Primary,-33.795121,151.177478,NSW
+919,St Patrick's Catholic Primary School,1 Adam Street,MORTLAKE,2137,Catholic,Primary,-33.8473272,151.1083142,NSW
+920,St Anthony of Padua Catholic School,Eleventh Avenue,AUSTRAL,2179,Catholic,Primary,-33.930688,150.810199,NSW
+921,SEDA College,180 George St,Redfern,2016,Independent,Secondary,-33.89496,151.201626,NSW
+922,Al-Faisal College - Liverpool,83-87 Gurner Avenue,Austral,2179,Independent,Combined,-33.90998,150.810256,NSW
+923,Al-Faisal College - Campbelltown,10 Benham Road,Minto,2566,Independent,Combined,-34.02223,150.857622,NSW
+924,D.A.L.E. Young Parents School,98 Georgetown Road,Waratah,2298,Independent,Secondary,-32.906787,151.723149,NSW
+925,Pete's Place,151 Reservoir Road,Blacktown,2148,Independent,Secondary,-33.790439,150.900217,NSW
+926,Cranbrook School,6a Kent Rd,Rose Bay,2029,Independent,Combined,-33.873565,151.265237,NSW
+927,Knox Grammar School,Billyard Avenue,Wahroonga,2076,Independent,Combined,-33.718483,151.120906,NSW
+928,Meriden School,36 Redmyre Rd,Strathfield,2135,Independent,Combined,-33.87384,151.091718,NSW
+929,Newington College,26 Northcote Rd,Lindfield,2070,Independent,Combined,-33.768823,151.172395,NSW
+930,The Scots College,Mansion Rd,Bellevue Hill,2023,Independent,Combined,-33.879915,151.253889,NSW
+931,The Scots College,Jack's Corner Road,Kangaroo Valley,2577,Independent,Combined,-34.728633,150.450948,NSW
+932,Trinity Grammar School,125 The Boulevarde,Strathfield,2135,Independent,Combined,-33.881995,151.091679,NSW
+933,St George Christian School,4 Hillview St,Sans Souci,2219,Independent,Combined,-33.986826,151.134441,NSW
+934,St Spyridon College,1130 Anzac Parade,Maroubra,2035,Independent,Combined,-33.955014,151.244024,NSW
+935,Santa Sabina College,59/63 The Boulevarde,Strathfield,2135,Independent,Combined,-33.877508,151.094737,NSW
+936,Queenwood School for Girls Ltd,6 Queen Street,Mosman,2088,Independent,Combined,-33.834768,151.242551,NSW
+937,Coffs Harbour Christian Community School,Curacoa Street,Coffs Harbour,2450,Independent,Combined,-30.299792,153.120744,NSW
+938,Sydney Church of England Co-Educational Grammar School  Redlands,Murdoch Street,Cremorne,2090,Independent,Combined,-33.832115,151.227214,NSW
+939,St Gregory's Primary School,MacQuoid St,Queanbeyan,2620,Catholic,Primary,-35.352722,149.240583,NSW
+940,St Edward's Primary School,Robert Street,Tamworth,2340,Catholic,Primary,-31.108784,150.914716,NSW
+941,All Saints College,9 Free Church Street,Maitland,2320,Catholic,Secondary,-32.734305,151.559253,NSW
+942,All Saints College,New England Highway,Lochinvar,2321,Catholic,Secondary,-32.697761,151.45795,NSW
+943,St Aloysius' College,29 Burton Street,Milsons Point,2061,Independent,Combined,-33.846599,151.213707,NSW
+944,Glenaeon Rudolf Steiner School,117 Edinburgh Rd,Castlecrag,2068,Independent,Combined,-33.802123,151.214896,NSW
+945,Waverley College,44 Henrietta Street,Waverley,2024,Independent,Combined,-33.900808,151.257624,NSW
+946,Trinity Catholic College,39 Regent St,Regents Park,2143,Catholic,Secondary,-33.878902,151.027758,NSW
+947,All Saints Greek Orthodox Grammar School,31 Forsyth Street,South Belmore,2192,Independent,Combined,-33.929323,151.095355,NSW
+948,Lindisfarne Anglican School,Sunshine Avenue,Tweed Heads,2486,Independent,Combined,-28.195998,153.533599,NSW
+949,Aspect South East Sydney School,116 Chapel Road,Marrickville,2204,Independent,Special,-33.890544,151.215239,NSW
+950,St Andrews College,50 Breakfast Road,Marayong,2148,Catholic,Secondary,-33.748997,150.88958,NSW
+951,St John Paul ll Catholic College (Schofields),Nirimba Education Precinct/Eastern Road,Quakers Hill,2763,Catholic,Secondary,-33.725727,150.88093,NSW
+952,Amity College,399 Shellharbour Road,Shellharbour,2529,Independent,Combined,-34.573432,150.864045,NSW
+953,Newington College,117 Cambridge Street,Stanmore,2048,Independent,Combined,-33.895219,151.166692,NSW
+954,Newcastle Grammar School,127 Union Street,Cooks Hill,2300,Independent,Combined,-32.935149,151.762356,NSW
+955,Amity College,26-28 Kerr Parade,Auburn,2144,Independent,Combined,-33.852581,151.034379,NSW
+956,M.E.T. School,84A Princes Highway,Darkes Forest,2518,Independent,Combined,-34.363225,150.903841,NSW
+957,M.E.T. School,253-257 Dalton Street,East Orange,2800,Independent,Combined,-33.27701,149.107076,NSW
+958,Al Amanah College,55 Speed Street,Liverpool,2170,Independent,Combined,-33.930181,150.921069,NSW
+959,M.E.T. School,84 Great Western Highway,Mount Victoria,2786,Independent,Combined,-33.589042,150.252934,NSW
+960,Tangara School for Girls,3 Elliot Street,Belfield,2135,Independent,Combined,-33.8875,151.105,NSW
+961,Arden Anglican School,50 Oxford Street,Epping,2121,Independent,Combined,-33.77059,151.084067,NSW
+962,Blue Mountains Grammar School,Tusculum Road,Valley Heights,2777,Independent,Combined,-33.703699,150.577909,NSW
+963,Reddam House,70 Edgecliff Road,Woollahra,2025,Independent,Combined,-33.889349,151.252996,NSW
+964,Reddam House,78 Edgecliff Road,Woollahra,2025,Independent,Combined,-33.88931,151.252338,NSW
+965,M.E.T. School,642 Pearsall Street,Lavington,2641,Independent,Combined,-36.037108,146.911435,NSW
+966,Key College,74-98 Kenyons Road,Merrylands,2160,Independent,Combined,-33.837151,150.991728,NSW
+967,M.E.T. School,120 Taralga Road,Goulburn,2580,Independent,Combined,-34.723561,149.74435,NSW
+968,M.E.T. School,251 Donnelly Street,Armidale,2350,Independent,Combined,-30.504046,151.656089,NSW
+969,St Edward's Christian Brothers College,165 Serpentine Road,Terrigal,2260,Independent,Secondary,-33.445807,151.428832,NSW
+970,M.E.T. School,95 Officers Parade,Condobolin,2877,Independent,Combined,-33.094562,147.138678,NSW
+971,M.E.T. School,35b Bruce Street,Tolland,2650,Independent,Combined,-35.143312,147.34339,NSW
+972,Clarence Valley Anglican School,74 Centenary Drive,Clarenza,2460,Independent,Combined,-29.7181,152.966,NSW
+973,Aspect South East Sydney School,2 Mikarie Place,Kirrawee,2232,Independent,Special,-34.034335,151.076926,NSW
+974,St Mary and St Mina's Coptic Orthodox College,4-5 Alexandra Parade,Rockdale,2216,Independent,Combined,-33.957282,151.133513,NSW
+975,St Hurmizd Assyrian Primary School,673 - 683 Smithfield Road,Edensor Park,2176,Independent,Combined,-33.883232,150.888201,NSW
+976,M.E.T. School,Lot 696  Poplar Avenue,Leeton,2705,Independent,Combined,-34.552084,146.401603,NSW
+977,Montgrove College,14 Gipps Street,Werrington,2747,Independent,Combined,-33.775496,150.713489,NSW
+978,M.E.T. School,12 River Park Road,Cowra,2794,Independent,Combined,-33.838396,148.659561,NSW
+979,The Scots School,Col Drew Drive,Lithgow,2790,Independent,Combined,-33.500073,150.127903,NSW
+980,Al Sadiq College,178 Cooper Road,Yagoona,2199,Independent,Combined,-33.9097,151.056,NSW
+981,M.E.T. School,36-38 Fieldsend Street,East Maitland,2323,Independent,Combined,-32.755375,151.599923,NSW
+982,St Dominic's College,53 Evan Street,Penrith,2750,Independent,Combined,-33.759006,150.700804,NSW
+983,Blacktown Youth College Incorporated,1 Yileena Avenue,Lawson,2783,Independent,Combined,-33.719006,150.430759,NSW
+984,Cameragal Montessori School,Cnr Lavender and Walker Streets,North Sydney,2060,Independent,Primary,-33.842823,151.207838,NSW
+985,Al Noori Muslim School,93 Greenacre Road,Greenacre,2190,Independent,Combined,-33.911192,151.049296,NSW
+986,Chrysalis School for Rudolf Steiner Education,1 Elliot Close,Bellingen,2454,Independent,Combined,-30.442505,152.89509,NSW
+987,Inner Sydney Montessori School,8 Trevor Street,Lilyfield,2040,Independent,Primary,-33.872575,151.162616,NSW
+988,Barker College,9-17 Clark Road,Waitara,2077,Independent,Combined,-33.713637,151.100865,NSW
+989,Aspect Macarthur School,Heathcote Road,Holsworthy,2173,Independent,Special,-33.988039,150.992366,NSW
+990,Aspect Macarthur School,Cnr Stafford Road & Guernsey Avenue,Minto,2566,Independent,Special,-34.025715,150.853389,NSW
+991,Aspect Macarthur School,11A Perry Street,Alstonville,2477,Independent,Special,-28.837849,153.437739,NSW
+992,D.A.L.E. Christian School,10 Lomas Lane,Nulkaba,2325,Independent,Special,-32.843188,151.35748,NSW
+993,Aspect Riverina School,235-245 Lake Albert Road,Kooringal,2650,Independent,Special,-35.137843,147.377032,NSW
+994,Aspect Riverina School,444 Kiewa Street,Albury,2640,Independent,Special,-36.083965,146.91583,NSW
+995,Aspect Riverina School,294-300 Fallon Street,Albury,2640,Independent,Special,-36.065348,146.949999,NSW
+996,Aspect Macarthur School,201 Carmichael drive,West Hoxton,2171,Independent,Special,-33.93221,150.8357,NSW
+997,Malek Fahd Islamic School,20 Mungerie Road,Beaumont Hills,2155,Independent,Combined,-33.69156,150.9394,NSW
+998,Malek Fahd Islamic School,210 Pacific Palms Circuit,Hoxton Park,2171,Independent,Combined,-33.92707,150.85128,NSW
+999,Hills Adventist College,4 Gum Nut Close,Kellyville,2155,Independent,Combined,-33.697626,150.955172,NSW
+1000,D.A.L.E. Christian School,20 Narara Creek Road,Narara,2250,Independent,Special,-33.409108,151.334319,NSW
+1001,Cameragal Montessori School,12 Miller Street,North Sydney,2060,Independent,Primary,-33.842345,151.205923,NSW
+1002,Calrossy Anglican College - William Cowper Campus,140 Brisbane St,Tamworth,2340,Independent,Combined,-31.083837,150.9385,NSW
+1003,St Patrick's Parish School,34 and 37 Murray Street,Cooma,2630,Catholic,Combined,-36.237568,149.127061,NSW
+1004,Farmhouse Montessori School,Building 6 North Head Scenic Drive  North Head Sanctuary,Manly,2095,Independent,Primary,-33.812,151.2949,NSW
+1005,Eagle Arts and Vocational College,139 Colonial Drive,Bligh Park,2756,Independent,Secondary,-33.63803,150.80401,NSW
+1006,Wahroonga Adventist School,181 Fox Valley Road,Wahroonga,2076,Independent,Combined,-33.732723,151.100915,NSW
+1007,Coffs Harbour Christian Community School,1756 Sherwood Creek Road,Glenreagh,2450,Independent,Combined,-30.053724,152.976376,NSW
+1008,ALESCO Senior College,8 Glenelg Street,Raymond Terrace,2324,Independent,Combined,-32.763961,151.741555,NSW
+1009,ALESCO Senior College,31 Manning Street,Tuncurry,2324,Independent,Combined,-32.173417,152.498849,NSW
+1010,ALESCO Senior College,Darwin Street,Cessnock,2325,Independent,Combined,-32.836369,151.353793,NSW
+1011,D.A.L.E. Young Parents School,2A  1-10 Amy Close,Wyong,2259,Independent,Secondary,-33.266285,151.435804,NSW
+1012,Barker College,1560 Yarramalong Road,Yarramalong,2259,Independent,Combined,-33.227804,151.283184,NSW
+1013,Aspect Macarthur School,28 Loaders Lane,Coffs Harbour,2450,Independent,Special,-30.288406,153.09181,NSW
+1014,Knox Grammar School,61 Coonabarra Street,Wahroonga,2076,Independent,Combined,-33.715011,151.117534,NSW
+1015,The Waranara Centre,461-463 Oxford St,Paddington,2021,Independent,Secondary,-33.888658,151.23153,NSW
+1016,Eagle Arts and Vocational College,20-22 Kincumber Street,Kincumber,2251,Independent,Secondary,-33.466721,151.381877,NSW
+1017,St Luke's Grammar School,1977 Pittwater Road,Bayview,2104,Independent,Combined,-33.6572597,151.2953437,NSW
+1018,Oran Park Anglican College,60 Central Avenue,ORAN PARK,2570,Independent,Combined,-34.0022352,150.7445234,NSW
+1019,Valley Hope School,8 Edinburgh Drive,TOWNSEND,2463,Independent,Special,-29.4613813,153.2184164,NSW
+1020,Nautilus Senior College,77 Hastings River Drive,Port Macquarie,2444,Independent,Secondary,-31.4308209,152.8888568,NSW
+1021,Coffs Coast Alesco School,Level 1 66-90 Harbour Drive,Coffs Harbour,2450,Independent,Secondary,-30.2975606,153.1152696,NSW
+1022,ALESCO Illawarra,Park Road,Nowra,2541,Independent,Secondary,-34.897145,150.612141,NSW
+1023,ALESCO Illawarra,36 Fowlers Road,Koonawarra,2530,Independent,Secondary,-34.502488,150.809906,NSW
+1024,ALESCO Illawarra,253 Princess Highway,Bulli,2516,Independent,Secondary,-34.33463,150.913382,NSW
+1025,St Francis Catholic College,130-160 Jardine Drive,Edmondson Park,2174,Catholic,Combined,-33.962905,150.852484,NSW
+1026,New Madinah College,14 Lachlan Street,Young,2594,Independent,Primary,-34.318116,148.302089,NSW
+1027,Richard Johnson Anglican School,Clifton Road,Marsden Park,2765,Independent,Combined,-33.690533,150.847457,NSW
+1028,The Lakes College,1 Aspley Court,Blue Haven,2262,Independent,Secondary,-33.212678,151.504372,NSW
+1029,Calderwood Christian School,234 Calderwood Road,CALDERWOOD,2527,Independent,Combined,-34.556932,150.75494,NSW
+1030,SEDA College,Building 46  Sydney Olympic Park Holker Street,Newington,2127,Independent,Secondary,-33.833751,151.063619,NSW
+1031,The Waranara Centre,2 South Street,Marrickville,2204,Independent,Secondary,-33.908008,151.148561,NSW
+1032,The Central Coast Montessori Primary School,10-12 Debra Anne Drive,Bateau Bay,2261,Independent,Primary,-33.37917,151.457153,NSW
+1033,Currawah Aboriginal Education Centre,Lot 5034 Arthur Hall VC Way,GONGOLGON,2839,Independent,Secondary,-30.24638,146.888877,NSW
+1034,Sathya Sai School,16 Jack Williams Place,Dungay,2484,Independent,Combined,-28.288489,153.379348,NSW
