@@ -14,7 +14,7 @@ def date_convert(data):
 
 
 def nt():
-    file = pd.ExcelFile('Northern Territory_data.xlsx')
+    file = pd.ExcelFile('ori/Northern Territory_data.xlsx')
     nt = file.parse(sheet_name='2011-2018', header=None)
 
     for i in range(len(nt.columns)):

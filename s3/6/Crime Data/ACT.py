@@ -2,13 +2,10 @@ import sys
 import pandas as pd
 import numpy as np
 
-def clean_act_data(year='2017'):
-    act = pd.read_excel('ACT_data.xlsx', sheet_name=year, header=[0, 1])
+def clean_act_data(year, act):
 
     check_nan(act)
-
     act.fillna('null', inplace=True)
-
     tmp_val = 'null'
     for index in range(len(act)):
         if act[('Unnamed: 0_level_0', 'district')].values[index] != 'null':
@@ -41,17 +38,20 @@ def check_nan(act):
         if count == len(act[df_num].isna().all()):
             act.drop(columns=[df_num], inplace=True)
         
-def act():
-    act_file = pd.ExcelFile('ACT_data.xlsx')
+def act(data_path):
+    act_file = pd.ExcelFile(data_path)
+    
     for i in range(len(act_file.sheet_names)):
-        clean_act_data(act_file.sheet_names[i])
+        act = act_file.parse(sheet_name=act_file.sheet_names[i], header=[0, 1])
+        clean_act_data(year=act_file.sheet_names[i], act=act)
 
 
 if __name__ == "__main__":
+    data_path = 'ori/ACT_data.xlsx'
     # try:
     #     year = sys.argv[1:]
     #     for i in range(len(year)):
     #         clean_act_data(year[i])
     # except Exception as e:
     #     print(e)
-    act()
+    act(data_path)

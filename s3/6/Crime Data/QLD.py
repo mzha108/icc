@@ -13,7 +13,7 @@ def date_convert(data):
         return 'Q4'
 
 def qld():
-    qld = pd.read_csv('Queensland_data.csv')
+    qld = pd.read_csv('ori/Queensland_data.csv')
     qld.drop(columns=['Unnamed: 90'], inplace=True)
 
     for i in range(len(qld)):
